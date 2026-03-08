@@ -35,16 +35,21 @@ app = FastAPI(
 
 @app.on_event("startup")
 def _warmup():
-    """Pre-load the sentence-transformers embedding model so first query is fast."""
+    """Pre-load the embedding model in a background thread so /health responds immediately."""
     import logging
+    import threading
     log = logging.getLogger(__name__)
-    log.info("Warming up embedding model…")
-    try:
-        from phase4_retrieval_engine.embedding import get_embedding_model
-        get_embedding_model()
-        log.info("Embedding model ready.")
-    except Exception as e:
-        log.warning("Embedding model warm-up failed (will retry on first query): %s", e)
+
+    def _load():
+        log.info("Warming up embedding model…")
+        try:
+            from phase4_retrieval_engine.embedding import get_embedding_model
+            get_embedding_model()
+            log.info("Embedding model ready.")
+        except Exception as e:
+            log.warning("Embedding model warm-up failed (will retry on first query): %s", e)
+
+    threading.Thread(target=_load, daemon=True).start()
 
 
 app.add_middleware(
