@@ -18,3 +18,9 @@ integration_tests/
 prompts.md
 architecture.md
 README.md
+add_prompt.py
+.streamlit/
+**/tests/
+**/output/
+**/write_sample_outputs.py
+**/*.webp

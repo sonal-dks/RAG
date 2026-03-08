@@ -1,15 +1,28 @@
-FROM python:3.12-slim
+# ---- Stage 1: Builder ----
+FROM python:3.12-slim AS builder
 
-WORKDIR /app
+WORKDIR /build
 
-# System deps for chromadb (sqlite3) and sentence-transformers
 RUN apt-get update && \
     apt-get install -y --no-install-recommends build-essential && \
     rm -rf /var/lib/apt/lists/*
 
-# Install Python deps (backend only — no playwright/streamlit needed at runtime)
 COPY requirements-backend.txt .
-RUN pip install --no-cache-dir -r requirements-backend.txt
+RUN pip install --no-cache-dir --prefix=/install -r requirements-backend.txt
+
+# Pre-download the sentence-transformers model so it's baked into the image
+RUN PYTHONPATH=/install/lib/python3.12/site-packages \
+    python -c "from sentence_transformers import SentenceTransformer; SentenceTransformer('sentence-transformers/all-MiniLM-L6-v2')"
+
+# ---- Stage 2: Runtime ----
+FROM python:3.12-slim
+
+WORKDIR /app
+
+# Copy installed packages from builder
+COPY --from=builder /install /usr/local
+# Copy cached model from builder
+COPY --from=builder /root/.cache/huggingface /root/.cache/huggingface
 
 # Copy application code
 COPY phase2_input_guardrails/ phase2_input_guardrails/
@@ -21,7 +34,6 @@ COPY phase7_backend/ phase7_backend/
 COPY data/ data/
 COPY .env.example .env.example
 
-# Port (Railway sets PORT env var)
 EXPOSE 8000
 
 CMD ["python", "-m", "uvicorn", "phase7_backend.app:app", "--host", "0.0.0.0", "--port", "8000"]

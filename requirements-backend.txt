@@ -1,5 +1,7 @@
-chromadb>=0.4.0
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
 sentence-transformers>=2.2.0
+chromadb>=0.4.0
 groq>=0.4.0
 python-dotenv>=1.0.0
 fastapi>=0.109.0
