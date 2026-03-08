@@ -43,11 +43,15 @@ class _ChromaSettingsPatcher(importlib.abc.MetaPathFinder):
             @staticmethod
             def exec_module(module):
                 original_loader.exec_module(module)
-                if hasattr(module, "Settings"):
-                    module.Settings.model_config = {
-                        **module.Settings.model_config,
-                        "env_file": None,
-                    }
+                if not hasattr(module, "Settings"):
+                    return
+                S = module.Settings
+                # Pydantic v2: dict attribute `model_config`
+                if hasattr(S, "model_config") and isinstance(S.model_config, dict):
+                    S.model_config = {**S.model_config, "env_file": None}
+                # Pydantic v1: inner `class Config`
+                elif hasattr(S, "Config"):
+                    S.Config.env_file = None
 
         real_spec.loader = _PatchingLoader()
         return real_spec
