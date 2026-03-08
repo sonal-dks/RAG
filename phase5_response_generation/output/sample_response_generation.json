@@ -1,0 +1,11 @@
+{
+  "user_query": "What is the expense ratio of Quant Small Cap Fund?",
+  "retrieved_context_preview": "---\nexpense_ratio: 0.77% (Direct). The fund has no exit load.\nSource: https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth\n---\nQuant Small Cap Fund Direct Plan Growth. Equity - Small Cap. Risk: Very High.\nSource: https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth\n---\n",
+  "retrieved_context_length": 304,
+  "result": {
+    "raw_response": "Service temporarily unavailable. Please try again later.",
+    "model_used": null,
+    "api_called": false
+  },
+  "note": "Placeholder (GROQ_API_KEY not set). Set it for a real response."
+}

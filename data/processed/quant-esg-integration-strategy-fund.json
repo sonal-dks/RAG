@@ -1,0 +1,418 @@
+{
+  "fund_key": "quant-esg-integration-strategy-fund",
+  "fund_name": "Quant ESG Integration Strategy Fund Direct Growth",
+  "source_url": "https://groww.in/mutual-funds/quant-esg-integration-strategy-fund-direct-growth",
+  "basic_info": {
+    "nav": "34.03",
+    "nav_date": "06 Mar '26",
+    "fund_size_cr": "251.72",
+    "expense_ratio_pct": "0.93",
+    "min_sip": "1,000"
+  },
+  "fund_category_and_risk": {
+    "fund_category": "Equity",
+    "fund_type": "ESG",
+    "risk_level": "Very High Risk"
+  },
+  "performance_returns": {
+    "1D": "-1.14%",
+    "1M": "-3.87%",
+    "6M": "-1.04%",
+    "1Y": "+8.96%",
+    "3Y": "+15.99%",
+    "5Y": "+21.10%",
+    "All": "+25.81%"
+  },
+  "return_calculator": {
+    "monthly_investment_used": "1000",
+    "sip": [
+      {
+        "Over the past": "3 months",
+        "Total investment": "₹3,000",
+        "Would've become": "₹3,136",
+        "Returns": "+4.53%"
+      },
+      {
+        "Over the past": "6 months",
+        "Total investment": "₹6,000",
+        "Would've become": "₹6,435",
+        "Returns": "+7.25%"
+      },
+      {
+        "Over the past": "1 year",
+        "Total investment": "₹12,000",
+        "Would've become": "₹12,273",
+        "Returns": "+2.27%"
+      },
+      {
+        "Over the past": "3 years",
+        "Total investment": "₹36,000",
+        "Would've become": "₹47,016",
+        "Returns": "+30.60%"
+      }
+    ],
+    "sip_return_rates": [
+      {
+        "period": "3 months",
+        "return_pct": 4.53
+      },
+      {
+        "period": "6 months",
+        "return_pct": 7.25
+      },
+      {
+        "period": "1 year",
+        "return_pct": 2.27
+      },
+      {
+        "period": "3 years",
+        "return_pct": 30.6
+      }
+    ]
+  },
+  "holdings": [
+    {
+      "Name": "Adani Enterprises Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "9.08%"
+    },
+    {
+      "Name": "Nifty Bank",
+      "Sector": "Financial",
+      "Instruments": "ID",
+      "Assets": "8.85%"
+    },
+    {
+      "Name": "Adani Green Energy Ltd.",
+      "Sector": "Capital Goods",
+      "Instruments": "Equity",
+      "Assets": "7.99%"
+    },
+    {
+      "Name": "Piramal Finance Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "7.95%"
+    },
+    {
+      "Name": "Bajaj Auto Ltd.",
+      "Sector": "Automobile",
+      "Instruments": "Equity",
+      "Assets": "7.52%"
+    },
+    {
+      "Name": "Adani Energy Solutions Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Equity",
+      "Assets": "6.68%"
+    },
+    {
+      "Name": "ICICI Prudential Life Insurance Company Ltd.",
+      "Sector": "Insurance",
+      "Instruments": "Equity",
+      "Assets": "5.86%"
+    },
+    {
+      "Name": "ICICI Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "5.63%"
+    },
+    {
+      "Name": "Aurobindo Pharma Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "5.35%"
+    },
+    {
+      "Name": "Kotak Mahindra Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Futures",
+      "Assets": "5.24%"
+    },
+    {
+      "Name": "Varun Beverages Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Futures",
+      "Assets": "4.88%"
+    },
+    {
+      "Name": "HDFC Life Insurance Co Ltd.",
+      "Sector": "Insurance",
+      "Instruments": "Futures",
+      "Assets": "4.65%"
+    },
+    {
+      "Name": "Dabur India Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Equity",
+      "Assets": "4.12%"
+    },
+    {
+      "Name": "Kotak Mahindra Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "4.09%"
+    },
+    {
+      "Name": "ICICI Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Futures",
+      "Assets": "3.75%"
+    },
+    {
+      "Name": "Capri Global Capital Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "2.78%"
+    },
+    {
+      "Name": "HDFC Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "2.50%"
+    },
+    {
+      "Name": "Aurobindo Pharma Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Futures",
+      "Assets": "1.58%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "1.19%"
+    },
+    {
+      "Name": "Adani Energy Solutions Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Futures",
+      "Assets": "1.13%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.79%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.79%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.79%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.78%"
+    }
+  ],
+  "holding_analysis": {
+    "equity_debt_cash_split": {
+      "equity_pct": 99.65,
+      "debt_pct": 29.62,
+      "cash_pct": -29.27
+    },
+    "sector_allocation": [
+      {
+        "sector": "Financial",
+        "percentage": 51.48
+      },
+      {
+        "sector": "Energy & Utilities",
+        "percentage": 15.86
+      },
+      {
+        "sector": "Materials",
+        "percentage": 9.12
+      },
+      {
+        "sector": "Consumer Staples",
+        "percentage": 9.04
+      },
+      {
+        "sector": "Consumer Discretionary",
+        "percentage": 7.54
+      },
+      {
+        "sector": "Healthcare",
+        "percentage": 6.96
+      }
+    ]
+  },
+  "minimum_investments": {
+    "min_first_investment": "5,000",
+    "min_second_investment": "1,000",
+    "min_sip": "1,000"
+  },
+  "returns_and_rankings": {
+    "annualised_returns": [
+      {
+        "Name": "Fund returns",
+        "1Y": "+9.0%",
+        "3Y": "+16.0%",
+        "5Y": "+21.1%",
+        "All": "+25.8%"
+      },
+      {
+        "Name": "Category average (Equity Thematic)",
+        "1Y": "+4.1%",
+        "3Y": "+14.2%",
+        "5Y": "+13.9%",
+        "All": "--"
+      },
+      {
+        "Name": "Rank (Equity Thematic)",
+        "1Y": "3",
+        "3Y": "2",
+        "5Y": "1",
+        "All": "--"
+      }
+    ],
+    "absolute_returns": [
+      {
+        "Name": "Fund returns",
+        "1Y": "+14.88%",
+        "3Y": "+62.90%",
+        "5Y": "+164.69%",
+        "All": "+248.26%"
+      },
+      {
+        "Name": "Category average (Equity Thematic)",
+        "1Y": "+4.07%",
+        "3Y": "+49.01%",
+        "5Y": "+91.54%",
+        "All": "--"
+      },
+      {
+        "Name": "Rank (Equity Thematic)",
+        "1Y": "3",
+        "3Y": "2",
+        "5Y": "1",
+        "All": "--"
+      }
+    ]
+  },
+  "exit_load": "Exit load A fee payable to a mutual fund house for exiting a fund (fully or partially) before the completion of a specified period from the date of investment.",
+  "stamp_duty": "Stamp duty on investment: 0.005%",
+  "tax_implication": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+  "similar_funds": [],
+  "fund_managers": [
+    {
+      "name": "Sanjeev Sharma",
+      "tenure": "Oct 2020 - Present",
+      "education": "Mr. Sharma is a Commerce Graduate and PGDBA (Finance) from Symbiosis, Pune.",
+      "experience": "He has total work experience of 17 years including 13 years of experience in the financial market. He specializes in identifying crucial inflexion points in securities."
+    },
+    {
+      "name": "Sandeep Tandon",
+      "tenure": "Feb 2025 - Present",
+      "education": "Mr. Tandon has done MBA (Finance)",
+      "experience": "Prior to joining Quant Mutual Fund, he has worked with ICICI Securities as Vice President, The Economic Times and IDBI AMC."
+    },
+    {
+      "name": "Ankit A Pande",
+      "tenure": "Oct 2020 - Present",
+      "education": "Mr. Pande has done CFA and MBA",
+      "experience": "Prior to joining Quant Mutual Fund he has worked with Infosys Finacle. Began his career in equity research in 2011."
+    },
+    {
+      "name": "Varun Pattani",
+      "tenure": "Feb 2025 - Present",
+      "education": "Mr. Pattani is an ACA",
+      "experience": "Prior to joining Quant Mutual Fund, he has worked with boutique PMS firm."
+    },
+    {
+      "name": "Sameer Kate",
+      "tenure": "Mar 2025 - Present",
+      "education": "Bachelor of Computer Science, MBA from IME Pune.",
+      "experience": "Prior to joining Quant Mutual Fund, he was working with Investec Capital and Kotak Securities,"
+    },
+    {
+      "name": "Ayusha Kumbhat",
+      "tenure": "Feb 2025 - Present",
+      "education": "CFA Level III, BSc (Hons) in Economics, MSc in Behavioural & Experimental Economics",
+      "experience": "She is working with Quant Mutual fund as Research Analyst for the past 15 months, specializing in investment research."
+    },
+    {
+      "name": "Yug Tibrewal",
+      "tenure": "Mar 2025 - Present",
+      "education": "B.M.S, CFA L1",
+      "experience": "Yug is an investment professional with over 2 years of experience in dealing related activities"
+    }
+  ],
+  "about_fund": {
+    "description": "Quant ESG Integration Strategy Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant ESG Integration Strategy Fund Direct Growth fund. The fund currently has an Quant ESG Integration Strategy Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant ESG Integration Strategy Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹87,740 Cr and the Latest NAV as of 06 Mar 2026 is ₹34.03. The Quant ESG Integration Strategy Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
+    "investment_objective": "The scheme seeks to generate long term capital appreciation by investing in a diversified portfolio of companies demonstrating sustainable practices across Environmental, Social and Governance (ESG) parameters.",
+    "benchmark": "NIFTY 100 ESG Total Return Index"
+  },
+  "fund_house": {
+    "rank_in_india": 34,
+    "total_aum_cr": "87,740.35",
+    "date_of_incorporation": "15 Apr 1996",
+    "launch_date": "15 Apr 1996",
+    "phone": "022-62955000",
+    "email": "--",
+    "website": "http://www.quantmutual.com",
+    "address": "6th Floor, Sea Breeze Building,Appa Saheb Marathe Marg,Prabhadevi, Mumbai 400025"
+  },
+  "advanced_ratios": {
+    "top_5": "41%",
+    "top_20": "101%",
+    "pe_ratio": 30.89,
+    "pb_ratio": 3.11,
+    "alpha": 0.81,
+    "beta": 1.16,
+    "sharpe": 0.61,
+    "sortino": 1.03
+  },
+  "other_plans_in_same_fund": [
+    {
+      "name": "Quant ESG Integration Strategy Fund Direct IDCW"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How to Invest in Quant ESG Integration Strategy Fund Direct Growth?",
+      "answer": "You can easily invest in Quant ESG Integration Strategy Fund Direct Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:Log on to your Groww accountSearch for Quant ESG Integration Strategy Fund Direct Growth from the search boxIn order to invest, you will have to complete all the KYC formalities which are completely online and paperless and take a few minutes to completeOnce you are done with that, you can start investing in Quant ESG Integration Strategy Fund Direct Growth as SIP or lumpsum as per your investment objective and risk tolerance"
+    },
+    {
+      "question": "What kind of returns does Quant ESG Integration Strategy Fund Direct Growth provide?",
+      "answer": "The Quant ESG Integration Strategy Fund Direct Growth has been there from 05 Nov 2020 and the average annual returns provided by this fund is 8.96% since its inception."
+    },
+    {
+      "question": "How much expense ratio is charged by Quant ESG Integration Strategy Fund Direct Growth?",
+      "answer": "The termExpense Ratioused for Quant ESG Integration Strategy Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ESG Integration Strategy Fund Direct Growth is 0.93% as of 08 Mar 2026..."
+    },
+    {
+      "question": "What is the AUM of Quant ESG Integration Strategy Fund Direct Growth?",
+      "answer": "The AUM, short forAssets Under Managementof Quant ESG Integration Strategy Fund Direct Growth is ₹251.72Cr as of 08 Mar 2026."
+    },
+    {
+      "question": "How to Redeem Quant ESG Integration Strategy Fund Direct Growth?",
+      "answer": "If you want to sell your Quant ESG Integration Strategy Fund Direct Growth holdings, go to your holding on the app or web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox."
+    },
+    {
+      "question": "Can I invest in SIP and Lump Sum of Quant ESG Integration Strategy Fund Direct Growth?",
+      "answer": "You can select eitherSIPorLumpsuminvestment of Quant ESG Integration Strategy Fund Direct Growth based on your investment objective and risk tolerance."
+    },
+    {
+      "question": "What is the NAV of Quant ESG Integration Strategy Fund Direct Growth?",
+      "answer": "The NAV of Quant ESG Integration Strategy Fund Direct Growth is ₹34.03 as of 06 Mar 2026."
+    },
+    {
+      "question": "What is the PE and PB ratio of Quant ESG Integration Strategy Fund Direct Growth?",
+      "answer": "ThePE ratioratio of Quant ESG Integration Strategy Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
+    }
+  ],
+  "scraped_at": "2026-03-08T17:48:14+0530"
+}

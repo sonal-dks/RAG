@@ -1,0 +1,70 @@
+[
+  {
+    "query": "What is the NAV of Quant Small Cap Fund?",
+    "result": {
+      "pass_through": true,
+      "intent": "factual_query",
+      "query": "What is the NAV of Quant Small Cap Fund?",
+      "canned_response": null
+    }
+  },
+  {
+    "query": "Hi",
+    "result": {
+      "pass_through": false,
+      "reason": "greeting_chitchat",
+      "canned_response": "Hello! I can answer factual questions about the 10 Quant Mutual Fund schemes on Groww. Ask about a specific fund's details, NAV, holdings, or other facts. I don't provide investment advice or comparisons.",
+      "intent": null,
+      "query": null
+    }
+  },
+  {
+    "query": "My PAN is ABCDE1234F",
+    "result": {
+      "pass_through": false,
+      "reason": "pii",
+      "canned_response": "I cannot process personal information. Please do not share sensitive details like PAN, Aadhaar, or bank information.",
+      "intent": null,
+      "query": null
+    }
+  },
+  {
+    "query": "Should I invest in Quant ELSS?",
+    "result": {
+      "pass_through": false,
+      "reason": "investment_advice",
+      "canned_response": "I'm unable to provide investment advice or compare fund performance. You can review the fund details here: https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "intent": null,
+      "query": null
+    }
+  },
+  {
+    "query": "What is the weather today?",
+    "result": {
+      "pass_through": false,
+      "reason": "off_topic",
+      "canned_response": "I can only answer factual questions about the listed Quant Mutual Funds.",
+      "intent": null,
+      "query": null
+    }
+  },
+  {
+    "query": "Compare Quant Small Cap and Quant Mid Cap returns",
+    "result": {
+      "pass_through": false,
+      "reason": "comparison_request",
+      "canned_response": "I'm unable to provide investment advice or compare fund performance. You can review the fund details here: https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "intent": null,
+      "query": null
+    }
+  },
+  {
+    "query": "What is the expense ratio of Quant Flexi Cap Fund?",
+    "result": {
+      "pass_through": true,
+      "intent": "factual_query",
+      "query": "What is the expense ratio of Quant Flexi Cap Fund?",
+      "canned_response": null
+    }
+  }
+]

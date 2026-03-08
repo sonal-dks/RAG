@@ -1,0 +1,57 @@
+[
+  {
+    "input_raw_response": "The expense ratio of Quant Small Cap Fund Direct Plan is 0.77% (Direct). There is no exit load. Last updated from sources: https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+    "source_url_passed": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+    "result": {
+      "validated_response": "The expense ratio of Quant Small Cap Fund Direct Plan is 0.77% (Direct). There is no exit load. Last updated from sources: https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "citation_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "pii_detected": false,
+      "advice_detected": false,
+      "citation_corrected": false
+    }
+  },
+  {
+    "input_raw_response": "You should invest in this fund for better returns. Consider SIP.",
+    "source_url_passed": null,
+    "result": {
+      "validated_response": "I'm unable to provide investment advice or compare fund performance. You can review the fund details here: https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "citation_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "pii_detected": false,
+      "advice_detected": true,
+      "citation_corrected": false
+    }
+  },
+  {
+    "input_raw_response": "Please update your PAN ABCDE1234F in the portal.",
+    "source_url_passed": null,
+    "result": {
+      "validated_response": "I cannot process personal information. Please do not share sensitive details like PAN, Aadhaar, or bank information.",
+      "citation_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "pii_detected": true,
+      "advice_detected": false,
+      "citation_corrected": false
+    }
+  },
+  {
+    "input_raw_response": "The fund follows a small cap strategy. Last updated from sources: https://wrong-url.com/fund",
+    "source_url_passed": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+    "result": {
+      "validated_response": "The fund follows a small cap strategy. Last updated from sources: https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "citation_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "pii_detected": false,
+      "advice_detected": false,
+      "citation_corrected": true
+    }
+  },
+  {
+    "input_raw_response": "NAV is published daily. Minimum investment is 500.",
+    "source_url_passed": "https://groww.in/mutual-funds/quant-infrastructure-fund-direct-growth",
+    "result": {
+      "validated_response": "NAV is published daily. Minimum investment is 500.\n\nLast updated from sources: https://groww.in/mutual-funds/quant-infrastructure-fund-direct-growth",
+      "citation_url": "https://groww.in/mutual-funds/quant-infrastructure-fund-direct-growth",
+      "pii_detected": false,
+      "advice_detected": false,
+      "citation_corrected": true
+    }
+  }
+]

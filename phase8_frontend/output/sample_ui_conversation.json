@@ -1,0 +1,99 @@
+{
+  "description": "Sample UI conversation: requests (with optional active_fund) and backend responses.",
+  "mutual_funds_available": [
+    "Quant Small Cap Fund",
+    "Quant Infrastructure Fund",
+    "Quant Flexi Cap Fund",
+    "Quant ELSS Tax Saver Fund",
+    "Quant Large Cap Fund",
+    "Quant ESG Integration Strategy Fund",
+    "Quant Mid Cap Fund",
+    "Quant Multi Cap Fund",
+    "Quant Aggressive Hybrid Fund",
+    "Quant Focused Fund"
+  ],
+  "mutual_funds_error": null,
+  "sample_questions": [
+    "What are the top 5 holdings of Quant Infrastructure Fund?",
+    "Tell me about Quant Large Cap Fund.",
+    "What is the AUM of Quant Focused Fund?",
+    "What is the risk level of Quant Infrastructure Fund?",
+    "What is the minimum SIP for Quant Aggressive Hybrid Fund?"
+  ],
+  "conversation": [
+    {
+      "request": {
+        "query": "What is the expense ratio of Quant Small Cap Fund?"
+      },
+      "response": {
+        "answer": "The expense ratio of Quant Small Cap Fund is 0.81%. This is the percentage of the fund's assets that are spent on managing the fund. The expense ratio is an important factor to consider when evaluating a mutual fund. It is a recurring fee that the fund charges to its investors. \nLast updated from sources: https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+        "citations": [
+          "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth"
+        ],
+        "conversation_id": "sample-conv-001",
+        "error": null
+      }
+    },
+    {
+      "request": {
+        "query": "Hi"
+      },
+      "response": {
+        "answer": "Hello! I can answer factual questions about the 10 Quant Mutual Fund schemes on Groww. Ask about a specific fund's details, NAV, holdings, or other facts. I don't provide investment advice or comparisons.",
+        "citations": [],
+        "conversation_id": "sample-conv-001",
+        "error": null
+      }
+    },
+    {
+      "request": {
+        "query": "What is the NAV?"
+      },
+      "response": {
+        "answer": "I can only answer questions about a specific Quant Mutual Fund. Please mention which fund you're asking about (e.g. Quant Small Cap Fund, Quant ELSS).",
+        "citations": [],
+        "conversation_id": "sample-conv-001",
+        "error": null
+      }
+    },
+    {
+      "request": {
+        "query": "What is the NAV?",
+        "active_fund": "Quant Mid Cap Fund"
+      },
+      "response": {
+        "answer": "The NAV of Quant Mid Cap Fund as of 06 Mar '26 is 215.12. This information is based on the available data. The fund size is 7,283.39 cr and the expense ratio is 0.83%. The minimum SIP amount is 1,000. Last updated from sources: https://groww.in/mutual-funds/quant-mid-cap-fund-direct-growth",
+        "citations": [
+          "https://groww.in/mutual-funds/quant-mid-cap-fund-direct-growth"
+        ],
+        "conversation_id": "sample-conv-001",
+        "error": null
+      }
+    },
+    {
+      "request": {
+        "query": "What is the P/E ratio?",
+        "active_fund": "Quant Small Cap Fund"
+      },
+      "response": {
+        "answer": "The P/E ratio of Quant Small Cap Fund Direct Plan Growth is determined by dividing the market price by its earnings per share. I don't have the exact P/E ratio value from the available sources. \nLast updated from sources: https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+        "citations": [
+          "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth"
+        ],
+        "conversation_id": "sample-conv-001",
+        "error": null
+      }
+    },
+    {
+      "request": {
+        "query": "My PAN is ABCDE1234F"
+      },
+      "response": {
+        "answer": "I cannot process personal information. Please do not share sensitive details like PAN, Aadhaar, or bank information.",
+        "citations": [],
+        "conversation_id": "sample-conv-001",
+        "error": null
+      }
+    }
+  ]
+}

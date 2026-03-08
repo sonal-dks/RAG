@@ -1,0 +1,74 @@
+[
+  {
+    "query": "What is the NAV of Quant Small Cap Fund?",
+    "result": {
+      "enriched_query": "What is the Net Asset Value (NAV) of Quant Quant Small Cap Fund Direct Plan Growth Fund?",
+      "fund_resolved": true,
+      "fund_key": "quant-small-cap-fund",
+      "canonical_name": "Quant Small Cap Fund Direct Plan Growth",
+      "url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "section_filter": "basic_info",
+      "clarification_message": null
+    }
+  },
+  {
+    "query": "What is the expnse ratio of quant elss?",
+    "result": {
+      "enriched_query": "What is the expense ratio of quant Equity Linked Savings Scheme (Quant ELSS Tax Saver Fund Direct Growth)?",
+      "fund_resolved": true,
+      "fund_key": "quant-elss-tax-saver-fund",
+      "canonical_name": "Quant ELSS Tax Saver Fund Direct Growth",
+      "url": "https://groww.in/mutual-funds/quant-elss-tax-saver-fund-direct-growth",
+      "section_filter": "basic_info",
+      "clarification_message": null
+    }
+  },
+  {
+    "query": "List top holdings of Quant Mid Cap Fund",
+    "result": {
+      "enriched_query": "List top holdings of Quant Quant Mid Cap Fund Direct Growth Fund",
+      "fund_resolved": true,
+      "fund_key": "quant-mid-cap-fund",
+      "canonical_name": "Quant Mid Cap Fund Direct Growth",
+      "url": "https://groww.in/mutual-funds/quant-mid-cap-fund-direct-growth",
+      "section_filter": "holdings",
+      "clarification_message": null
+    }
+  },
+  {
+    "query": "Who manages Quant Infrastructure Fund?",
+    "result": {
+      "enriched_query": "Who manages Quant Quant Infrastructure Fund Direct Growth Fund?",
+      "fund_resolved": true,
+      "fund_key": "quant-infrastructure-fund",
+      "canonical_name": "Quant Infrastructure Fund Direct Growth",
+      "url": "https://groww.in/mutual-funds/quant-infrastructure-fund-direct-growth",
+      "section_filter": null,
+      "clarification_message": null
+    }
+  },
+  {
+    "query": "What is the expense ratio?",
+    "result": {
+      "enriched_query": "What is the expense ratio?",
+      "fund_resolved": false,
+      "fund_key": null,
+      "canonical_name": null,
+      "url": null,
+      "section_filter": null,
+      "clarification_message": "I can only answer questions about a specific Quant Mutual Fund. Please mention which fund you're asking about (e.g. Quant Small Cap Fund, Quant ELSS)."
+    }
+  },
+  {
+    "query": "Tell me about AUM and NAV of Quant Large Cap",
+    "result": {
+      "enriched_query": "Tell me about Assets Under Management (AUM) and Net Asset Value (NAV) of Quant Quant Large Cap Fund Direct Growth",
+      "fund_resolved": true,
+      "fund_key": "quant-large-cap-fund",
+      "canonical_name": "Quant Large Cap Fund Direct Growth",
+      "url": "https://groww.in/mutual-funds/quant-large-cap-fund-direct-growth",
+      "section_filter": "basic_info",
+      "clarification_message": null
+    }
+  }
+]

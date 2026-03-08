@@ -1,0 +1,731 @@
+{
+  "fund_key": "quant-multi-cap-fund",
+  "fund_name": "Quant Multi Cap Fund Direct Growth",
+  "source_url": "https://groww.in/mutual-funds/quant-multi-cap-fund-direct-growth",
+  "basic_info": {
+    "nav": "618.49",
+    "nav_date": "06 Mar '26",
+    "fund_size_cr": "7,456.20",
+    "expense_ratio_pct": "0.73",
+    "min_sip": "1,000"
+  },
+  "fund_category_and_risk": {
+    "fund_category": "Equity",
+    "fund_type": "Multi Cap",
+    "risk_level": "Very High Risk"
+  },
+  "performance_returns": {
+    "1D": "-0.55%",
+    "1M": "-4.49%",
+    "6M": "-6.53%",
+    "1Y": "+0.71%",
+    "3Y": "+10.92%",
+    "5Y": "+15.51%",
+    "10Y": "+17.90%",
+    "All": "+17.51%"
+  },
+  "return_calculator": {
+    "monthly_investment_used": "1000",
+    "sip": [
+      {
+        "Over the past": "1 year",
+        "Total investment": "₹12,000",
+        "Would've become": "₹12,033",
+        "Returns": "+0.27%"
+      },
+      {
+        "Over the past": "3 years",
+        "Total investment": "₹36,000",
+        "Would've become": "₹44,100",
+        "Returns": "+22.50%"
+      },
+      {
+        "Over the past": "5 years",
+        "Total investment": "₹60,000",
+        "Would've become": "₹95,917",
+        "Returns": "+59.86%"
+      },
+      {
+        "Over the past": "10 years",
+        "Total investment": "₹1,20,000",
+        "Would've become": "₹3,60,999",
+        "Returns": "+200.83%"
+      }
+    ],
+    "sip_return_rates": [
+      {
+        "period": "1 year",
+        "return_pct": 0.27
+      },
+      {
+        "period": "3 years",
+        "return_pct": 22.5
+      },
+      {
+        "period": "5 years",
+        "return_pct": 59.86
+      },
+      {
+        "period": "10 years",
+        "return_pct": 200.83
+      }
+    ]
+  },
+  "holdings": [
+    {
+      "Name": "Aurobindo Pharma Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "6.96%"
+    },
+    {
+      "Name": "Nifty MidCap Select Index",
+      "Sector": "Financial",
+      "Instruments": "ID",
+      "Assets": "5.62%"
+    },
+    {
+      "Name": "Adani Power Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Equity",
+      "Assets": "5.27%"
+    },
+    {
+      "Name": "Larsen & Toubro Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "4.74%"
+    },
+    {
+      "Name": "ICICI Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Futures",
+      "Assets": "4.63%"
+    },
+    {
+      "Name": "Swan Corp Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "3.70%"
+    },
+    {
+      "Name": "Adani Enterprises Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "3.17%"
+    },
+    {
+      "Name": "Reliance Industries Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Equity",
+      "Assets": "3.08%"
+    },
+    {
+      "Name": "HDFC Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Futures",
+      "Assets": "2.89%"
+    },
+    {
+      "Name": "Samvardhana Motherson International Ltd.",
+      "Sector": "Automobile",
+      "Instruments": "Equity",
+      "Assets": "2.65%"
+    },
+    {
+      "Name": "AWL Agri Business Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Equity",
+      "Assets": "2.56%"
+    },
+    {
+      "Name": "IRB Infrastructure Developers Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "2.51%"
+    },
+    {
+      "Name": "Sun TV Network Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "2.43%"
+    },
+    {
+      "Name": "Crisil Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "2.19%"
+    },
+    {
+      "Name": "Kotak Mahindra Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Futures",
+      "Assets": "2.18%"
+    },
+    {
+      "Name": "Adani Green Energy Ltd.",
+      "Sector": "Capital Goods",
+      "Instruments": "Equity",
+      "Assets": "2.06%"
+    },
+    {
+      "Name": "Embassy Developments Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "2.03%"
+    },
+    {
+      "Name": "LIC Housing Finance Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "1.96%"
+    },
+    {
+      "Name": "Aurobindo Pharma Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Futures",
+      "Assets": "1.85%"
+    },
+    {
+      "Name": "Strides Pharma Science Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "1.67%"
+    },
+    {
+      "Name": "JIO Financial Services Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "1.61%"
+    },
+    {
+      "Name": "Oracle Financial Services Software Ltd.",
+      "Sector": "Technology",
+      "Instruments": "Futures",
+      "Assets": "1.55%"
+    },
+    {
+      "Name": "K.P.R. Mill Ltd.",
+      "Sector": "Textiles",
+      "Instruments": "Equity",
+      "Assets": "1.53%"
+    },
+    {
+      "Name": "Gujarat State Fertilizers & Chemicals Ltd.",
+      "Sector": "Chemicals",
+      "Instruments": "Equity",
+      "Assets": "1.49%"
+    },
+    {
+      "Name": "Aditya Birla Lifestyle Brands Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "1.48%"
+    },
+    {
+      "Name": "Bajaj Auto Ltd.",
+      "Sector": "Automobile",
+      "Instruments": "Equity",
+      "Assets": "1.45%"
+    },
+    {
+      "Name": "PB Fintech Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "1.45%"
+    },
+    {
+      "Name": "Wipro Ltd.",
+      "Sector": "Technology",
+      "Instruments": "Futures",
+      "Assets": "1.26%"
+    },
+    {
+      "Name": "Honda India Power Products Ltd.",
+      "Sector": "Capital Goods",
+      "Instruments": "Equity",
+      "Assets": "1.18%"
+    },
+    {
+      "Name": "Tata Communications Ltd.",
+      "Sector": "Communication",
+      "Instruments": "Equity",
+      "Assets": "1.05%"
+    },
+    {
+      "Name": "JSW Infrastructure Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "1.03%"
+    },
+    {
+      "Name": "Zydus Wellness Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Equity",
+      "Assets": "1.01%"
+    },
+    {
+      "Name": "Century Enka Ltd.",
+      "Sector": "Textiles",
+      "Instruments": "Equity",
+      "Assets": "1.00%"
+    },
+    {
+      "Name": "Juniper Hotels Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "0.98%"
+    },
+    {
+      "Name": "Maharashtra Seamless Ltd.",
+      "Sector": "Metals & Mining",
+      "Instruments": "Equity",
+      "Assets": "0.96%"
+    },
+    {
+      "Name": "Premier Energies Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Equity",
+      "Assets": "0.92%"
+    },
+    {
+      "Name": "Rossell Techsys Ltd.",
+      "Sector": "Capital Goods",
+      "Instruments": "Equity",
+      "Assets": "0.83%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.73%"
+    },
+    {
+      "Name": "Aegis Logistics Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "0.72%"
+    },
+    {
+      "Name": "NCC Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "0.71%"
+    },
+    {
+      "Name": "Lloyds Metals & Energy Ltd.",
+      "Sector": "Metals & Mining",
+      "Instruments": "Equity",
+      "Assets": "0.65%"
+    },
+    {
+      "Name": "Aditya Birla Fashion and Retail Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "0.56%"
+    },
+    {
+      "Name": "Poly Medicure Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "0.54%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.53%"
+    },
+    {
+      "Name": "Dabur India Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Futures",
+      "Assets": "0.53%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.52%"
+    },
+    {
+      "Name": "ICICI Prudential Life Insurance Company Ltd.",
+      "Sector": "Insurance",
+      "Instruments": "Equity",
+      "Assets": "0.49%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.47%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.40%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.40%"
+    },
+    {
+      "Name": "Usha Martin Ltd.",
+      "Sector": "Metals & Mining",
+      "Instruments": "Equity",
+      "Assets": "0.38%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.37%"
+    },
+    {
+      "Name": "Welspun Corp Ltd.",
+      "Sector": "Metals & Mining",
+      "Instruments": "Equity",
+      "Assets": "0.37%"
+    },
+    {
+      "Name": "Pfizer Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "0.33%"
+    },
+    {
+      "Name": "HFCL Ltd.",
+      "Sector": "Communication",
+      "Instruments": "Equity",
+      "Assets": "0.32%"
+    },
+    {
+      "Name": "ICICI Prudential Life Insurance Company Ltd.",
+      "Sector": "Insurance",
+      "Instruments": "Futures",
+      "Assets": "0.30%"
+    },
+    {
+      "Name": "Indo Count Industries Ltd.",
+      "Sector": "Textiles",
+      "Instruments": "Equity",
+      "Assets": "0.29%"
+    },
+    {
+      "Name": "Quant Healthcare Fund Direct - Growth",
+      "Sector": "--",
+      "Instruments": "Mutual Fund",
+      "Assets": "0.29%"
+    },
+    {
+      "Name": "Hindustan Petroleum Corporation Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Equity",
+      "Assets": "0.27%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.26%"
+    },
+    {
+      "Name": "Life Insurance Corporation of India",
+      "Sector": "Insurance",
+      "Instruments": "Equity",
+      "Assets": "0.26%"
+    },
+    {
+      "Name": "Digitide Solutions Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "0.22%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.13%"
+    },
+    {
+      "Name": "Lancer Containers Lines Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "0.09%"
+    },
+    {
+      "Name": "Mahindra Holidays & Resorts India Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "0.08%"
+    },
+    {
+      "Name": "Rossell India Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Equity",
+      "Assets": "0.05%"
+    },
+    {
+      "Name": "Quant Gilt Fund Direct - Growth",
+      "Sector": "--",
+      "Instruments": "Mutual Fund",
+      "Assets": "0.01%"
+    }
+  ],
+  "holding_analysis": {
+    "equity_debt_cash_split": {
+      "equity_pct": 92.37,
+      "debt_pct": 27.54,
+      "cash_pct": -19.92
+    },
+    "sector_allocation": [
+      {
+        "sector": "Consumer Discretionary",
+        "percentage": 17.48
+      },
+      {
+        "sector": "Financial",
+        "percentage": 17.11
+      },
+      {
+        "sector": "Industrials",
+        "percentage": 15.65
+      },
+      {
+        "sector": "Energy & Utilities",
+        "percentage": 13.33
+      },
+      {
+        "sector": "Healthcare",
+        "percentage": 12.51
+      },
+      {
+        "sector": "Materials",
+        "percentage": 6.57
+      },
+      {
+        "sector": "Consumer Staples",
+        "percentage": 4.53
+      },
+      {
+        "sector": "Technology",
+        "percentage": 4.53
+      },
+      {
+        "sector": "Real Estate",
+        "percentage": 2.2
+      }
+    ]
+  },
+  "minimum_investments": {
+    "min_first_investment": "5,000",
+    "min_second_investment": "1,000",
+    "min_sip": "1,000"
+  },
+  "returns_and_rankings": {
+    "annualised_returns": [
+      {
+        "Name": "Fund returns",
+        "3Y": "+10.9%",
+        "5Y": "+15.5%",
+        "10Y": "+17.9%",
+        "All": "+17.5%"
+      },
+      {
+        "Name": "Category average (Equity Multi Cap)",
+        "3Y": "+18.5%",
+        "5Y": "--",
+        "10Y": "--",
+        "All": "--"
+      },
+      {
+        "Name": "Rank (Equity Multi Cap)",
+        "3Y": "19",
+        "5Y": "5",
+        "10Y": "--",
+        "All": "--"
+      }
+    ],
+    "absolute_returns": [
+      {
+        "Name": "Fund returns",
+        "3Y": "+41.37%",
+        "5Y": "+106.20%",
+        "10Y": "+434.31%",
+        "All": "+746.83%"
+      },
+      {
+        "Name": "Category average (Equity Multi Cap)",
+        "3Y": "+66.59%",
+        "5Y": "--",
+        "10Y": "--",
+        "All": "--"
+      },
+      {
+        "Name": "Rank (Equity Multi Cap)",
+        "3Y": "19",
+        "5Y": "5",
+        "10Y": "--",
+        "All": "--"
+      }
+    ]
+  },
+  "exit_load": "Exit load of 1% if redeemed within 1 year",
+  "stamp_duty": "Stamp duty on investment: 0.005%",
+  "tax_implication": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+  "similar_funds": [
+    {
+      "": "",
+      "Name": "Kotak Multicap Fund Direct Growth",
+      "1Y": "+16.77%",
+      "3Y": "+23.69%",
+      "Fund Size(Cr)": "22,709.75"
+    },
+    {
+      "": "",
+      "Name": "HSBC Multi Cap Fund Direct Growth",
+      "1Y": "+14.29%",
+      "3Y": "+23.23%",
+      "Fund Size(Cr)": "5,176.73"
+    },
+    {
+      "": "",
+      "Name": "Nippon India Multi Cap Fund Direct Growth",
+      "1Y": "+12.36%",
+      "3Y": "+21.28%",
+      "Fund Size(Cr)": "48,808.64"
+    },
+    {
+      "": "",
+      "Name": "ICICI Prudential Multicap Fund Direct Plan Growth",
+      "1Y": "+10.80%",
+      "3Y": "+19.86%",
+      "Fund Size(Cr)": "15,845.20"
+    },
+    {
+      "": "",
+      "Name": "HDFC Multi Cap Fund Direct Growth",
+      "1Y": "+9.65%",
+      "3Y": "+19.08%",
+      "Fund Size(Cr)": "19,182.58"
+    }
+  ],
+  "fund_managers": [
+    {
+      "name": "Sanjeev Sharma",
+      "tenure": "Oct 2019 - Present",
+      "education": "Mr. Sharma is a Commerce Graduate and PGDBA (Finance) from Symbiosis, Pune.",
+      "experience": "He has total work experience of 17 years including 13 years of experience in the financial market. He specializes in identifying crucial inflexion points in securities."
+    },
+    {
+      "name": "Sandeep Tandon",
+      "tenure": "Feb 2025 - Present",
+      "education": "Mr. Tandon has done MBA (Finance)",
+      "experience": "Prior to joining Quant Mutual Fund, he has worked with ICICI Securities as Vice President, The Economic Times and IDBI AMC."
+    },
+    {
+      "name": "Ankit A Pande",
+      "tenure": "May 2020 - Present",
+      "education": "Mr. Pande has done CFA and MBA",
+      "experience": "Prior to joining Quant Mutual Fund he has worked with Infosys Finacle. Began his career in equity research in 2011."
+    },
+    {
+      "name": "Varun Pattani",
+      "tenure": "Feb 2025 - Present",
+      "education": "Mr. Pattani is an ACA",
+      "experience": "Prior to joining Quant Mutual Fund, he has worked with boutique PMS firm."
+    },
+    {
+      "name": "Sameer Kate",
+      "tenure": "Mar 2025 - Present",
+      "education": "Bachelor of Computer Science, MBA from IME Pune.",
+      "experience": "Prior to joining Quant Mutual Fund, he was working with Investec Capital and Kotak Securities,"
+    },
+    {
+      "name": "Ayusha Kumbhat",
+      "tenure": "Feb 2025 - Present",
+      "education": "CFA Level III, BSc (Hons) in Economics, MSc in Behavioural & Experimental Economics",
+      "experience": "She is working with Quant Mutual fund as Research Analyst for the past 15 months, specializing in investment research."
+    },
+    {
+      "name": "Yug Tibrewal",
+      "tenure": "Mar 2025 - Present",
+      "education": "B.M.S, CFA L1",
+      "experience": "Yug is an investment professional with over 2 years of experience in dealing related activities"
+    },
+    {
+      "name": "Jignesh Shah",
+      "tenure": "Feb 2026 - Present",
+      "education": "Graduate - Sydenham College of Commerce and Economics, Mumbai, CFA - ICFAI",
+      "experience": "Prior to joining the Quant MF, he was associated with Nippon Life AMC. He subsequently held senior portfolio management positions at leading asset management firms including ICICI Prudential AMC and Aditya Birla Sun Life AMC."
+    }
+  ],
+  "about_fund": {
+    "description": "Quant Multi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Multi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Quant Multi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Multi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹87,740 Cr and the Latest NAV as of 06 Mar 2026 is ₹618.49. The Quant Multi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
+    "investment_objective": "The scheme aims at providing long term capital appreciation and generating income with a diversified portfolio of Large Cap, Mid Cap and Small Cap companies.",
+    "benchmark": "Nifty 500 Multicap 50:25:25 Total Return Index"
+  },
+  "fund_house": {
+    "rank_in_india": 34,
+    "total_aum_cr": "87,740.35",
+    "date_of_incorporation": "15 Apr 1996",
+    "launch_date": "15 Apr 1996",
+    "phone": "022-62955000",
+    "email": "--",
+    "website": "http://www.quantmutual.com",
+    "address": "6th Floor, Sea Breeze Building,Appa Saheb Marathe Marg,Prabhadevi, Mumbai 400025"
+  },
+  "advanced_ratios": {
+    "top_5": "27%",
+    "top_20": "64%",
+    "pe_ratio": 18.72,
+    "pb_ratio": 2.11,
+    "alpha": -5.58,
+    "beta": 1.05,
+    "sharpe": 0.49,
+    "sortino": 0.72
+  },
+  "other_plans_in_same_fund": [
+    {
+      "name": "Quant Multi Cap Fund Direct IDCW"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How to Invest in Quant Multi Cap Fund Direct Growth?",
+      "answer": "You can easily invest in Quant Multi Cap Fund Direct Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:Log on to your Groww accountSearch for Quant Multi Cap Fund Direct Growth from the search boxIn order to invest, you will have to complete all the KYC formalities which are completely online and paperless and take a few minutes to completeOnce you are done with that, you can start investing in Quant Multi Cap Fund Direct Growth as SIP or lumpsum as per your investment objective and risk tolerance"
+    },
+    {
+      "question": "What kind of returns does Quant Multi Cap Fund Direct Growth provide?",
+      "answer": "The Quant Multi Cap Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 0.71% since its inception."
+    },
+    {
+      "question": "How much expense ratio is charged by Quant Multi Cap Fund Direct Growth?",
+      "answer": "The termExpense Ratioused for Quant Multi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Multi Cap Fund Direct Growth is 0.73% as of 08 Mar 2026..."
+    },
+    {
+      "question": "What is the AUM of Quant Multi Cap Fund Direct Growth?",
+      "answer": "The AUM, short forAssets Under Managementof Quant Multi Cap Fund Direct Growth is ₹7,456.20Cr as of 08 Mar 2026."
+    },
+    {
+      "question": "How to Redeem Quant Multi Cap Fund Direct Growth?",
+      "answer": "If you want to sell your Quant Multi Cap Fund Direct Growth holdings, go to your holding on the app or web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox."
+    },
+    {
+      "question": "Can I invest in SIP and Lump Sum of Quant Multi Cap Fund Direct Growth?",
+      "answer": "You can select eitherSIPorLumpsuminvestment of Quant Multi Cap Fund Direct Growth based on your investment objective and risk tolerance."
+    },
+    {
+      "question": "What is the NAV of Quant Multi Cap Fund Direct Growth?",
+      "answer": "The NAV of Quant Multi Cap Fund Direct Growth is ₹618.49 as of 06 Mar 2026."
+    },
+    {
+      "question": "What is the PE and PB ratio of Quant Multi Cap Fund Direct Growth?",
+      "answer": "ThePE ratioratio of Quant Multi Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
+    }
+  ],
+  "scraped_at": "2026-03-08T17:48:14+0530"
+}

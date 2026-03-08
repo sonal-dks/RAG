@@ -1,0 +1,84 @@
+[
+  {
+    "request": {
+      "query": "What is the expense ratio of Quant Small Cap Fund?"
+    },
+    "response": {
+      "answer": "The expense ratio of Quant Small Cap Fund is 0.81%. This is the percentage of the fund's assets that are spent on managing the fund. The expense ratio is an important factor to consider when evaluating a mutual fund. It is a recurring fee that the fund charges to its investors. \nLast updated from sources: https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "citations": [
+        "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth"
+      ]
+    }
+  },
+  {
+    "request": {
+      "query": "Hi"
+    },
+    "response": {
+      "answer": "Hello! I can answer factual questions about the 10 Quant Mutual Fund schemes on Groww. Ask about a specific fund's details, NAV, holdings, or other facts. I don't provide investment advice or comparisons.",
+      "citations": []
+    }
+  },
+  {
+    "request": {
+      "query": "My PAN is ABCDE1234F"
+    },
+    "response": {
+      "answer": "I cannot process personal information. Please do not share sensitive details like PAN, Aadhaar, or bank information.",
+      "citations": []
+    }
+  },
+  {
+    "request": {
+      "query": "Should I invest in Quant ELSS?"
+    },
+    "response": {
+      "answer": "I'm unable to provide investment advice or compare fund performance. You can review the fund details here: https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "citations": []
+    }
+  },
+  {
+    "request": {
+      "query": "What is the NAV?"
+    },
+    "response": {
+      "answer": "I can only answer questions about a specific Quant Mutual Fund. Please mention which fund you're asking about (e.g. Quant Small Cap Fund, Quant ELSS).",
+      "citations": []
+    }
+  },
+  {
+    "request": {
+      "query": "What is the NAV?",
+      "active_fund": "Quant Mid Cap Fund"
+    },
+    "response": {
+      "answer": "The NAV of Quant Mid Cap Fund as of 06 Mar '26 is 215.12. This information is based on the available data. The fund size is 7,283.39 cr. The expense ratio is 0.83%. \nLast updated from sources: https://groww.in/mutual-funds/quant-mid-cap-fund-direct-growth",
+      "citations": [
+        "https://groww.in/mutual-funds/quant-mid-cap-fund-direct-growth"
+      ]
+    }
+  },
+  {
+    "request": {
+      "query": "What are the top holdings of Quant Mid Cap Fund?"
+    },
+    "response": {
+      "answer": "The top holdings of Quant Mid Cap Fund include Aurobindo Pharma Ltd. with 9.90% assets, Tata Communications Ltd. with 8.55% assets, and IRB Infrastructure Developers Ltd. with 7.12% assets. These holdings are in the sectors of Healthcare, Communication, and Construction, respectively.\n\nLast updated from sources: https://groww.in/mutual-funds/quant-mid-cap-fund-direct-growth",
+      "citations": [
+        "https://groww.in/mutual-funds/quant-mid-cap-fund-direct-growth"
+      ]
+    }
+  },
+  {
+    "request": {
+      "query": "What is the P/E ratio?",
+      "active_fund": "Quant Small Cap Fund"
+    },
+    "response": {
+      "answer": "The P/E ratio of Quant Small Cap Fund Direct Plan Growth is determined by dividing the market price by its earnings per share. I don't have that information from the available sources. \nLast updated from sources: https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "citations": [
+        "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth"
+      ]
+    }
+  }
+]

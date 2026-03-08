@@ -1,0 +1,134 @@
+{
+  "fund": "quant-small-cap-fund.json",
+  "chunk_count": 16,
+  "chunks": [
+    {
+      "section": "basic_info",
+      "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "scraped_at": "2026-03-08T02:00:28+0530",
+      "chunk_text_preview": "basic_info: {\"nav\": \"251.85\", \"nav_date\": \"06 Mar '26\", \"fund_size_cr\": \"27,384.03\", \"expense_ratio_pct\": \"0.81\", \"min_sip\": \"1,000\"}",
+      "chunk_text_length": 133
+    },
+    {
+      "section": "fund_category_and_risk",
+      "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "scraped_at": "2026-03-08T02:00:28+0530",
+      "chunk_text_preview": "fund_category_and_risk: {\"fund_category\": \"Equity\", \"fund_type\": \"Small Cap\", \"risk_level\": \"Very High Risk\"}",
+      "chunk_text_length": 109
+    },
+    {
+      "section": "performance_returns",
+      "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "scraped_at": "2026-03-08T02:00:28+0530",
+      "chunk_text_preview": "performance_returns: {\"1Y\": \"+3.66%\", \"3Y\": \"+18.2%\", \"5Y\": \"+24.6%\", \"All\": \"+16.4%\", \"10Y\": \"+18.8%\"}",
+      "chunk_text_length": 103
+    },
+    {
+      "section": "return_calculator",
+      "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "scraped_at": "2026-03-08T02:00:28+0530",
+      "chunk_text_preview": "return_calculator: {\"monthly_investment_used\": \"1000\", \"sip\": [{\"Over the past\": \"1 year\", \"Total investment\": \"₹12,000\", \"Would've become\": \"₹10,431\", \"Returns\": \"-13.08%\"}, {\"Over the past\": \"3 years\", \"Total investment\": \"₹36,000\", \"Would've become\": \"₹45,778\", \"Returns\": \"+27.16%\"}, {\"Over the past\": \"5 years\", \"Total investment\": \"₹60,000\", \"Would've become\": \"₹1,24,843\", \"Returns\": \"+108.07%\"}, {\"Over the past\": \"10 years\", \"Total investment\": \"₹1,20,000\", \"Would've become\": \"₹4,28,370\", \"...",
+      "chunk_text_length": 539
+    },
+    {
+      "section": "holdings",
+      "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "scraped_at": "2026-03-08T02:00:28+0530",
+      "chunk_text_preview": "holdings: {\"Name\": \"Reliance Industries Ltd.\", \"Sector\": \"Energy\", \"Instruments\": \"Equity\", \"Assets\": \"9.46%\"} {\"Name\": \"JIO Financial Services Ltd.\", \"Sector\": \"Financial\", \"Instruments\": \"Equity\", \"Assets\": \"5.62%\"} {\"Name\": \"RBL Bank Ltd.\", \"Sector\": \"Financial\", \"Instruments\": \"Equity\", \"Assets\": \"4.14%\"} {\"Name\": \"Aegis Logistics Ltd.\", \"Sector\": \"Services\", \"Instruments\": \"Equity\", \"Assets\": \"3.52%\"} {\"Name\": \"ICICI Bank Ltd.\", \"Sector\": \"Financial\", \"Instruments\": \"Futures\", \"Assets\": \"3....",
+      "chunk_text_length": 2022
+    },
+    {
+      "section": "holding_analysis",
+      "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "scraped_at": "2026-03-08T02:00:28+0530",
+      "chunk_text_preview": "holding_analysis: {\"equity_debt_cash_split\": {\"equity_pct\": 98.32, \"debt_pct\": 0.53, \"cash_pct\": 0.0}, \"sector_allocation\": [{\"sector\": \"Financial\", \"percentage\": 23.21}, {\"sector\": \"Services\", \"percentage\": 15.03}, {\"sector\": \"Healthcare\", \"percentage\": 14.19}, {\"sector\": \"Energy\", \"percentage\": 12.82}, {\"sector\": \"Construction\", \"percentage\": 8.68}, {\"sector\": \"Consumer Staples\", \"percentage\": 5.38}, {\"sector\": \"Chemicals\", \"percentage\": 4.11}, {\"sector\": \"Metals & Mining\", \"percentage\": 3.18}...",
+      "chunk_text_length": 874
+    },
+    {
+      "section": "advanced_ratios",
+      "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "scraped_at": "2026-03-08T02:00:28+0530",
+      "chunk_text_preview": "advanced_ratios: {\"top_5\": {\"pe_ratio\": null, \"pb_ratio\": null}, \"top_20\": {\"pe_ratio\": null, \"pb_ratio\": null}, \"pe_ratio\": null, \"pb_ratio\": null, \"alpha\": 1.72, \"beta\": 0.8951, \"sharpe\": 0.7992, \"sortino\": 1.2515}",
+      "chunk_text_length": 216
+    },
+    {
+      "section": "minimum_investments",
+      "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "scraped_at": "2026-03-08T02:00:28+0530",
+      "chunk_text_preview": "minimum_investments: {\"min_first_investment\": \"5,000\", \"min_second_investment\": \"1,000\", \"min_sip\": \"1,000\"}",
+      "chunk_text_length": 108
+    },
+    {
+      "section": "returns_and_rankings",
+      "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "scraped_at": "2026-03-08T02:00:28+0530",
+      "chunk_text_preview": "returns_and_rankings: {\"annualised_returns\": [{\"Name\": \"Fund returns\", \"3Y\": \"+18.2%\", \"5Y\": \"+24.6%\", \"10Y\": \"+18.8%\", \"All\": \"+16.4%\"}, {\"Name\": \"Category average (Equity Small Cap)\", \"3Y\": \"+19.7%\", \"5Y\": \"+22.6%\", \"10Y\": \"+16.1%\", \"All\": \"--\"}, {\"Name\": \"Rank (Equity Small Cap)\", \"3Y\": \"18\", \"5Y\": \"1\", \"10Y\": \"--\", \"All\": \"--\"}], \"absolute_returns\": []}",
+      "chunk_text_length": 359
+    },
+    {
+      "section": "exit_load",
+      "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "scraped_at": "2026-03-08T02:00:28+0530",
+      "chunk_text_preview": "exit_load: Exit load of 1% if redeemed within 1 year",
+      "chunk_text_length": 52
+    },
+    {
+      "section": "tax_implication",
+      "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "scraped_at": "2026-03-08T02:00:28+0530",
+      "chunk_text_preview": "tax_implication: If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+      "chunk_text_length": 174
+    },
+    {
+      "section": "fund_managers",
+      "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "scraped_at": "2026-03-08T02:00:28+0530",
+      "chunk_text_preview": "fund_managers: {\"name\": \"Sanjeev Sharma\", \"tenure\": \"Oct 2019 - Present\", \"education\": \"Mr. Sharma is a Commerce Graduate and PGDBA (Finance) from Symbiosis, Pune.\", \"experience\": \"He has total work experience of 17 years including 13 years of experience in the financial market. He specializes in identifying crucial inflexion points in securities.\"} {\"name\": \"Sandeep Tandon\", \"tenure\": \"Feb 2025 - Present\", \"education\": \"Mr. Tandon has done MBA (Finance)\", \"experience\": \"Prior to joining Quant M...",
+      "chunk_text_length": 1754
+    },
+    {
+      "section": "about_fund",
+      "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "scraped_at": "2026-03-08T02:00:28+0530",
+      "chunk_text_preview": "about_fund: {\"description\": \"Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Manageme Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Sanjeev ...",
+      "chunk_text_length": 1105
+    },
+    {
+      "section": "fund_house",
+      "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "scraped_at": "2026-03-08T02:00:28+0530",
+      "chunk_text_preview": "fund_house: {\"rank_in_india\": 34, \"total_aum_cr\": \"87,740.35\", \"date_of_incorporation\": \"15 Apr 1996\", \"launch_date\": \"15 Apr 1996\", \"phone\": \"022-62955000\", \"email\": \"--\", \"website\": \"http://www.quantmutual.com\", \"address\": \"6th Floor, Sea Breeze Building,Appa Saheb Marathe Marg,Prabhadevi, Mumbai 400025\"}",
+      "chunk_text_length": 308
+    },
+    {
+      "section": "other_plans_in_same_fund",
+      "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "scraped_at": "2026-03-08T02:00:28+0530",
+      "chunk_text_preview": "other_plans_in_same_fund: {\"name\": \"Quant Small Cap Fund Direct Plan IDCW\"}",
+      "chunk_text_length": 75
+    },
+    {
+      "section": "faqs",
+      "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "scraped_at": "2026-03-08T02:00:28+0530",
+      "chunk_text_preview": "faqs: {\"question\": \"How to Invest in Quant Small Cap Fund Direct Plan Growth?\", \"answer\": \"You can easily invest in Quant Small Cap Fund Direct Plan Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:Log on to your Groww accountSearch for Quant Small Cap Fund Direct Plan Growth from the search boxIn order to invest, you will have to complete all the KYC formalities which are completely online ...",
+      "chunk_text_length": 2755
+    }
+  ]
+}

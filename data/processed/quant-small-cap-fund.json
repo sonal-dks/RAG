@@ -1,0 +1,929 @@
+{
+  "fund_key": "quant-small-cap-fund",
+  "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+  "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+  "basic_info": {
+    "nav": "251.85",
+    "nav_date": "06 Mar '26",
+    "fund_size_cr": "27,384.03",
+    "expense_ratio_pct": "0.81",
+    "min_sip": "1,000"
+  },
+  "fund_category_and_risk": {
+    "fund_category": "Equity",
+    "fund_type": "Small Cap",
+    "risk_level": "Very High Risk"
+  },
+  "performance_returns": {
+    "1D": "-0.52%",
+    "1M": "-3.87%",
+    "6M": "-8.13%",
+    "1Y": "+3.66%",
+    "3Y": "+18.20%",
+    "5Y": "+24.65%",
+    "10Y": "+18.81%",
+    "All": "+16.40%"
+  },
+  "return_calculator": {
+    "monthly_investment_used": "1000",
+    "sip": [
+      {
+        "Over the past": "1 year",
+        "Total investment": "₹12,000",
+        "Would've become": "₹10,431",
+        "Returns": "-13.08%"
+      },
+      {
+        "Over the past": "3 years",
+        "Total investment": "₹36,000",
+        "Would've become": "₹45,778",
+        "Returns": "+27.16%"
+      },
+      {
+        "Over the past": "5 years",
+        "Total investment": "₹60,000",
+        "Would've become": "₹1,24,843",
+        "Returns": "+108.07%"
+      },
+      {
+        "Over the past": "10 years",
+        "Total investment": "₹1,20,000",
+        "Would've become": "₹4,28,370",
+        "Returns": "+256.98%"
+      }
+    ],
+    "sip_return_rates": [
+      {
+        "period": "1 year",
+        "return_pct": -13.08
+      },
+      {
+        "period": "3 years",
+        "return_pct": 27.16
+      },
+      {
+        "period": "5 years",
+        "return_pct": 108.07
+      },
+      {
+        "period": "10 years",
+        "return_pct": 256.98
+      }
+    ]
+  },
+  "holdings": [
+    {
+      "Name": "Reliance Industries Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Equity",
+      "Assets": "9.46%"
+    },
+    {
+      "Name": "JIO Financial Services Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "5.62%"
+    },
+    {
+      "Name": "RBL Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "4.14%"
+    },
+    {
+      "Name": "Aegis Logistics Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "3.52%"
+    },
+    {
+      "Name": "ICICI Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Futures",
+      "Assets": "3.03%"
+    },
+    {
+      "Name": "Adani Power Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Equity",
+      "Assets": "2.99%"
+    },
+    {
+      "Name": "Sun TV Network Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "2.98%"
+    },
+    {
+      "Name": "Piramal Finance Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "2.76%"
+    },
+    {
+      "Name": "Anand Rathi Wealth Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "2.50%"
+    },
+    {
+      "Name": "Poly Medicure Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "2.42%"
+    },
+    {
+      "Name": "Ventive Hospitality Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "2.29%"
+    },
+    {
+      "Name": "Aster DM Healthcare Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "2.28%"
+    },
+    {
+      "Name": "HFCL Ltd.",
+      "Sector": "Communication",
+      "Instruments": "Equity",
+      "Assets": "2.25%"
+    },
+    {
+      "Name": "Bikaji Foods International Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Equity",
+      "Assets": "2.08%"
+    },
+    {
+      "Name": "Adani Enterprises Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "1.99%"
+    },
+    {
+      "Name": "Capri Global Capital Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "1.84%"
+    },
+    {
+      "Name": "NBCC (India) Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "1.77%"
+    },
+    {
+      "Name": "Adani Green Energy Ltd.",
+      "Sector": "Capital Goods",
+      "Instruments": "Equity",
+      "Assets": "1.69%"
+    },
+    {
+      "Name": "Bayer CropScience Ltd.",
+      "Sector": "Chemicals",
+      "Instruments": "Equity",
+      "Assets": "1.69%"
+    },
+    {
+      "Name": "Arvind Ltd.",
+      "Sector": "Textiles",
+      "Instruments": "Equity",
+      "Assets": "1.69%"
+    },
+    {
+      "Name": "Viyash Scientific Limited",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "1.67%"
+    },
+    {
+      "Name": "Usha Martin Ltd.",
+      "Sector": "Metals & Mining",
+      "Instruments": "Equity",
+      "Assets": "1.60%"
+    },
+    {
+      "Name": "Aditya Birla Lifestyle Brands Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "1.53%"
+    },
+    {
+      "Name": "Pfizer Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "1.52%"
+    },
+    {
+      "Name": "Zydus Wellness Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Equity",
+      "Assets": "1.48%"
+    },
+    {
+      "Name": "Minda Corporation Ltd.",
+      "Sector": "Automobile",
+      "Instruments": "Equity",
+      "Assets": "1.47%"
+    },
+    {
+      "Name": "Marathon Nextgen Realty Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "1.25%"
+    },
+    {
+      "Name": "Welspun Enterprises Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "1.16%"
+    },
+    {
+      "Name": "Welspun Corp Ltd.",
+      "Sector": "Metals & Mining",
+      "Instruments": "Equity",
+      "Assets": "1.15%"
+    },
+    {
+      "Name": "Strides Pharma Science Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "1.14%"
+    },
+    {
+      "Name": "Keystone Realtors Ltd",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "1.13%"
+    },
+    {
+      "Name": "Samvardhana Motherson International Ltd.",
+      "Sector": "Automobile",
+      "Instruments": "Equity",
+      "Assets": "1.09%"
+    },
+    {
+      "Name": "Jubilant Pharmova Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "1.06%"
+    },
+    {
+      "Name": "The Karnataka Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "0.98%"
+    },
+    {
+      "Name": "Gland Pharma Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "0.93%"
+    },
+    {
+      "Name": "NCC Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "0.93%"
+    },
+    {
+      "Name": "E.I.D. - Parry (India) Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Equity",
+      "Assets": "0.92%"
+    },
+    {
+      "Name": "Just Dial Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "0.92%"
+    },
+    {
+      "Name": "Orchid Pharma Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "0.88%"
+    },
+    {
+      "Name": "Anthem Biosciences Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "0.81%"
+    },
+    {
+      "Name": "Afcons Infrastructure Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "0.80%"
+    },
+    {
+      "Name": "JM Financial Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "0.79%"
+    },
+    {
+      "Name": "HDFC Life Insurance Co Ltd.",
+      "Sector": "Insurance",
+      "Instruments": "Equity",
+      "Assets": "0.62%"
+    },
+    {
+      "Name": "Alivus Life Sciences Ltd",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "0.61%"
+    },
+    {
+      "Name": "Aarti Industries Ltd.",
+      "Sector": "Chemicals",
+      "Instruments": "Equity",
+      "Assets": "0.57%"
+    },
+    {
+      "Name": "TVS Srichakra Ltd.",
+      "Sector": "Automobile",
+      "Instruments": "Equity",
+      "Assets": "0.56%"
+    },
+    {
+      "Name": "IRB Infrastructure Developers Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "0.56%"
+    },
+    {
+      "Name": "EPL Ltd.",
+      "Sector": "Chemicals",
+      "Instruments": "Equity",
+      "Assets": "0.55%"
+    },
+    {
+      "Name": "Welspun Living Ltd.",
+      "Sector": "Consumer Discretionary",
+      "Instruments": "Equity",
+      "Assets": "0.55%"
+    },
+    {
+      "Name": "Gujarat State Fertilizers & Chemicals Ltd.",
+      "Sector": "Chemicals",
+      "Instruments": "Equity",
+      "Assets": "0.52%"
+    },
+    {
+      "Name": "Juniper Hotels Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "0.50%"
+    },
+    {
+      "Name": "HDFC Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Futures",
+      "Assets": "0.48%"
+    },
+    {
+      "Name": "Apeejay Surrendra Park Hotels Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "0.47%"
+    },
+    {
+      "Name": "Aditya Birla Fashion and Retail Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "0.44%"
+    },
+    {
+      "Name": "K.P.R. Mill Ltd.",
+      "Sector": "Textiles",
+      "Instruments": "Equity",
+      "Assets": "0.42%"
+    },
+    {
+      "Name": "Aptus Value Housing Finance India Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "0.37%"
+    },
+    {
+      "Name": "Black Box Ltd.",
+      "Sector": "Technology",
+      "Instruments": "Equity",
+      "Assets": "0.35%"
+    },
+    {
+      "Name": "Indoco Remedies Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "0.33%"
+    },
+    {
+      "Name": "Nitin Spinners Ltd.",
+      "Sector": "Textiles",
+      "Instruments": "Equity",
+      "Assets": "0.33%"
+    },
+    {
+      "Name": "BASF India Ltd.",
+      "Sector": "Chemicals",
+      "Instruments": "Equity",
+      "Assets": "0.31%"
+    },
+    {
+      "Name": "NBCC (India) Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Futures",
+      "Assets": "0.30%"
+    },
+    {
+      "Name": "Balrampur Chini Mills Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Equity",
+      "Assets": "0.29%"
+    },
+    {
+      "Name": "Sula Vineyards Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Equity",
+      "Assets": "0.28%"
+    },
+    {
+      "Name": "Bata India Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Equity",
+      "Assets": "0.28%"
+    },
+    {
+      "Name": "Rishabh Instruments Ltd.",
+      "Sector": "Capital Goods",
+      "Instruments": "Equity",
+      "Assets": "0.26%"
+    },
+    {
+      "Name": "Maharashtra Seamless Ltd.",
+      "Sector": "Metals & Mining",
+      "Instruments": "Equity",
+      "Assets": "0.25%"
+    },
+    {
+      "Name": "Man Infraconstruction Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "0.24%"
+    },
+    {
+      "Name": "Suven Life Sciences Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "0.23%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.22%"
+    },
+    {
+      "Name": "SMS Pharmaceuticals Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "0.22%"
+    },
+    {
+      "Name": "Oswal Pumps Ltd.",
+      "Sector": "Capital Goods",
+      "Instruments": "Equity",
+      "Assets": "0.21%"
+    },
+    {
+      "Name": "Castrol India Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Equity",
+      "Assets": "0.21%"
+    },
+    {
+      "Name": "Vinati Organics Ltd.",
+      "Sector": "Chemicals",
+      "Instruments": "Equity",
+      "Assets": "0.20%"
+    },
+    {
+      "Name": "S.P. Apparels Ltd.",
+      "Sector": "Textiles",
+      "Instruments": "Equity",
+      "Assets": "0.20%"
+    },
+    {
+      "Name": "Embassy Developments Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "0.19%"
+    },
+    {
+      "Name": "Himadri Speciality Chemical Ltd.",
+      "Sector": "Chemicals",
+      "Instruments": "Equity",
+      "Assets": "0.19%"
+    },
+    {
+      "Name": "Orissa Minerals Development Company Ltd.",
+      "Sector": "Metals & Mining",
+      "Instruments": "Equity",
+      "Assets": "0.18%"
+    },
+    {
+      "Name": "Intellect Design Arena Ltd.",
+      "Sector": "Technology",
+      "Instruments": "Equity",
+      "Assets": "0.17%"
+    },
+    {
+      "Name": "Prime Securities Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "0.17%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.17%"
+    },
+    {
+      "Name": "Capacit'e Infraprojects Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "0.16%"
+    },
+    {
+      "Name": "Exicom Tele-Systems Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Equity",
+      "Assets": "0.16%"
+    },
+    {
+      "Name": "Digitide Solutions Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "0.11%"
+    },
+    {
+      "Name": "Mahindra Holidays & Resorts India Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "0.11%"
+    },
+    {
+      "Name": "Indian Hume Pipe Company Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "0.11%"
+    },
+    {
+      "Name": "Newgen Software Technologies Ltd.",
+      "Sector": "Technology",
+      "Instruments": "Equity",
+      "Assets": "0.11%"
+    },
+    {
+      "Name": "Graphite India Ltd.",
+      "Sector": "Capital Goods",
+      "Instruments": "Equity",
+      "Assets": "0.10%"
+    },
+    {
+      "Name": "Sanofi India Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "0.09%"
+    },
+    {
+      "Name": "Ethos Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "0.09%"
+    },
+    {
+      "Name": "Sai Silks (Kalamandir) Ltd.",
+      "Sector": "Textiles",
+      "Instruments": "Equity",
+      "Assets": "0.09%"
+    },
+    {
+      "Name": "Vishnu Prakash R Punglia Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "0.08%"
+    },
+    {
+      "Name": "Oriental Hotels Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "0.08%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.07%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.07%"
+    },
+    {
+      "Name": "Best Agrolife Ltd.",
+      "Sector": "Chemicals",
+      "Instruments": "Equity",
+      "Assets": "0.05%"
+    },
+    {
+      "Name": "Gillette India Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Equity",
+      "Assets": "0.05%"
+    },
+    {
+      "Name": "Stanley Lifestyles Ltd.",
+      "Sector": "Consumer Discretionary",
+      "Instruments": "Equity",
+      "Assets": "0.05%"
+    },
+    {
+      "Name": "Ravindra Energy Ltd.",
+      "Sector": "Capital Goods",
+      "Instruments": "Equity",
+      "Assets": "0.04%"
+    },
+    {
+      "Name": "Primo Chemicals Ltd.",
+      "Sector": "Chemicals",
+      "Instruments": "Equity",
+      "Assets": "0.03%"
+    },
+    {
+      "Name": "Om Infra Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "0.00%"
+    },
+    {
+      "Name": "Quant Gilt Fund Direct - Growth",
+      "Sector": "--",
+      "Instruments": "Mutual Fund",
+      "Assets": "0.00%"
+    }
+  ],
+  "holding_analysis": {
+    "equity_debt_cash_split": {
+      "equity_pct": 98.27,
+      "debt_pct": 5.48,
+      "cash_pct": -3.75
+    },
+    "sector_allocation": [
+      {
+        "sector": "Financial",
+        "percentage": 23.69
+      },
+      {
+        "sector": "Energy & Utilities",
+        "percentage": 18.17
+      },
+      {
+        "sector": "Consumer Discretionary",
+        "percentage": 15.45
+      },
+      {
+        "sector": "Healthcare",
+        "percentage": 14.44
+      },
+      {
+        "sector": "Materials",
+        "percentage": 10.34
+      },
+      {
+        "sector": "Industrials",
+        "percentage": 7.16
+      },
+      {
+        "sector": "Consumer Staples",
+        "percentage": 4.26
+      },
+      {
+        "sector": "Technology",
+        "percentage": 3.86
+      },
+      {
+        "sector": "Real Estate",
+        "percentage": 2.62
+      }
+    ]
+  },
+  "minimum_investments": {
+    "min_first_investment": "5,000",
+    "min_second_investment": "1,000",
+    "min_sip": "1,000"
+  },
+  "returns_and_rankings": {
+    "annualised_returns": [
+      {
+        "Name": "Fund returns",
+        "3Y": "+18.2%",
+        "5Y": "+24.6%",
+        "10Y": "+18.8%",
+        "All": "+16.4%"
+      },
+      {
+        "Name": "Category average (Equity Small Cap)",
+        "3Y": "+19.7%",
+        "5Y": "+22.6%",
+        "10Y": "+16.1%",
+        "All": "--"
+      },
+      {
+        "Name": "Rank (Equity Small Cap)",
+        "3Y": "18",
+        "5Y": "1",
+        "10Y": "--",
+        "All": "--"
+      }
+    ],
+    "absolute_returns": [
+      {
+        "Name": "Fund returns",
+        "3Y": "+71.42%",
+        "5Y": "+201.07%",
+        "10Y": "+467.71%",
+        "All": "+646.43%"
+      },
+      {
+        "Name": "Category average (Equity Small Cap)",
+        "3Y": "+71.49%",
+        "5Y": "+177.38%",
+        "10Y": "--",
+        "All": "--"
+      },
+      {
+        "Name": "Rank (Equity Small Cap)",
+        "3Y": "18",
+        "5Y": "1",
+        "10Y": "--",
+        "All": "--"
+      }
+    ]
+  },
+  "exit_load": "Exit load of 1% if redeemed within 1 year",
+  "stamp_duty": "Stamp duty on investment: 0.005%",
+  "tax_implication": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
+  "similar_funds": [
+    {
+      "": "",
+      "Name": "Bandhan Small Cap Fund Direct Growth",
+      "1Y": "+10.22%",
+      "3Y": "+29.35%",
+      "Fund Size(Cr)": "19,266.54"
+    },
+    {
+      "": "",
+      "Name": "Invesco India Smallcap Fund Direct Growth",
+      "1Y": "+14.59%",
+      "3Y": "+24.21%",
+      "Fund Size(Cr)": "9,717.22"
+    },
+    {
+      "": "",
+      "Name": "Nippon India Small Cap Fund Direct Growth",
+      "1Y": "+9.13%",
+      "3Y": "+20.13%",
+      "Fund Size(Cr)": "65,812.16"
+    },
+    {
+      "": "",
+      "Name": "Quant Small Cap Fund Direct Plan Growth",
+      "1Y": "+3.66%",
+      "3Y": "+18.20%",
+      "Fund Size(Cr)": "27,384.03"
+    },
+    {
+      "": "",
+      "Name": "Axis Small Cap Fund Direct Growth",
+      "1Y": "+8.56%",
+      "3Y": "+17.51%",
+      "Fund Size(Cr)": "25,516.76"
+    }
+  ],
+  "fund_managers": [
+    {
+      "name": "Sanjeev Sharma",
+      "tenure": "Oct 2019 - Present",
+      "education": "Mr. Sharma is a Commerce Graduate and PGDBA (Finance) from Symbiosis, Pune.",
+      "experience": "He has total work experience of 17 years including 13 years of experience in the financial market. He specializes in identifying crucial inflexion points in securities."
+    },
+    {
+      "name": "Sandeep Tandon",
+      "tenure": "Feb 2025 - Present",
+      "education": "Mr. Tandon has done MBA (Finance)",
+      "experience": "Prior to joining Quant Mutual Fund, he has worked with ICICI Securities as Vice President, The Economic Times and IDBI AMC."
+    },
+    {
+      "name": "Ankit A Pande",
+      "tenure": "May 2020 - Present",
+      "education": "Mr. Pande has done CFA and MBA",
+      "experience": "Prior to joining Quant Mutual Fund he has worked with Infosys Finacle. Began his career in equity research in 2011."
+    },
+    {
+      "name": "Varun Pattani",
+      "tenure": "Feb 2025 - Present",
+      "education": "Mr. Pattani is an ACA",
+      "experience": "Prior to joining Quant Mutual Fund, he has worked with boutique PMS firm."
+    },
+    {
+      "name": "Sameer Kate",
+      "tenure": "Mar 2025 - Present",
+      "education": "Bachelor of Computer Science, MBA from IME Pune.",
+      "experience": "Prior to joining Quant Mutual Fund, he was working with Investec Capital and Kotak Securities,"
+    },
+    {
+      "name": "Ayusha Kumbhat",
+      "tenure": "Feb 2025 - Present",
+      "education": "CFA Level III, BSc (Hons) in Economics, MSc in Behavioural & Experimental Economics",
+      "experience": "She is working with Quant Mutual fund as Research Analyst for the past 15 months, specializing in investment research."
+    },
+    {
+      "name": "Yug Tibrewal",
+      "tenure": "Mar 2025 - Present",
+      "education": "B.M.S, CFA L1",
+      "experience": "Yug is an investment professional with over 2 years of experience in dealing related activities"
+    }
+  ],
+  "about_fund": {
+    "description": "Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Manageme Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹87,740 Cr and the Latest NAV as of 06 Mar 2026 is ₹251.85. The Quant Small Cap Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 1 year ...Read more",
+    "investment_objective": "The scheme seeks to generate capital appreciation by investing in a well-diversified portfolio of small cap companies.",
+    "benchmark": "NIFTY Smallcap 250 Total Return Index"
+  },
+  "fund_house": {
+    "rank_in_india": 34,
+    "total_aum_cr": "87,740.35",
+    "date_of_incorporation": "15 Apr 1996",
+    "launch_date": "15 Apr 1996",
+    "phone": "022-62955000",
+    "email": "--",
+    "website": "http://www.quantmutual.com",
+    "address": "6th Floor, Sea Breeze Building,Appa Saheb Marathe Marg,Prabhadevi, Mumbai 400025"
+  },
+  "advanced_ratios": {
+    "top_5": "26%",
+    "top_20": "59%",
+    "pe_ratio": 25.94,
+    "pb_ratio": 2.27,
+    "alpha": 1.72,
+    "beta": 0.9,
+    "sharpe": 0.8,
+    "sortino": 1.25
+  },
+  "other_plans_in_same_fund": [
+    {
+      "name": "Quant Small Cap Fund Direct Plan IDCW"
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How to Invest in Quant Small Cap Fund Direct Plan Growth?",
+      "answer": "You can easily invest in Quant Small Cap Fund Direct Plan Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:Log on to your Groww accountSearch for Quant Small Cap Fund Direct Plan Growth from the search boxIn order to invest, you will have to complete all the KYC formalities which are completely online and paperless and take a few minutes to completeOnce you are done with that, you can start investing in Quant Small Cap Fund Direct Plan Growth as SIP or lumpsum as per your investment objective and risk tolerance"
+    },
+    {
+      "question": "What kind of returns does Quant Small Cap Fund Direct Plan Growth provide?",
+      "answer": "The Quant Small Cap Fund Direct Plan Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 3.66% since its inception."
+    },
+    {
+      "question": "How much expense ratio is charged by Quant Small Cap Fund Direct Plan Growth?",
+      "answer": "The termExpense Ratioused for Quant Small Cap Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Small Cap Fund Direct Plan Growth is 0.81% as of 08 Mar 2026..."
+    },
+    {
+      "question": "What is the AUM of Quant Small Cap Fund Direct Plan Growth?",
+      "answer": "The AUM, short forAssets Under Managementof Quant Small Cap Fund Direct Plan Growth is ₹27,384.03Cr as of 08 Mar 2026."
+    },
+    {
+      "question": "How to Redeem Quant Small Cap Fund Direct Plan Growth?",
+      "answer": "If you want to sell your Quant Small Cap Fund Direct Plan Growth holdings, go to your holding on the app or web and simply click on it. You will get two options - redeem & invest more; click on redeem and enter your desired amount or if you wish to redeem the entire holding amount then select the 'redeem all' checkbox."
+    },
+    {
+      "question": "Can I invest in SIP and Lump Sum of Quant Small Cap Fund Direct Plan Growth?",
+      "answer": "You can select eitherSIPorLumpsuminvestment of Quant Small Cap Fund Direct Plan Growth based on your investment objective and risk tolerance."
+    },
+    {
+      "question": "What is the NAV of Quant Small Cap Fund Direct Plan Growth?",
+      "answer": "The NAV of Quant Small Cap Fund Direct Plan Growth is ₹251.85 as of 06 Mar 2026."
+    },
+    {
+      "question": "What is the PE and PB ratio of Quant Small Cap Fund Direct Plan Growth?",
+      "answer": "ThePE ratioratio of Quant Small Cap Fund Direct Plan Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
+    }
+  ],
+  "scraped_at": "2026-03-08T17:48:14+0530"
+}

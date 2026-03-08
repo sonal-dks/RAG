@@ -1,0 +1,40 @@
+{
+  "query": "What is the expense ratio of Quant Small Cap Fund?",
+  "fund_name": "Quant Small Cap Fund Direct Plan Growth",
+  "sufficient": true,
+  "num_chunks_returned": 5,
+  "chunks": [
+    {
+      "section": "about_fund",
+      "similarity": 0.8385,
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "chunk_text_preview": "about_fund: {\"description\": \"Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Manageme Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme..."
+    },
+    {
+      "section": "faqs",
+      "similarity": 0.8208,
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "chunk_text_preview": "faqs: {\"question\": \"How to Invest in Quant Small Cap Fund Direct Plan Growth?\", \"answer\": \"You can easily invest in Quant Small Cap Fund Direct Plan Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps:Log on to your Groww accountSearch for Quant Small Cap Fund Direct Plan Growth from the search b..."
+    },
+    {
+      "section": "other_plans_in_same_fund",
+      "similarity": 0.7436,
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "chunk_text_preview": "other_plans_in_same_fund: {\"name\": \"Quant Small Cap Fund Direct Plan IDCW\"}"
+    },
+    {
+      "section": "fund_category_and_risk",
+      "similarity": 0.7222,
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "chunk_text_preview": "fund_category_and_risk: {\"fund_category\": \"Equity\", \"fund_type\": \"Small Cap\", \"risk_level\": \"Very High Risk\"}"
+    },
+    {
+      "section": "minimum_investments",
+      "similarity": 0.7078,
+      "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+      "chunk_text_preview": "minimum_investments: {\"min_first_investment\": \"5,000\", \"min_second_investment\": \"1,000\", \"min_sip\": \"1,000\"}"
+    }
+  ],
+  "retrieved_context_preview": "---\nabout_fund: {\"description\": \"Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Manageme Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 15 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹87,740 Cr and the Latest NAV as of 06 Mar 2026 is ₹251.85. The Quant Small Cap Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 1 year ...Read more\", \"investment_objective\": \"The scheme seeks to generate capital appreciation by investing in a well-diversified portfolio of small cap companies.\", \"benchmark\": \"NIFTY Smallcap 250 Total Return Index\"}\nSource: https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth\n---\n\n---\nfaqs: {\"question\": \"How to Invest in Quant Small Cap Fund Direct Plan Growth?\", \"answer\": \"You can easily invest in Quant Small Cap Fund Direct Plan Growth in a hassle-free manner on Groww. The process is extremely simple, quick and completely paperless. Invest in a few minutes with the following steps...",
+  "retrieved_context_length": 4590
+}

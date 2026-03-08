@@ -1,0 +1,62 @@
+{
+  "quant-small-cap-fund": {
+    "hash": "1ae95616af5372a6aea5dd7a4368ea60c8ed85f1acfd93e70140c252c37a0136",
+    "file": "/Users/sonal/Documents/AI Projects/Mutual Fund RAG/data/raw/quant-small-cap-fund.html",
+    "url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
+    "scraped_at": "2026-03-08T17:38:19+0530"
+  },
+  "quant-infrastructure-fund": {
+    "hash": "cbce14d5cc26035b9578a00b7f9c74328ded3107bb50cc3898b1fefaa8136ad8",
+    "file": "/Users/sonal/Documents/AI Projects/Mutual Fund RAG/data/raw/quant-infrastructure-fund.html",
+    "url": "https://groww.in/mutual-funds/quant-infrastructure-fund-direct-growth",
+    "scraped_at": "2026-03-08T17:38:27+0530"
+  },
+  "quant-flexi-cap-fund": {
+    "hash": "2a4783b05b2f7226b053bdcfee036c2d3119c74ae42fba0816fc779ad8dd762e",
+    "file": "/Users/sonal/Documents/AI Projects/Mutual Fund RAG/data/raw/quant-flexi-cap-fund.html",
+    "url": "https://groww.in/mutual-funds/quant-flexi-cap-fund-direct-growth",
+    "scraped_at": "2026-03-08T17:38:36+0530"
+  },
+  "quant-elss-tax-saver-fund": {
+    "hash": "1a87a0de70d87bb7263cc8340c7cec891c0edc24ce23ee210ce196fc52f8b3bb",
+    "file": "/Users/sonal/Documents/AI Projects/Mutual Fund RAG/data/raw/quant-elss-tax-saver-fund.html",
+    "url": "https://groww.in/mutual-funds/quant-elss-tax-saver-fund-direct-growth",
+    "scraped_at": "2026-03-08T17:38:45+0530"
+  },
+  "quant-large-cap-fund": {
+    "hash": "9e68ad4c10b5d3476bc03002213bfe7b1a1f7fe9dc5e7224814ade01eea31a0b",
+    "file": "/Users/sonal/Documents/AI Projects/Mutual Fund RAG/data/raw/quant-large-cap-fund.html",
+    "url": "https://groww.in/mutual-funds/quant-large-cap-fund-direct-growth",
+    "scraped_at": "2026-03-08T17:38:53+0530"
+  },
+  "quant-esg-integration-strategy-fund": {
+    "hash": "4bb8339eb602df99388d826241c3cffe516a4a935799f85965b0e577cda4cdfd",
+    "file": "/Users/sonal/Documents/AI Projects/Mutual Fund RAG/data/raw/quant-esg-integration-strategy-fund.html",
+    "url": "https://groww.in/mutual-funds/quant-esg-integration-strategy-fund-direct-growth",
+    "scraped_at": "2026-03-08T17:39:02+0530"
+  },
+  "quant-mid-cap-fund": {
+    "hash": "f555b6f9b4211b4c84ec48e750c0cbf0c63c4edd33de7db4ea3e801472e5095b",
+    "file": "/Users/sonal/Documents/AI Projects/Mutual Fund RAG/data/raw/quant-mid-cap-fund.html",
+    "url": "https://groww.in/mutual-funds/quant-mid-cap-fund-direct-growth",
+    "scraped_at": "2026-03-08T17:39:11+0530"
+  },
+  "quant-multi-cap-fund": {
+    "hash": "bf24f77b2e3f1adce30c0be0faf9abcae9a121bae5bc6528a33cbea774b3d298",
+    "file": "/Users/sonal/Documents/AI Projects/Mutual Fund RAG/data/raw/quant-multi-cap-fund.html",
+    "url": "https://groww.in/mutual-funds/quant-multi-cap-fund-direct-growth",
+    "scraped_at": "2026-03-08T17:39:20+0530"
+  },
+  "quant-aggressive-hybrid-fund": {
+    "hash": "a87fe810e151789b1debddf9258cf8c07537784a54e04690f8a8ceea60bd19ba",
+    "file": "/Users/sonal/Documents/AI Projects/Mutual Fund RAG/data/raw/quant-aggressive-hybrid-fund.html",
+    "url": "https://groww.in/mutual-funds/quant-aggressive-hybrid-fund-direct-growth",
+    "scraped_at": "2026-03-08T17:39:28+0530"
+  },
+  "quant-focused-fund": {
+    "hash": "c42b2b4441390c4ac5c6257f7c63a9f5b0c4682c0a6904ae1aa58d1304693460",
+    "file": "/Users/sonal/Documents/AI Projects/Mutual Fund RAG/data/raw/quant-focused-fund.html",
+    "url": "https://groww.in/mutual-funds/quant-focused-fund-direct-growth",
+    "scraped_at": "2026-03-08T17:39:37+0530"
+  }
+}
