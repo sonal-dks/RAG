@@ -4,10 +4,11 @@ Phase 7 — RAG pipeline: Phase 2 → 3 → 4 → 5 → 6.
 Stateless: one user message in, one response + citations out.
 
 Multi-fund strategy: when multiple funds are selected, each fund gets its own
-Phase 3→4→5 cycle (dedicated retrieval + dedicated LLM call) so the answer for
-each fund is complete and accurate. The per-fund answers are then combined and
-run through Phase 6 once.  With Groq latency at ~0.3s per call this stays fast.
+Phase 3→4→5 cycle (dedicated retrieval + dedicated LLM call) run in **parallel**
+via ThreadPoolExecutor.  Groq calls are I/O-bound so threads work well.
 """
+
+from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from phase2_input_guardrails import process_query as guardrail_process
 from phase3_query_processing import process_query as query_process
@@ -63,24 +64,40 @@ def _run_single_fund(text: str, fund_name: str) -> dict:
     }
 
 
+def _process_single_fund_for_multi(fund_name: str, text: str) -> tuple[str, str]:
+    """Retrieve + generate for one fund. Called in parallel by _run_multi_fund."""
+    ctx, source_url = _retrieve_for_fund(fund_name, text)
+    q5 = generation_process(
+        f"{fund_name}: {text}",
+        ctx,
+        sufficient=bool(ctx),
+    )
+    raw = (q5.get("raw_response") or "").strip()
+    answer = f"**{fund_name}:** {raw}" if raw else ""
+    return answer, source_url
+
+
 def _run_multi_fund(text: str, funds: list[str]) -> dict:
-    """One LLM call per fund → combine per-fund answers → Phase 6."""
+    """One LLM call per fund, run in parallel via ThreadPoolExecutor."""
     per_fund_answers: list[str] = []
     all_citations: list[str] = []
 
-    for fund_name in funds:
-        ctx, source_url = _retrieve_for_fund(fund_name, text)
-        if source_url:
-            all_citations.append(source_url)
+    with ThreadPoolExecutor(max_workers=min(len(funds), 5)) as executor:
+        futures = {
+            executor.submit(_process_single_fund_for_multi, fund, text): fund
+            for fund in funds
+        }
+        results_ordered = []
+        for future in as_completed(futures):
+            fund_name = futures[future]
+            answer, source_url = future.result()
+            results_ordered.append((funds.index(fund_name), answer, source_url))
 
-        q5 = generation_process(
-            f"{fund_name}: {text}",
-            ctx,
-            sufficient=bool(ctx),
-        )
-        raw = (q5.get("raw_response") or "").strip()
-        if raw:
-            per_fund_answers.append(f"**{fund_name}:** {raw}")
+        for _, answer, source_url in sorted(results_ordered):
+            if answer:
+                per_fund_answers.append(answer)
+            if source_url:
+                all_citations.append(source_url)
 
     if not per_fund_answers:
         return {

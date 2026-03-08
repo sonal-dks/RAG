@@ -16,7 +16,15 @@ from .config import (
 from .embedding import embed_text, embed_texts
 
 
+_cached_client = None
+_cached_collection = None
+
+
 def _get_client(persist: bool = True):
+    global _cached_client
+    if persist and _cached_client is not None:
+        return _cached_client
+
     import chromadb
     from chromadb.config import Settings
 
@@ -26,18 +34,27 @@ def _get_client(persist: bool = True):
 
     settings = Settings(anonymized_telemetry=False)
     if persist_dir:
-        return chromadb.PersistentClient(path=persist_dir, settings=settings)
+        client = chromadb.PersistentClient(path=persist_dir, settings=settings)
+        _cached_client = client
+        return client
     return chromadb.Client(settings)
 
 
 def get_collection(client=None, persist: bool = True):
-    """Get or create the chunks collection."""
+    """Get or create the chunks collection (cached for persistent mode)."""
+    global _cached_collection
+    if persist and client is None and _cached_collection is not None:
+        return _cached_collection
+
     if client is None:
         client = _get_client(persist=persist)
-    return client.get_or_create_collection(
+    coll = client.get_or_create_collection(
         name=COLLECTION_NAME,
         metadata={"hnsw:space": "cosine"},
     )
+    if persist:
+        _cached_collection = coll
+    return coll
 
 
 def add_chunks(chunks: list[dict], collection=None) -> None:

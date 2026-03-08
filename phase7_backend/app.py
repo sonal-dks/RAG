@@ -35,21 +35,25 @@ app = FastAPI(
 
 @app.on_event("startup")
 def _warmup():
-    """Pre-load the embedding model in a background thread so /health responds immediately."""
+    """Pre-load embedding model + ChromaDB collection synchronously so first query is fast."""
     import logging
-    import threading
     log = logging.getLogger(__name__)
 
-    def _load():
-        log.info("Warming up embedding model…")
-        try:
-            from phase4_retrieval_engine.embedding import get_embedding_model
-            get_embedding_model()
-            log.info("Embedding model ready.")
-        except Exception as e:
-            log.warning("Embedding model warm-up failed (will retry on first query): %s", e)
+    log.info("Warming up embedding model…")
+    try:
+        from phase4_retrieval_engine.embedding import get_embedding_model
+        get_embedding_model()
+        log.info("Embedding model ready.")
+    except Exception as e:
+        log.warning("Embedding model warm-up failed (will retry on first query): %s", e)
 
-    threading.Thread(target=_load, daemon=True).start()
+    log.info("Warming up ChromaDB collection…")
+    try:
+        from phase4_retrieval_engine.store import get_collection
+        get_collection()
+        log.info("ChromaDB collection ready.")
+    except Exception as e:
+        log.warning("ChromaDB warm-up failed (will retry on first query): %s", e)
 
 
 app.add_middleware(

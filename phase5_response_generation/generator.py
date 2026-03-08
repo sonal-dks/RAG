@@ -61,15 +61,23 @@ def _read_groq_key() -> str | None:
     return None
 
 
+_cached_client = None
+
+
 def _get_client():
-    """Lazy import and client creation; raises if API key missing."""
+    """Lazy-create and cache a single Groq client (reuses HTTP connection pool)."""
+    global _cached_client
+    if _cached_client is not None:
+        return _cached_client
+
     from groq import Groq
 
     api_key = _read_groq_key()
     if not api_key:
         logger.warning("GROQ_API_KEY missing. Set it in .env (see .env.example).")
         raise ValueError(f"Missing {GROQ_API_KEY_ENV}. Set it in .env for LLM calls.")
-    return Groq(api_key=api_key)
+    _cached_client = Groq(api_key=api_key)
+    return _cached_client
 
 
 def generate(retrieved_context: str, user_query: str) -> str:
