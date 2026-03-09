@@ -336,7 +336,7 @@
       {
         "Name": "Rank (Equity Large Cap)",
         "6M": "--",
-        "1Y": "56",
+        "1Y": "57",
         "3Y": "30",
         "All": "--"
       }
@@ -344,10 +344,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "6M": "+0.77%",
-        "1Y": "+15.32%",
-        "3Y": "+65.57%",
-        "All": "+55.31%"
+        "6M": "-1.48%",
+        "1Y": "+9.69%",
+        "3Y": "+58.10%",
+        "All": "+51.30%"
       },
       {
         "Name": "Category average (Equity Large Cap)",
@@ -359,7 +359,7 @@
       {
         "Name": "Rank (Equity Large Cap)",
         "6M": "--",
-        "1Y": "56",
+        "1Y": "57",
         "3Y": "30",
         "All": "--"
       }
@@ -496,11 +496,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Large Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Large Cap Fund Direct Growth is 0.52% as of 08 Mar 2026..."
+      "answer": "The termExpense Ratioused for Quant Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Large Cap Fund Direct Growth is 0.52% as of 09 Mar 2026..."
     },
     {
       "question": "What is the AUM of Quant Large Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Large Cap Fund Direct Growth is ₹2,919.82Cr as of 08 Mar 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Large Cap Fund Direct Growth is ₹2,919.82Cr as of 09 Mar 2026."
     },
     {
       "question": "How to Redeem Quant Large Cap Fund Direct Growth?",
@@ -519,5 +519,5 @@
       "answer": "ThePE ratioratio of Quant Large Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-03-08T16:59:24+0000"
+  "scraped_at": "2026-03-09T06:41:32+0000"
 }
