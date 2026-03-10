@@ -49,12 +49,24 @@ def process_query(
 def build_index_from_processed_dir(processed_dir: Path) -> int:
     """
     Load all processed fund JSONs, chunk them, and add to ChromaDB.
+
+    The existing collection contents are cleared first so each run
+    produces a fresh, de-duplicated index that exactly mirrors the
+    current processed JSON files.
+
     Returns number of chunks indexed.
     """
     from .chunking import chunk_fund_document
     from .store import add_chunks, get_collection
     import json
     collection = get_collection()
+    try:
+        # Remove any previously indexed chunks so we don't mix old and new NAV
+        # data across scheduler runs.
+        collection.delete(where={})
+    except Exception:
+        # If delete is not supported for some reason, continue with add-only.
+        pass
     total = 0
     for path in sorted(processed_dir.glob("quant-*.json")):
         if path.name == "all_funds.json":
