@@ -24,11 +24,19 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-async def run_full_pipeline() -> None:
-    """Scrape → Parse → Store for all 10 funds."""
-    logger.info("Starting full ingestion pipeline for %d funds", len(FUND_URLS))
+async def run_full_pipeline(force_refresh: bool = False) -> None:
+    """Scrape → Parse → Store for all 10 funds.
 
-    saved_files = await scrape_all_funds()
+    When ``force_refresh`` is True, bypass the HTML content-hash cache and
+    always write fresh raw HTML for each fund (used by the daily scheduler).
+    """
+    logger.info(
+        "Starting full ingestion pipeline for %d funds (force_refresh=%s)",
+        len(FUND_URLS),
+        force_refresh,
+    )
+
+    saved_files = await scrape_all_funds(force_refresh=force_refresh)
 
     all_parsed: list[dict] = []
     for fund_key, html_path in saved_files.items():

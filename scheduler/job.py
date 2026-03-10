@@ -16,7 +16,9 @@ logger = logging.getLogger(__name__)
 
 def _run_phase1_pipeline() -> None:
     from phase1_data_ingestion.run_ingestion import run_full_pipeline
-    asyncio.run(run_full_pipeline())
+    # For the daily scheduler we always want fresh HTML, even if the content hash
+    # matches the previous run (NAV/date changes, etc.), so we bypass the cache.
+    asyncio.run(run_full_pipeline(force_refresh=True))
 
 
 def _run_phase4_index_build(processed_dir: Path) -> int:

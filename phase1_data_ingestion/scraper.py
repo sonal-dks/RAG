@@ -45,7 +45,7 @@ def _content_hash(html: str) -> str:
     return hashlib.sha256(html.encode("utf-8")).hexdigest()
 
 
-async def scrape_all_funds() -> dict[str, Path]:
+async def scrape_all_funds(force_refresh: bool = False) -> dict[str, Path]:
     """
     Scrape all fund URLs and return a mapping of fund_key → saved HTML path.
     Skips a URL if the cached content hash is identical (page unchanged).
@@ -77,7 +77,7 @@ async def scrape_all_funds() -> dict[str, Path]:
                 html = await page.content()
                 new_hash = _content_hash(html)
 
-                if cache_index.get(fund_key, {}).get("hash") == new_hash:
+                if not force_refresh and cache_index.get(fund_key, {}).get("hash") == new_hash:
                     logger.info("  ↳ Content unchanged (cached). Skipping write.")
                     saved_files[fund_key] = Path(cache_index[fund_key]["file"])
                     continue
