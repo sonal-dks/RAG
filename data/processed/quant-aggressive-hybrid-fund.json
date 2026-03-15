@@ -76,89 +76,77 @@
       "Name": "HDFC Bank Ltd.",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "8.30%"
-    },
-    {
-      "Name": "Larsen & Toubro Ltd.",
-      "Sector": "Construction",
-      "Instruments": "Equity",
-      "Assets": "7.97%"
+      "Assets": "9.23%"
     },
     {
       "Name": "Adani Power Ltd.",
       "Sector": "Energy",
       "Instruments": "Equity",
-      "Assets": "7.27%"
+      "Assets": "7.40%"
     },
     {
       "Name": "Bajaj Auto Ltd.",
       "Sector": "Automobile",
       "Instruments": "Equity",
-      "Assets": "7.02%"
-    },
-    {
-      "Name": "ICICI Bank Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "6.16%"
+      "Assets": "7.17%"
     },
     {
       "Name": "Adani Green Energy Ltd.",
       "Sector": "Capital Goods",
       "Instruments": "Equity",
-      "Assets": "5.92%"
-    },
-    {
-      "Name": "HDFC Life Insurance Co Ltd.",
-      "Sector": "Insurance",
-      "Instruments": "Equity",
-      "Assets": "5.78%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "5.09%"
-    },
-    {
-      "Name": "Small Industries Devp. Bank of India Ltd.",
-      "Sector": "Financial",
-      "Instruments": "CD",
-      "Assets": "4.83%"
-    },
-    {
-      "Name": "Adani Enterprises Ltd.",
-      "Sector": "Services",
-      "Instruments": "Equity",
-      "Assets": "4.82%"
-    },
-    {
-      "Name": "Samvardhana Motherson International Ltd.",
-      "Sector": "Automobile",
-      "Instruments": "Equity",
-      "Assets": "3.67%"
+      "Assets": "6.48%"
     },
     {
       "Name": "Aurobindo Pharma Ltd.",
       "Sector": "Healthcare",
       "Instruments": "Equity",
-      "Assets": "3.44%"
+      "Assets": "6.26%"
     },
     {
-      "Name": "JIO Financial Services Ltd.",
-      "Sector": "Financial",
+      "Name": "HDFC Life Insurance Co Ltd.",
+      "Sector": "Insurance",
       "Instruments": "Equity",
-      "Assets": "3.11%"
+      "Assets": "5.56%"
     },
     {
-      "Name": "Bajaj Auto Ltd.",
+      "Name": "Small Industries Devp. Bank of India Ltd.",
+      "Sector": "Financial",
+      "Instruments": "CD",
+      "Assets": "4.79%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "4.77%"
+    },
+    {
+      "Name": "Adani Enterprises Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "4.75%"
+    },
+    {
+      "Name": "Samvardhana Motherson International Ltd.",
       "Sector": "Automobile",
-      "Instruments": "Futures",
-      "Assets": "3.06%"
+      "Instruments": "Equity",
+      "Assets": "4.65%"
     },
     {
       "Name": "HDFC Asset Management Company Ltd.",
       "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "3.14%"
+    },
+    {
+      "Name": "Tata Steel Ltd.",
+      "Sector": "Metals & Mining",
+      "Instruments": "Equity",
+      "Assets": "3.09%"
+    },
+    {
+      "Name": "Bharat Electronics Ltd.",
+      "Sector": "Capital Goods",
       "Instruments": "Equity",
       "Assets": "2.98%"
     },
@@ -166,79 +154,103 @@
       "Name": "Maharashtra State",
       "Sector": "Others",
       "Instruments": "SDL",
-      "Assets": "2.52%"
+      "Assets": "2.49%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "2.36%"
+      "Assets": "2.33%"
     },
     {
       "Name": "GOI",
       "Sector": "Sovereign",
       "Instruments": "GOI Sec",
-      "Assets": "2.25%"
+      "Assets": "2.21%"
+    },
+    {
+      "Name": "Varun Beverages Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Equity",
+      "Assets": "1.93%"
+    },
+    {
+      "Name": "ICICI Prudential Asset Management Company Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "1.85%"
     },
     {
       "Name": "Capital Infra Trust",
       "Sector": "Construction",
       "Instruments": "InvITs",
-      "Assets": "1.90%"
+      "Assets": "1.78%"
     },
     {
       "Name": "GOI",
       "Sector": "Sovereign",
       "Instruments": "GOI Sec",
-      "Assets": "1.79%"
-    },
-    {
-      "Name": "ICICI Bank Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "1.69%"
+      "Assets": "1.77%"
     },
     {
       "Name": "Shriram Finance Ltd",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "1.45%"
+      "Assets": "1.51%"
     },
     {
       "Name": "GOI",
       "Sector": "Sovereign",
       "Instruments": "GOI Sec",
-      "Assets": "1.19%"
+      "Assets": "1.18%"
     },
     {
       "Name": "GOI",
       "Sector": "Sovereign",
       "Instruments": "GOI Sec",
-      "Assets": "1.05%"
+      "Assets": "1.04%"
     },
     {
       "Name": "GOI",
       "Sector": "Sovereign",
       "Instruments": "GOI Sec",
-      "Assets": "0.93%"
+      "Assets": "0.92%"
     },
     {
-      "Name": "GOI",
-      "Sector": "Sovereign",
-      "Instruments": "GOI Sec",
+      "Name": "Larsen & Toubro Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
       "Assets": "0.84%"
     },
     {
       "Name": "GOI",
       "Sector": "Sovereign",
       "Instruments": "GOI Sec",
-      "Assets": "0.53%"
+      "Assets": "0.83%"
+    },
+    {
+      "Name": "GOI",
+      "Sector": "Sovereign",
+      "Instruments": "GOI Sec",
+      "Assets": "0.52%"
+    },
+    {
+      "Name": "Adani Enterprises Ltd. - (Partly Paid-up)",
+      "Sector": "Services",
+      "Instruments": "PPE",
+      "Assets": "0.33%"
     },
     {
       "Name": "Quant Gilt Fund Direct - Growth",
       "Sector": "--",
       "Instruments": "Mutual Fund",
       "Assets": "0.31%"
+    },
+    {
+      "Name": "Nifty Bank",
+      "Sector": "Financial",
+      "Instruments": "ID",
+      "Assets": "-12.02%"
     }
   ],
   "holding_analysis": {
@@ -302,7 +314,7 @@
       {
         "Name": "Rank (Hybrid Aggressive Hybrid)",
         "3Y": "23",
-        "5Y": "4",
+        "5Y": "3",
         "10Y": "2",
         "All": "--"
       }
@@ -325,7 +337,7 @@
       {
         "Name": "Rank (Hybrid Aggressive Hybrid)",
         "3Y": "23",
-        "5Y": "4",
+        "5Y": "3",
         "10Y": "2",
         "All": "--"
       }
@@ -438,7 +450,7 @@
   },
   "advanced_ratios": {
     "top_5": "37%",
-    "top_20": "90%",
+    "top_20": "85%",
     "pe_ratio": 29.64,
     "pb_ratio": 4.03,
     "alpha": 0.0,
@@ -462,11 +474,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Aggressive Hybrid Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 0.82% as of 14 Mar 2026..."
+      "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 0.82% as of 15 Mar 2026..."
     },
     {
       "question": "What is the AUM of Quant Aggressive Hybrid Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹1,990.39Cr as of 14 Mar 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹1,990.39Cr as of 15 Mar 2026."
     },
     {
       "question": "How to Redeem Quant Aggressive Hybrid Fund Direct Growth?",
@@ -485,5 +497,5 @@
       "answer": "ThePE ratioratio of Quant Aggressive Hybrid Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-03-14T06:11:02+0000"
+  "scraped_at": "2026-03-15T06:38:18+0000"
 }

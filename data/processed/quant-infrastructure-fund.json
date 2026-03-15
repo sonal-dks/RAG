@@ -76,145 +76,139 @@
       "Name": "Samvardhana Motherson International Ltd.",
       "Sector": "Automobile",
       "Instruments": "Equity",
-      "Assets": "9.71%"
-    },
-    {
-      "Name": "Larsen & Toubro Ltd.",
-      "Sector": "Construction",
-      "Instruments": "Equity",
-      "Assets": "9.71%"
+      "Assets": "11.15%"
     },
     {
       "Name": "Adani Power Ltd.",
       "Sector": "Energy",
       "Instruments": "Equity",
-      "Assets": "9.05%"
-    },
-    {
-      "Name": "HDFC Bank Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "6.67%"
-    },
-    {
-      "Name": "ICICI Bank Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "6.61%"
+      "Assets": "9.11%"
     },
     {
       "Name": "Kalyani Steels Ltd.",
       "Sector": "Metals & Mining",
       "Instruments": "Equity",
-      "Assets": "6.18%"
-    },
-    {
-      "Name": "Afcons Infrastructure Ltd.",
-      "Sector": "Construction",
-      "Instruments": "Equity",
-      "Assets": "5.13%"
+      "Assets": "6.33%"
     },
     {
       "Name": "Life Insurance Corporation of India",
       "Sector": "Insurance",
       "Instruments": "Equity",
-      "Assets": "4.97%"
+      "Assets": "4.98%"
     },
     {
       "Name": "Adani Enterprises Ltd.",
       "Sector": "Services",
       "Instruments": "Equity",
-      "Assets": "4.65%"
-    },
-    {
-      "Name": "Kotak Mahindra Bank Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "4.64%"
+      "Assets": "4.69%"
     },
     {
       "Name": "NCC Ltd.",
       "Sector": "Construction",
       "Instruments": "Equity",
-      "Assets": "4.57%"
+      "Assets": "4.63%"
     },
     {
-      "Name": "GMR Airports Ltd.",
+      "Name": "Kotak Mahindra Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Futures",
+      "Assets": "4.60%"
+    },
+    {
+      "Name": "Larsen & Toubro Ltd.",
       "Sector": "Construction",
       "Instruments": "Equity",
-      "Assets": "3.38%"
+      "Assets": "4.58%"
+    },
+    {
+      "Name": "Afcons Infrastructure Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "4.40%"
+    },
+    {
+      "Name": "ICICI Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "3.73%"
+    },
+    {
+      "Name": "Oil And Natural Gas Corporation Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Futures",
+      "Assets": "3.55%"
     },
     {
       "Name": "DLF Ltd.",
       "Sector": "Construction",
       "Instruments": "Equity",
-      "Assets": "3.25%"
-    },
-    {
-      "Name": "Simplex Infrastructures Ltd.",
-      "Sector": "Construction",
-      "Instruments": "Equity",
-      "Assets": "2.75%"
+      "Assets": "3.00%"
     },
     {
       "Name": "Adani Green Energy Ltd.",
       "Sector": "Capital Goods",
       "Instruments": "Equity",
-      "Assets": "2.59%"
+      "Assets": "2.80%"
     },
     {
       "Name": "Mangalam Cement Ltd.",
       "Sector": "Construction",
       "Instruments": "Equity",
+      "Assets": "2.75%"
+    },
+    {
+      "Name": "Simplex Infrastructures Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
       "Assets": "2.44%"
+    },
+    {
+      "Name": "Indian Oil Corporation Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Futures",
+      "Assets": "2.37%"
     },
     {
       "Name": "Swan Corp Ltd.",
       "Sector": "Construction",
       "Instruments": "Equity",
-      "Assets": "1.81%"
+      "Assets": "1.60%"
     },
     {
-      "Name": "Adani Energy Solutions Ltd.",
-      "Sector": "Energy",
-      "Instruments": "Futures",
-      "Assets": "1.36%"
-    },
-    {
-      "Name": "Bharat Bijlee Ltd.",
+      "Name": "Bharat Electronics Ltd.",
       "Sector": "Capital Goods",
-      "Instruments": "Equity",
-      "Assets": "1.30%"
+      "Instruments": "Futures",
+      "Assets": "1.49%"
     },
     {
       "Name": "Welspun Corp Ltd.",
       "Sector": "Metals & Mining",
       "Instruments": "Equity",
-      "Assets": "1.18%"
-    },
-    {
-      "Name": "Bajaj Auto Ltd.",
-      "Sector": "Automobile",
-      "Instruments": "Futures",
-      "Assets": "1.17%"
-    },
-    {
-      "Name": "Orissa Minerals Development Company Ltd.",
-      "Sector": "Metals & Mining",
-      "Instruments": "Equity",
-      "Assets": "1.11%"
-    },
-    {
-      "Name": "Om Infra Ltd.",
-      "Sector": "Construction",
-      "Instruments": "Equity",
-      "Assets": "1.06%"
+      "Assets": "1.30%"
     },
     {
       "Name": "Adani Energy Solutions Ltd.",
       "Sector": "Energy",
       "Instruments": "Equity",
-      "Assets": "1.05%"
+      "Assets": "1.15%"
+    },
+    {
+      "Name": "Om Infra Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "1.12%"
+    },
+    {
+      "Name": "Bharat Bijlee Ltd.",
+      "Sector": "Capital Goods",
+      "Instruments": "Equity",
+      "Assets": "1.10%"
+    },
+    {
+      "Name": "Orissa Minerals Development Company Ltd.",
+      "Sector": "Metals & Mining",
+      "Instruments": "Equity",
+      "Assets": "0.99%"
     },
     {
       "Name": "Tata Power Company Ltd.",
@@ -223,58 +217,64 @@
       "Assets": "0.93%"
     },
     {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.86%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.76%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.73%"
+    },
+    {
       "Name": "NBCC (India) Ltd.",
       "Sector": "Construction",
       "Instruments": "Equity",
-      "Assets": "0.78%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.78%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.74%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
       "Assets": "0.71%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.71%"
-    },
-    {
-      "Name": "IndiGrid Infrastructure Trust",
-      "Sector": "Capital Goods",
-      "Instruments": "InvITs",
       "Assets": "0.69%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.53%"
+      "Assets": "0.69%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.53%"
+      "Assets": "0.69%"
+    },
+    {
+      "Name": "IndiGrid Infrastructure Trust",
+      "Sector": "Capital Goods",
+      "Instruments": "InvITs",
+      "Assets": "0.68%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.36%"
+      "Assets": "0.52%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.52%"
     },
     {
       "Name": "Reserve Bank of India",
@@ -286,19 +286,19 @@
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.18%"
+      "Assets": "0.35%"
+    },
+    {
+      "Name": "Adani Enterprises Ltd. - (Partly Paid-up)",
+      "Sector": "Services",
+      "Instruments": "PPE",
+      "Assets": "0.15%"
     },
     {
       "Name": "Ravindra Energy Ltd.",
       "Sector": "Capital Goods",
       "Instruments": "Equity",
-      "Assets": "0.15%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.11%"
+      "Assets": "0.14%"
     }
   ],
   "holding_analysis": {
@@ -357,7 +357,7 @@
       },
       {
         "Name": "Rank (Equity Sectoral)",
-        "3Y": "18",
+        "3Y": "17",
         "5Y": "8",
         "10Y": "1",
         "All": "--"
@@ -380,7 +380,7 @@
       },
       {
         "Name": "Rank (Equity Sectoral)",
-        "3Y": "18",
+        "3Y": "17",
         "5Y": "8",
         "10Y": "1",
         "All": "--"
@@ -457,8 +457,8 @@
     "address": "6th Floor, Sea Breeze Building,Appa Saheb Marathe Marg,Prabhadevi, Mumbai 400025"
   },
   "advanced_ratios": {
-    "top_5": "42%",
-    "top_20": "92%",
+    "top_5": "36%",
+    "top_20": "81%",
     "pe_ratio": 21.31,
     "pb_ratio": 2.63,
     "alpha": -3.68,
@@ -482,11 +482,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Infrastructure Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Infrastructure Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Infrastructure Fund Direct Growth is 0.85% as of 14 Mar 2026..."
+      "answer": "The termExpense Ratioused for Quant Infrastructure Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Infrastructure Fund Direct Growth is 0.85% as of 15 Mar 2026..."
     },
     {
       "question": "What is the AUM of Quant Infrastructure Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Infrastructure Fund Direct Growth is ₹2,869.01Cr as of 14 Mar 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Infrastructure Fund Direct Growth is ₹2,869.01Cr as of 15 Mar 2026."
     },
     {
       "question": "How to Redeem Quant Infrastructure Fund Direct Growth?",
@@ -505,5 +505,5 @@
       "answer": "ThePE ratioratio of Quant Infrastructure Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-03-14T06:11:01+0000"
+  "scraped_at": "2026-03-15T06:38:18+0000"
 }

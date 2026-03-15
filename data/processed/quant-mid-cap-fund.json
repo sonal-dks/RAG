@@ -76,151 +76,157 @@
       "Name": "Aurobindo Pharma Ltd.",
       "Sector": "Healthcare",
       "Instruments": "Equity",
-      "Assets": "9.90%"
+      "Assets": "9.92%"
     },
     {
       "Name": "Tata Communications Ltd.",
       "Sector": "Communication",
       "Instruments": "Equity",
-      "Assets": "8.55%"
+      "Assets": "9.09%"
     },
     {
       "Name": "IRB Infrastructure Developers Ltd.",
       "Sector": "Construction",
       "Instruments": "Equity",
-      "Assets": "7.12%"
-    },
-    {
-      "Name": "PB Fintech Ltd.",
-      "Sector": "Services",
-      "Instruments": "Equity",
-      "Assets": "6.00%"
-    },
-    {
-      "Name": "ICICI Bank Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "5.94%"
-    },
-    {
-      "Name": "Premier Energies Ltd.",
-      "Sector": "Energy",
-      "Instruments": "Equity",
-      "Assets": "5.90%"
+      "Assets": "7.09%"
     },
     {
       "Name": "Lloyds Metals & Energy Ltd.",
       "Sector": "Metals & Mining",
       "Instruments": "Equity",
-      "Assets": "5.56%"
+      "Assets": "6.17%"
+    },
+    {
+      "Name": "Premier Energies Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Equity",
+      "Assets": "5.95%"
+    },
+    {
+      "Name": "PB Fintech Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "5.33%"
+    },
+    {
+      "Name": "ICICI Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "4.91%"
     },
     {
       "Name": "Anthem Biosciences Ltd.",
       "Sector": "Healthcare",
       "Instruments": "Equity",
-      "Assets": "4.18%"
+      "Assets": "4.85%"
     },
     {
       "Name": "Linde India Ltd.",
       "Sector": "Chemicals",
       "Instruments": "Equity",
-      "Assets": "3.95%"
+      "Assets": "3.94%"
     },
     {
       "Name": "SBI Cards And Payment Services Ltd.",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "3.11%"
-    },
-    {
-      "Name": "Nifty MidCap Select Index",
-      "Sector": "Financial",
-      "Instruments": "ID",
-      "Assets": "3.10%"
+      "Assets": "3.17%"
     },
     {
       "Name": "Kotak Mahindra Bank Ltd.",
       "Sector": "Financial",
       "Instruments": "Futures",
-      "Assets": "3.09%"
-    },
-    {
-      "Name": "JSW Infrastructure Ltd.",
-      "Sector": "Services",
-      "Instruments": "Equity",
-      "Assets": "2.35%"
-    },
-    {
-      "Name": "Oracle Financial Services Software Ltd.",
-      "Sector": "Technology",
-      "Instruments": "Futures",
-      "Assets": "2.19%"
-    },
-    {
-      "Name": "Reliance Industries Ltd.",
-      "Sector": "Energy",
-      "Instruments": "Equity",
-      "Assets": "2.03%"
-    },
-    {
-      "Name": "Dabur India Ltd.",
-      "Sector": "Consumer Staples",
-      "Instruments": "Futures",
-      "Assets": "1.94%"
-    },
-    {
-      "Name": "Godrej Properties Ltd.",
-      "Sector": "Construction",
-      "Instruments": "Equity",
-      "Assets": "1.59%"
-    },
-    {
-      "Name": "Escorts Kubota Ltd.",
-      "Sector": "Automobile",
-      "Instruments": "Equity",
-      "Assets": "1.57%"
-    },
-    {
-      "Name": "United Breweries Ltd.",
-      "Sector": "Consumer Staples",
-      "Instruments": "Equity",
-      "Assets": "1.50%"
-    },
-    {
-      "Name": "Oracle Financial Services Software Ltd.",
-      "Sector": "Technology",
-      "Instruments": "Equity",
-      "Assets": "1.44%"
+      "Assets": "3.12%"
     },
     {
       "Name": "Nippon Life India Asset Management Ltd.",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "1.33%"
+      "Assets": "3.02%"
     },
     {
-      "Name": "GMR Airports Ltd.",
-      "Sector": "Construction",
+      "Name": "Oracle Financial Services Software Ltd.",
+      "Sector": "Technology",
+      "Instruments": "Futures",
+      "Assets": "2.75%"
+    },
+    {
+      "Name": "Dabur India Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Futures",
+      "Assets": "2.47%"
+    },
+    {
+      "Name": "JSW Infrastructure Ltd.",
+      "Sector": "Services",
       "Instruments": "Equity",
-      "Assets": "1.18%"
+      "Assets": "2.29%"
     },
     {
-      "Name": "AWL Agri Business Ltd.",
+      "Name": "Godrej Properties Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Futures",
+      "Assets": "2.11%"
+    },
+    {
+      "Name": "Reliance Industries Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Equity",
+      "Assets": "2.01%"
+    },
+    {
+      "Name": "United Breweries Ltd.",
       "Sector": "Consumer Staples",
       "Instruments": "Equity",
-      "Assets": "1.15%"
+      "Assets": "1.63%"
     },
     {
-      "Name": "Life Insurance Corporation of India",
-      "Sector": "Insurance",
+      "Name": "NMDC Ltd.",
+      "Sector": "Metals & Mining",
+      "Instruments": "Futures",
+      "Assets": "1.46%"
+    },
+    {
+      "Name": "Oracle Financial Services Software Ltd.",
+      "Sector": "Technology",
       "Instruments": "Equity",
-      "Assets": "1.12%"
+      "Assets": "1.28%"
+    },
+    {
+      "Name": "Colgate-Palmolive (India) Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Equity",
+      "Assets": "1.22%"
     },
     {
       "Name": "NMDC Ltd.",
       "Sector": "Metals & Mining",
       "Instruments": "Equity",
-      "Assets": "0.72%"
+      "Assets": "1.17%"
+    },
+    {
+      "Name": "Life Insurance Corporation of India",
+      "Sector": "Insurance",
+      "Instruments": "Equity",
+      "Assets": "1.14%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "1.01%"
+    },
+    {
+      "Name": "AWL Agri Business Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Equity",
+      "Assets": "1.01%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.81%"
     },
     {
       "Name": "Reserve Bank of India",
@@ -229,9 +235,21 @@
       "Assets": "0.68%"
     },
     {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
+      "Name": "One97 Communications Ltd.",
+      "Sector": "Services",
+      "Instruments": "Futures",
+      "Assets": "0.67%"
+    },
+    {
+      "Name": "Godrej Properties Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "0.49%"
+    },
+    {
+      "Name": "PB Fintech Ltd.",
+      "Sector": "Services",
+      "Instruments": "Futures",
       "Assets": "0.48%"
     },
     {
@@ -247,6 +265,12 @@
       "Assets": "0.41%"
     },
     {
+      "Name": "One97 Communications Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "0.36%"
+    },
+    {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
@@ -256,7 +280,7 @@
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.29%"
+      "Assets": "0.34%"
     },
     {
       "Name": "Reserve Bank of India",
@@ -269,6 +293,12 @@
       "Sector": "Financial",
       "Instruments": "T-Bills",
       "Assets": "0.14%"
+    },
+    {
+      "Name": "LG Electronics India Ltd.",
+      "Sector": "Consumer Discretionary",
+      "Instruments": "Equity",
+      "Assets": "0.08%"
     }
   ],
   "holding_analysis": {
@@ -470,7 +500,7 @@
   },
   "advanced_ratios": {
     "top_5": "38%",
-    "top_20": "81%",
+    "top_20": "83%",
     "pe_ratio": 28.93,
     "pb_ratio": 3.77,
     "alpha": -5.73,
@@ -494,11 +524,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Mid Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 0.83% as of 14 Mar 2026..."
+      "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 0.83% as of 15 Mar 2026..."
     },
     {
       "question": "What is the AUM of Quant Mid Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹7,341.39Cr as of 14 Mar 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹7,341.39Cr as of 15 Mar 2026."
     },
     {
       "question": "How to Redeem Quant Mid Cap Fund Direct Growth?",
@@ -517,5 +547,5 @@
       "answer": "ThePE ratioratio of Quant Mid Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-03-14T06:11:01+0000"
+  "scraped_at": "2026-03-15T06:38:18+0000"
 }
