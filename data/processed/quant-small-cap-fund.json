@@ -810,10 +810,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+65.22%",
-        "5Y": "+201.28%",
-        "10Y": "+461.61%",
-        "All": "+638.34%"
+        "3Y": "+66.16%",
+        "5Y": "+192.12%",
+        "10Y": "+449.87%",
+        "All": "+623.45%"
       },
       {
         "Name": "Category average (Equity Small Cap)",
@@ -920,11 +920,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Small Cap Fund Direct Plan Growth?",
-      "answer": "The termExpense Ratioused for Quant Small Cap Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Small Cap Fund Direct Plan Growth is 0.81% as of 15 Mar 2026..."
+      "answer": "The termExpense Ratioused for Quant Small Cap Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Small Cap Fund Direct Plan Growth is 0.81% as of 16 Mar 2026..."
     },
     {
       "question": "What is the AUM of Quant Small Cap Fund Direct Plan Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Small Cap Fund Direct Plan Growth is ₹27,653.65Cr as of 15 Mar 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Small Cap Fund Direct Plan Growth is ₹27,653.65Cr as of 16 Mar 2026."
     },
     {
       "question": "How to Redeem Quant Small Cap Fund Direct Plan Growth?",
@@ -943,5 +943,5 @@
       "answer": "ThePE ratioratio of Quant Small Cap Fund Direct Plan Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-03-15T06:38:17+0000"
+  "scraped_at": "2026-03-16T06:58:01+0000"
 }

@@ -321,10 +321,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "1Y": "+8.96%",
-        "3Y": "+56.12%",
-        "5Y": "+160.73%",
-        "All": "+240.29%"
+        "1Y": "+7.58%",
+        "3Y": "+56.31%",
+        "5Y": "+148.56%",
+        "All": "+228.40%"
       },
       {
         "Name": "Category average (Equity Thematic)",
@@ -431,11 +431,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant ESG Integration Strategy Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant ESG Integration Strategy Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ESG Integration Strategy Fund Direct Growth is 0.93% as of 15 Mar 2026..."
+      "answer": "The termExpense Ratioused for Quant ESG Integration Strategy Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ESG Integration Strategy Fund Direct Growth is 0.93% as of 16 Mar 2026..."
     },
     {
       "question": "What is the AUM of Quant ESG Integration Strategy Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant ESG Integration Strategy Fund Direct Growth is ₹256.90Cr as of 15 Mar 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant ESG Integration Strategy Fund Direct Growth is ₹256.90Cr as of 16 Mar 2026."
     },
     {
       "question": "How to Redeem Quant ESG Integration Strategy Fund Direct Growth?",
@@ -454,5 +454,5 @@
       "answer": "ThePE ratioratio of Quant ESG Integration Strategy Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-03-15T06:38:18+0000"
+  "scraped_at": "2026-03-16T06:58:01+0000"
 }
