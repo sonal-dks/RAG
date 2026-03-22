@@ -328,7 +328,7 @@
       {
         "Name": "Rank (Equity Large Cap)",
         "6M": "--",
-        "1Y": "24",
+        "1Y": "38",
         "3Y": "29",
         "All": "--"
       }
@@ -351,7 +351,7 @@
       {
         "Name": "Rank (Equity Large Cap)",
         "6M": "--",
-        "1Y": "24",
+        "1Y": "38",
         "3Y": "29",
         "All": "--"
       }
@@ -488,11 +488,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Large Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Large Cap Fund Direct Growth is 0.56% as of 21 Mar 2026..."
+      "answer": "The termExpense Ratioused for Quant Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Large Cap Fund Direct Growth is 0.56% as of 22 Mar 2026..."
     },
     {
       "question": "What is the AUM of Quant Large Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Large Cap Fund Direct Growth is ₹3,023.10Cr as of 21 Mar 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Large Cap Fund Direct Growth is ₹3,023.10Cr as of 22 Mar 2026."
     },
     {
       "question": "How to Redeem Quant Large Cap Fund Direct Growth?",
@@ -511,5 +511,5 @@
       "answer": "ThePE ratioratio of Quant Large Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-03-21T06:06:58+0000"
+  "scraped_at": "2026-03-22T06:15:46+0000"
 }
