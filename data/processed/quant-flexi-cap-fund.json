@@ -385,7 +385,7 @@
       },
       {
         "Name": "Rank (Equity Flexi Cap)",
-        "3Y": "21",
+        "3Y": "24",
         "5Y": "--",
         "10Y": "--",
         "All": "--"
@@ -394,10 +394,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+60.38%",
-        "5Y": "+143.03%",
-        "10Y": "+528.07%",
-        "All": "+758.62%"
+        "3Y": "+62.09%",
+        "5Y": "+141.25%",
+        "10Y": "+514.39%",
+        "All": "+754.96%"
       },
       {
         "Name": "Category average (Equity Flexi Cap)",
@@ -408,7 +408,7 @@
       },
       {
         "Name": "Rank (Equity Flexi Cap)",
-        "3Y": "21",
+        "3Y": "24",
         "5Y": "--",
         "10Y": "--",
         "All": "--"
@@ -546,11 +546,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Flexi Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Flexi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Flexi Cap Fund Direct Growth is 0.72% as of 22 Mar 2026..."
+      "answer": "The termExpense Ratioused for Quant Flexi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Flexi Cap Fund Direct Growth is 0.72% as of 23 Mar 2026..."
     },
     {
       "question": "What is the AUM of Quant Flexi Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Flexi Cap Fund Direct Growth is ₹6,353.92Cr as of 22 Mar 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Flexi Cap Fund Direct Growth is ₹6,353.92Cr as of 23 Mar 2026."
     },
     {
       "question": "How to Redeem Quant Flexi Cap Fund Direct Growth?",
@@ -569,5 +569,5 @@
       "answer": "ThePE ratioratio of Quant Flexi Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-03-22T06:15:46+0000"
+  "scraped_at": "2026-03-23T06:52:26+0000"
 }
