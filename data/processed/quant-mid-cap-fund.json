@@ -368,8 +368,8 @@
       },
       {
         "Name": "Rank (Equity Mid Cap)",
-        "3Y": "35",
-        "5Y": "8",
+        "3Y": "33",
+        "5Y": "6",
         "10Y": "--",
         "All": "--"
       }
@@ -391,8 +391,8 @@
       },
       {
         "Name": "Rank (Equity Mid Cap)",
-        "3Y": "35",
-        "5Y": "8",
+        "3Y": "33",
+        "5Y": "6",
         "10Y": "--",
         "All": "--"
       }
@@ -412,8 +412,8 @@
     {
       "": "",
       "Name": "Edelweiss Mid Cap Direct Plan Growth",
-      "1Y": "+8.26%",
-      "3Y": "+26.15%",
+      "1Y": "+5.94%",
+      "3Y": "+25.54%",
       "Fund Size(Cr)": "14,355.22"
     },
     {
@@ -523,11 +523,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Mid Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 0.85% as of 28 Mar 2026..."
+      "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 0.85% as of 29 Mar 2026..."
     },
     {
       "question": "What is the AUM of Quant Mid Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹7,341.39Cr as of 28 Mar 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹7,341.39Cr as of 29 Mar 2026."
     },
     {
       "question": "How to Redeem Quant Mid Cap Fund Direct Growth?",
@@ -546,5 +546,5 @@
       "answer": "ThePE ratioratio of Quant Mid Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-03-28T06:38:22+0000"
+  "scraped_at": "2026-03-29T06:46:49+0000"
 }
