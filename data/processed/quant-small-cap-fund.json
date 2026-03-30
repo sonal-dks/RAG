@@ -800,7 +800,7 @@
       },
       {
         "Name": "Rank (Equity Small Cap)",
-        "3Y": "12",
+        "3Y": "14",
         "5Y": "1",
         "10Y": "--",
         "All": "--"
@@ -809,10 +809,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+73.48%",
-        "5Y": "+201.87%",
-        "10Y": "+453.02%",
-        "All": "+634.02%"
+        "3Y": "+71.38%",
+        "5Y": "+192.39%",
+        "10Y": "+441.53%",
+        "All": "+618.77%"
       },
       {
         "Name": "Category average (Equity Small Cap)",
@@ -823,7 +823,7 @@
       },
       {
         "Name": "Rank (Equity Small Cap)",
-        "3Y": "12",
+        "3Y": "14",
         "5Y": "1",
         "10Y": "--",
         "All": "--"
@@ -919,11 +919,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Small Cap Fund Direct Plan Growth?",
-      "answer": "The termExpense Ratioused for Quant Small Cap Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Small Cap Fund Direct Plan Growth is 0.83% as of 29 Mar 2026..."
+      "answer": "The termExpense Ratioused for Quant Small Cap Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Small Cap Fund Direct Plan Growth is 0.83% as of 30 Mar 2026..."
     },
     {
       "question": "What is the AUM of Quant Small Cap Fund Direct Plan Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Small Cap Fund Direct Plan Growth is ₹27,653.65Cr as of 29 Mar 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Small Cap Fund Direct Plan Growth is ₹27,653.65Cr as of 30 Mar 2026."
     },
     {
       "question": "How to Redeem Quant Small Cap Fund Direct Plan Growth?",
@@ -942,5 +942,5 @@
       "answer": "ThePE ratioratio of Quant Small Cap Fund Direct Plan Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-03-29T06:46:48+0000"
+  "scraped_at": "2026-03-30T07:11:32+0000"
 }
