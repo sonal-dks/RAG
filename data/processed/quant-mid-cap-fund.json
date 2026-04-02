@@ -3,8 +3,8 @@
   "fund_name": "Quant Mid Cap Fund Direct Growth",
   "source_url": "https://groww.in/mutual-funds/quant-mid-cap-fund-direct-growth",
   "basic_info": {
-    "nav": "212.36",
-    "nav_date": "31 Mar '26",
+    "nav": "216.76",
+    "nav_date": "01 Apr '26",
     "expense_ratio_pct": "0.85",
     "min_sip": "1,000"
   },
@@ -14,14 +14,14 @@
     "risk_level": "Very High Risk"
   },
   "performance_returns": {
-    "1D": "+0.00%",
-    "1M": "-4.00%",
-    "6M": "-7.48%",
-    "1Y": "-6.75%",
-    "3Y": "+15.10%",
-    "5Y": "+18.97%",
-    "10Y": "+16.79%",
-    "All": "+15.76%"
+    "1D": "+2.07%",
+    "1M": "-2.01%",
+    "6M": "-6.31%",
+    "1Y": "-4.37%",
+    "3Y": "+15.88%",
+    "5Y": "+19.09%",
+    "10Y": "+17.04%",
+    "All": "+15.94%"
   },
   "return_calculator": {
     "monthly_investment_used": "1000",
@@ -354,10 +354,10 @@
     "annualised_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+15.1%",
-        "5Y": "+19.0%",
-        "10Y": "+16.8%",
-        "All": "+15.8%"
+        "3Y": "+15.9%",
+        "5Y": "+19.1%",
+        "10Y": "+17.0%",
+        "All": "+15.9%"
       },
       {
         "Name": "Category average (Equity Mid Cap)",
@@ -368,7 +368,7 @@
       },
       {
         "Name": "Rank (Equity Mid Cap)",
-        "3Y": "35",
+        "3Y": "34",
         "5Y": "7",
         "10Y": "--",
         "All": "--"
@@ -391,7 +391,7 @@
       },
       {
         "Name": "Rank (Equity Mid Cap)",
-        "3Y": "35",
+        "3Y": "34",
         "5Y": "7",
         "10Y": "--",
         "All": "--"
@@ -405,36 +405,36 @@
     {
       "": "",
       "Name": "WhiteOak Capital Mid Cap Fund Direct Growth",
-      "1Y": "+6.88%",
-      "3Y": "+24.65%",
+      "1Y": "+10.39%",
+      "3Y": "+25.39%",
       "Fund Size(Cr)": "4,694.85"
     },
     {
       "": "",
-      "Name": "Edelweiss Mid Cap Direct Plan Growth",
-      "1Y": "+3.77%",
-      "3Y": "+23.42%",
-      "Fund Size(Cr)": "14,355.22"
-    },
-    {
-      "": "",
       "Name": "Nippon India Growth Mid Cap Fund Direct Growth",
-      "1Y": "+3.62%",
-      "3Y": "+23.30%",
+      "1Y": "+7.08%",
+      "3Y": "+24.12%",
       "Fund Size(Cr)": "43,982.51"
     },
     {
       "": "",
+      "Name": "Edelweiss Mid Cap Direct Plan Growth",
+      "1Y": "+7.06%",
+      "3Y": "+24.06%",
+      "Fund Size(Cr)": "14,355.22"
+    },
+    {
+      "": "",
       "Name": "HDFC Mid Cap Fund Direct Growth",
-      "1Y": "+4.56%",
-      "3Y": "+22.57%",
+      "1Y": "+7.67%",
+      "3Y": "+23.23%",
       "Fund Size(Cr)": "94,256.90"
     },
     {
       "": "",
       "Name": "Sundaram Mid Cap Fund Direct Growth",
-      "1Y": "+3.55%",
-      "3Y": "+22.14%",
+      "1Y": "+6.84%",
+      "3Y": "+22.96%",
       "Fund Size(Cr)": "13,235.50"
     }
   ],
@@ -483,7 +483,7 @@
     }
   ],
   "about_fund": {
-    "description": "Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹88 Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹88,796 Cr and the Latest NAV as of 31 Mar 2026 is ₹212.36. The Quant Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 0.50% if redeemed within 3 months. ...Read more",
+    "description": "Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹88 Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹88,796 Cr and the Latest NAV as of 01 Apr 2026 is ₹216.76. The Quant Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 0.50% if redeemed within 3 months. ...Read more",
     "investment_objective": "The scheme aims at providing long term capital appreciation and generating income with a diversified portfolio of Mid Cap companies.",
     "benchmark": "NIFTY Midcap 150 Total Return Index"
   },
@@ -519,15 +519,15 @@
     },
     {
       "question": "What kind of returns does Quant Mid Cap Fund Direct Growth provide?",
-      "answer": "The Quant Mid Cap Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is -6.75% since its inception."
+      "answer": "The Quant Mid Cap Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is -4.37% since its inception."
     },
     {
       "question": "How much expense ratio is charged by Quant Mid Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 0.85% as of 01 Apr 2026..."
+      "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 0.85% as of 02 Apr 2026..."
     },
     {
       "question": "What is the AUM of Quant Mid Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹7,341.39Cr as of 01 Apr 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹7,341.39Cr as of 02 Apr 2026."
     },
     {
       "question": "How to Redeem Quant Mid Cap Fund Direct Growth?",
@@ -539,12 +539,12 @@
     },
     {
       "question": "What is the NAV of Quant Mid Cap Fund Direct Growth?",
-      "answer": "The NAV of Quant Mid Cap Fund Direct Growth is ₹212.36 as of 31 Mar 2026."
+      "answer": "The NAV of Quant Mid Cap Fund Direct Growth is ₹216.76 as of 01 Apr 2026."
     },
     {
       "question": "What is the PE and PB ratio of Quant Mid Cap Fund Direct Growth?",
       "answer": "ThePE ratioratio of Quant Mid Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-04-01T07:04:04+0000"
+  "scraped_at": "2026-04-02T06:54:29+0000"
 }
