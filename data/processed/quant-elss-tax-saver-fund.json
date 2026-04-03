@@ -3,8 +3,8 @@
   "fund_name": "Quant ELSS Tax Saver Fund Direct Growth",
   "source_url": "https://groww.in/mutual-funds/quant-elss-tax-saver-fund-direct-growth",
   "basic_info": {
-    "nav": "384.17",
-    "nav_date": "01 Apr '26",
+    "nav": "383.07",
+    "nav_date": "02 Apr '26",
     "expense_ratio_pct": "0.81",
     "min_sip": "500"
   },
@@ -14,14 +14,14 @@
     "risk_level": "Very High Risk"
   },
   "performance_returns": {
-    "1D": "+2.14%",
-    "1M": "-7.13%",
-    "6M": "-6.90%",
-    "1Y": "+4.20%",
-    "3Y": "+15.88%",
-    "5Y": "+17.83%",
-    "10Y": "+20.28%",
-    "All": "+18.83%"
+    "1D": "-0.28%",
+    "1M": "-5.53%",
+    "6M": "-7.16%",
+    "1Y": "+3.13%",
+    "3Y": "+15.75%",
+    "5Y": "+17.75%",
+    "10Y": "+20.24%",
+    "All": "+18.80%"
   },
   "return_calculator": {
     "monthly_investment_used": "500",
@@ -306,9 +306,9 @@
     "annualised_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+15.9%",
+        "3Y": "+15.8%",
         "5Y": "+17.8%",
-        "10Y": "+20.3%",
+        "10Y": "+20.2%",
         "All": "+18.8%"
       },
       {
@@ -320,7 +320,7 @@
       },
       {
         "Name": "Rank (Equity ELSS)",
-        "3Y": "12",
+        "3Y": "11",
         "5Y": "1",
         "10Y": "1",
         "All": "--"
@@ -343,7 +343,7 @@
       },
       {
         "Name": "Rank (Equity ELSS)",
-        "3Y": "12",
+        "3Y": "11",
         "5Y": "1",
         "10Y": "1",
         "All": "--"
@@ -357,36 +357,36 @@
     {
       "": "",
       "Name": "Motilal Oswal ELSS Tax Saver Fund Direct Growth",
-      "1Y": "+6.16%",
-      "3Y": "+22.08%",
+      "1Y": "+4.04%",
+      "3Y": "+21.85%",
       "Fund Size(Cr)": "4,174.50"
     },
     {
       "": "",
       "Name": "SBI ELSS Tax Saver Fund Direct Growth",
-      "1Y": "-3.63%",
-      "3Y": "+19.64%",
+      "1Y": "-1.62%",
+      "3Y": "+20.27%",
       "Fund Size(Cr)": "32,171.48"
     },
     {
       "": "",
       "Name": "WhiteOak Capital ELSS Tax Saver Fund Direct Growth",
-      "1Y": "+0.18%",
-      "3Y": "+18.91%",
+      "1Y": "-0.74%",
+      "3Y": "+18.93%",
       "Fund Size(Cr)": "438.21"
     },
     {
       "": "",
       "Name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
-      "1Y": "-1.08%",
-      "3Y": "+17.45%",
+      "1Y": "-1.67%",
+      "3Y": "+17.50%",
       "Fund Size(Cr)": "16,618.14"
     },
     {
       "": "",
       "Name": "Parag Parikh ELSS Tax Saver Fund Direct Growth",
-      "1Y": "-4.22%",
-      "3Y": "+13.69%",
+      "1Y": "-3.90%",
+      "3Y": "+13.91%",
       "Fund Size(Cr)": "5,720.71"
     }
   ],
@@ -435,7 +435,7 @@
     }
   ],
   "about_fund": {
-    "description": "Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Manageme Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹88,796 Cr and the Latest NAV as of 01 Apr 2026 is ₹384.17. The Quant ELSS Tax Saver Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. ...Read more",
+    "description": "Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Manageme Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹88,796 Cr and the Latest NAV as of 02 Apr 2026 is ₹383.07. The Quant ELSS Tax Saver Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. ...Read more",
     "investment_objective": "The scheme aims to generate capital appreciation by investing predominantly in equity shares with growth potential. The secondary objective is to give dividend and other income.",
     "benchmark": "NIFTY 500 Total Return Index"
   },
@@ -454,10 +454,10 @@
     "top_20": "90%",
     "pe_ratio": 27.6,
     "pb_ratio": 3.07,
-    "alpha": 0.34,
-    "beta": 1.15,
-    "sharpe": 0.83,
-    "sortino": 1.38
+    "alpha": 1.76,
+    "beta": 1.07,
+    "sharpe": 0.56,
+    "sortino": 0.9
   },
   "other_plans_in_same_fund": [
     {
@@ -471,15 +471,15 @@
     },
     {
       "question": "What kind of returns does Quant ELSS Tax Saver Fund Direct Growth provide?",
-      "answer": "The Quant ELSS Tax Saver Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 4.20% since its inception."
+      "answer": "The Quant ELSS Tax Saver Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 3.13% since its inception."
     },
     {
       "question": "How much expense ratio is charged by Quant ELSS Tax Saver Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant ELSS Tax Saver Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ELSS Tax Saver Fund Direct Growth is 0.81% as of 02 Apr 2026..."
+      "answer": "The termExpense Ratioused for Quant ELSS Tax Saver Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ELSS Tax Saver Fund Direct Growth is 0.81% as of 03 Apr 2026..."
     },
     {
       "question": "What is the AUM of Quant ELSS Tax Saver Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant ELSS Tax Saver Fund Direct Growth is ₹12,079.80Cr as of 02 Apr 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant ELSS Tax Saver Fund Direct Growth is ₹12,079.80Cr as of 03 Apr 2026."
     },
     {
       "question": "How to Redeem Quant ELSS Tax Saver Fund Direct Growth?",
@@ -491,12 +491,12 @@
     },
     {
       "question": "What is the NAV of Quant ELSS Tax Saver Fund Direct Growth?",
-      "answer": "The NAV of Quant ELSS Tax Saver Fund Direct Growth is ₹384.17 as of 01 Apr 2026."
+      "answer": "The NAV of Quant ELSS Tax Saver Fund Direct Growth is ₹383.07 as of 02 Apr 2026."
     },
     {
       "question": "What is the PE and PB ratio of Quant ELSS Tax Saver Fund Direct Growth?",
       "answer": "ThePE ratioratio of Quant ELSS Tax Saver Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-04-02T06:54:29+0000"
+  "scraped_at": "2026-04-03T06:51:33+0000"
 }
