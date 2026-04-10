@@ -3,8 +3,8 @@
   "fund_name": "Quant Aggressive Hybrid Fund Direct Growth",
   "source_url": "https://groww.in/mutual-funds/quant-aggressive-hybrid-fund-direct-growth",
   "basic_info": {
-    "nav": "459.99",
-    "nav_date": "08 Apr '26",
+    "nav": "460.39",
+    "nav_date": "09 Apr '26",
     "expense_ratio_pct": "0.83",
     "min_sip": "1,000"
   },
@@ -14,12 +14,12 @@
     "risk_level": "Very High Risk"
   },
   "performance_returns": {
-    "1D": "+3.38%",
-    "1M": "+0.90%",
-    "6M": "-1.00%",
-    "1Y": "+11.70%",
-    "3Y": "+14.16%",
-    "5Y": "+15.38%",
+    "1D": "+0.09%",
+    "1M": "+2.33%",
+    "6M": "-1.42%",
+    "1Y": "+12.37%",
+    "3Y": "+14.18%",
+    "5Y": "+15.10%",
     "10Y": "+16.44%",
     "All": "+16.11%"
   },
@@ -29,263 +29,279 @@
       {
         "Over the past": "1 year",
         "Total investment": "₹12,000",
-        "Would've become": "₹12,022",
-        "Returns": "+0.18%"
+        "Would've become": "₹12,032",
+        "Returns": "+0.27%"
       },
       {
         "Over the past": "3 years",
         "Total investment": "₹36,000",
-        "Would've become": "₹39,762",
-        "Returns": "+10.45%"
+        "Would've become": "₹39,789",
+        "Returns": "+10.53%"
       },
       {
         "Over the past": "5 years",
         "Total investment": "₹60,000",
-        "Would've become": "₹77,995",
-        "Returns": "+29.99%"
+        "Would've become": "₹78,041",
+        "Returns": "+30.07%"
       },
       {
         "Over the past": "10 years",
         "Total investment": "₹1,20,000",
-        "Would've become": "₹2,85,776",
-        "Returns": "+138.15%"
+        "Would've become": "₹2,85,903",
+        "Returns": "+138.25%"
       }
     ],
     "sip_return_rates": [
       {
         "period": "1 year",
-        "return_pct": 0.18
+        "return_pct": 0.27
       },
       {
         "period": "3 years",
-        "return_pct": 10.45
+        "return_pct": 10.53
       },
       {
         "period": "5 years",
-        "return_pct": 29.99
+        "return_pct": 30.07
       },
       {
         "period": "10 years",
-        "return_pct": 138.15
+        "return_pct": 138.25
       }
     ]
   },
   "holdings": [
     {
-      "Name": "HDFC Bank Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "9.23%"
-    },
-    {
       "Name": "Adani Power Ltd.",
       "Sector": "Energy",
       "Instruments": "Equity",
-      "Assets": "7.40%"
+      "Assets": "8.74%"
     },
     {
-      "Name": "Bajaj Auto Ltd.",
-      "Sector": "Automobile",
+      "Name": "HDFC Bank Ltd.",
+      "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "7.17%"
-    },
-    {
-      "Name": "Adani Green Energy Ltd.",
-      "Sector": "Capital Goods",
-      "Instruments": "Equity",
-      "Assets": "6.48%"
+      "Assets": "8.37%"
     },
     {
       "Name": "Aurobindo Pharma Ltd.",
       "Sector": "Healthcare",
       "Instruments": "Equity",
-      "Assets": "6.26%"
+      "Assets": "7.36%"
     },
     {
-      "Name": "HDFC Life Insurance Co Ltd.",
-      "Sector": "Insurance",
+      "Name": "Adani Green Energy Ltd.",
+      "Sector": "Capital Goods",
       "Instruments": "Equity",
-      "Assets": "5.56%"
+      "Assets": "7.01%"
     },
     {
       "Name": "Small Industries Devp. Bank of India Ltd.",
       "Sector": "Financial",
       "Instruments": "CD",
-      "Assets": "4.79%"
+      "Assets": "5.29%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "4.77%"
+      "Assets": "5.26%"
+    },
+    {
+      "Name": "HDFC Life Insurance Co Ltd.",
+      "Sector": "Insurance",
+      "Instruments": "Equity",
+      "Assets": "5.05%"
     },
     {
       "Name": "Adani Enterprises Ltd.",
       "Sector": "Services",
       "Instruments": "Equity",
-      "Assets": "4.75%"
+      "Assets": "4.63%"
+    },
+    {
+      "Name": "Reliance Industries Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Equity",
+      "Assets": "4.31%"
     },
     {
       "Name": "Samvardhana Motherson International Ltd.",
       "Sector": "Automobile",
       "Instruments": "Equity",
-      "Assets": "4.65%"
+      "Assets": "4.03%"
     },
     {
       "Name": "HDFC Asset Management Company Ltd.",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "3.14%"
-    },
-    {
-      "Name": "Tata Steel Ltd.",
-      "Sector": "Metals & Mining",
-      "Instruments": "Equity",
-      "Assets": "3.09%"
+      "Assets": "3.76%"
     },
     {
       "Name": "Bharat Electronics Ltd.",
       "Sector": "Capital Goods",
       "Instruments": "Equity",
-      "Assets": "2.98%"
+      "Assets": "2.95%"
     },
     {
-      "Name": "Maharashtra State",
-      "Sector": "Others",
-      "Instruments": "SDL",
-      "Assets": "2.49%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "2.33%"
-    },
-    {
-      "Name": "GOI",
-      "Sector": "Sovereign",
-      "Instruments": "GOI Sec",
-      "Assets": "2.21%"
-    },
-    {
-      "Name": "Varun Beverages Ltd.",
-      "Sector": "Consumer Staples",
+      "Name": "Dr. Reddy's Laboratories Ltd.",
+      "Sector": "Healthcare",
       "Instruments": "Equity",
-      "Assets": "1.93%"
+      "Assets": "2.87%"
     },
     {
       "Name": "ICICI Prudential Asset Management Company Ltd.",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "1.85%"
+      "Assets": "2.71%"
+    },
+    {
+      "Name": "Maharashtra State",
+      "Sector": "Others",
+      "Instruments": "SDL",
+      "Assets": "2.69%"
+    },
+    {
+      "Name": "Capri Global Capital Ltd.",
+      "Sector": "Financial",
+      "Instruments": "CP",
+      "Assets": "2.68%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "2.58%"
     },
     {
       "Name": "Capital Infra Trust",
       "Sector": "Construction",
       "Instruments": "InvITs",
-      "Assets": "1.78%"
+      "Assets": "1.91%"
     },
     {
       "Name": "GOI",
       "Sector": "Sovereign",
       "Instruments": "GOI Sec",
-      "Assets": "1.77%"
+      "Assets": "1.90%"
+    },
+    {
+      "Name": "Varun Beverages Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Equity",
+      "Assets": "1.81%"
+    },
+    {
+      "Name": "Bharti Airtel Ltd.",
+      "Sector": "Communication",
+      "Instruments": "Equity",
+      "Assets": "1.47%"
     },
     {
       "Name": "Shriram Finance Ltd",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "1.51%"
+      "Assets": "1.34%"
     },
     {
       "Name": "GOI",
       "Sector": "Sovereign",
       "Instruments": "GOI Sec",
-      "Assets": "1.18%"
+      "Assets": "1.23%"
     },
     {
       "Name": "GOI",
       "Sector": "Sovereign",
       "Instruments": "GOI Sec",
-      "Assets": "1.04%"
+      "Assets": "1.12%"
+    },
+    {
+      "Name": "Raajmarg Infra Investment Trust",
+      "Sector": "Construction",
+      "Instruments": "InvITs",
+      "Assets": "1.10%"
     },
     {
       "Name": "GOI",
       "Sector": "Sovereign",
       "Instruments": "GOI Sec",
-      "Assets": "0.92%"
+      "Assets": "0.99%"
+    },
+    {
+      "Name": "Bajaj Finance Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "0.95%"
+    },
+    {
+      "Name": "GOI",
+      "Sector": "Sovereign",
+      "Instruments": "GOI Sec",
+      "Assets": "0.91%"
     },
     {
       "Name": "Larsen & Toubro Ltd.",
       "Sector": "Construction",
       "Instruments": "Equity",
-      "Assets": "0.84%"
+      "Assets": "0.76%"
     },
     {
       "Name": "GOI",
       "Sector": "Sovereign",
       "Instruments": "GOI Sec",
-      "Assets": "0.83%"
-    },
-    {
-      "Name": "GOI",
-      "Sector": "Sovereign",
-      "Instruments": "GOI Sec",
-      "Assets": "0.52%"
-    },
-    {
-      "Name": "Adani Enterprises Ltd. - (Partly Paid-up)",
-      "Sector": "Services",
-      "Instruments": "PPE",
-      "Assets": "0.33%"
+      "Assets": "0.56%"
     },
     {
       "Name": "Quant Gilt Fund Direct - Growth",
       "Sector": "--",
       "Instruments": "Mutual Fund",
-      "Assets": "0.31%"
+      "Assets": "0.34%"
     },
     {
-      "Name": "Nifty Bank",
-      "Sector": "Financial",
-      "Instruments": "ID",
-      "Assets": "-12.02%"
+      "Name": "GOI",
+      "Sector": "Sovereign",
+      "Instruments": "GOI Sec",
+      "Assets": "0.22%"
     }
   ],
   "holding_analysis": {
     "equity_debt_cash_split": {
-      "equity_pct": 55.16,
-      "debt_pct": 29.29,
-      "cash_pct": 1.76
+      "equity_pct": 68.13,
+      "debt_pct": 25.72,
+      "cash_pct": 3.15
     },
     "sector_allocation": [
       {
-        "sector": "Energy & Utilities",
-        "percentage": 25.16
-      },
-      {
-        "sector": "Consumer Discretionary",
-        "percentage": 21.43
-      },
-      {
         "sector": "Financial",
-        "percentage": 16.82
+        "percentage": 32.56
       },
       {
-        "sector": "Materials",
-        "percentage": 14.82
+        "sector": "Energy & Utilities",
+        "percentage": 29.45
       },
       {
         "sector": "Healthcare",
-        "percentage": 11.35
+        "percentage": 15.02
+      },
+      {
+        "sector": "Materials",
+        "percentage": 6.79
+      },
+      {
+        "sector": "Consumer Discretionary",
+        "percentage": 5.92
       },
       {
         "sector": "Industrials",
-        "percentage": 6.92
+        "percentage": 5.44
       },
       {
         "sector": "Consumer Staples",
-        "percentage": 3.5
+        "percentage": 2.66
+      },
+      {
+        "sector": "Technology",
+        "percentage": 2.16
       }
     ]
   },
@@ -299,7 +315,7 @@
       {
         "Name": "Fund returns",
         "3Y": "+14.2%",
-        "5Y": "+15.4%",
+        "5Y": "+15.1%",
         "10Y": "+16.4%",
         "All": "+16.1%"
       },
@@ -349,36 +365,36 @@
     {
       "": "",
       "Name": "ICICI Prudential Equity & Debt Fund Direct Growth",
-      "1Y": "+10.62%",
-      "3Y": "+18.65%",
-      "Fund Size(Cr)": "50,205.35"
+      "1Y": "+10.48%",
+      "3Y": "+18.45%",
+      "Fund Size(Cr)": "46,700.42"
     },
     {
       "": "",
       "Name": "JM Aggressive Hybrid Fund Direct Growth",
-      "1Y": "+3.93%",
-      "3Y": "+17.94%",
+      "1Y": "+4.00%",
+      "3Y": "+17.83%",
       "Fund Size(Cr)": "735.49"
     },
     {
       "": "",
       "Name": "Edelweiss Aggressive Hybrid Fund Direct Growth",
-      "1Y": "+8.97%",
-      "3Y": "+17.05%",
+      "1Y": "+9.38%",
+      "3Y": "+16.93%",
       "Fund Size(Cr)": "3,545.93"
     },
     {
       "": "",
       "Name": "Nippon India Aggressive Hybrid Fund Direct Growth",
-      "1Y": "+9.85%",
-      "3Y": "+14.63%",
+      "1Y": "+9.77%",
+      "3Y": "+14.39%",
       "Fund Size(Cr)": "4,063.06"
     },
     {
       "": "",
       "Name": "Franklin India Aggressive Hybrid Fund Direct Growth",
-      "1Y": "+5.70%",
-      "3Y": "+14.28%",
+      "1Y": "+5.74%",
+      "3Y": "+14.06%",
       "Fund Size(Cr)": "2,349.87"
     }
   ],
@@ -433,7 +449,7 @@
     }
   ],
   "about_fund": {
-    "description": "Quant Aggressive Hybrid Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Aggressive Hybrid Fund Direct Growth fund. The fund currently has an Asset Under Ma Quant Aggressive Hybrid Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Aggressive Hybrid Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹88,796 Cr and the Latest NAV as of 08 Apr 2026 is ₹459.99. The Quant Aggressive Hybrid Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
+    "description": "Quant Aggressive Hybrid Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Aggressive Hybrid Fund Direct Growth fund. The fund currently has an Asset Under Ma Quant Aggressive Hybrid Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Aggressive Hybrid Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹88,796 Cr and the Latest NAV as of 09 Apr 2026 is ₹460.39. The Quant Aggressive Hybrid Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
     "investment_objective": "The scheme seeks to provide long term capital appreciation and current income with a mix of fixed income securities and equity instruments.",
     "benchmark": "NIFTY 50 Hybrid Composite Debt 65:35 Index"
   },
@@ -449,9 +465,9 @@
   },
   "advanced_ratios": {
     "top_5": "37%",
-    "top_20": "85%",
-    "pe_ratio": 29.64,
-    "pb_ratio": 4.03,
+    "top_20": "86%",
+    "pe_ratio": 26.58,
+    "pb_ratio": 3.46,
     "alpha": 0.0,
     "beta": 0.0,
     "sharpe": 0.47,
@@ -469,15 +485,15 @@
     },
     {
       "question": "What kind of returns does Quant Aggressive Hybrid Fund Direct Growth provide?",
-      "answer": "The Quant Aggressive Hybrid Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 11.70% since its inception."
+      "answer": "The Quant Aggressive Hybrid Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 12.37% since its inception."
     },
     {
       "question": "How much expense ratio is charged by Quant Aggressive Hybrid Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 0.83% as of 09 Apr 2026..."
+      "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 0.83% as of 10 Apr 2026..."
     },
     {
       "question": "What is the AUM of Quant Aggressive Hybrid Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹1,990.39Cr as of 09 Apr 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹1,808.88Cr as of 10 Apr 2026."
     },
     {
       "question": "How to Redeem Quant Aggressive Hybrid Fund Direct Growth?",
@@ -489,12 +505,12 @@
     },
     {
       "question": "What is the NAV of Quant Aggressive Hybrid Fund Direct Growth?",
-      "answer": "The NAV of Quant Aggressive Hybrid Fund Direct Growth is ₹459.99 as of 08 Apr 2026."
+      "answer": "The NAV of Quant Aggressive Hybrid Fund Direct Growth is ₹460.39 as of 09 Apr 2026."
     },
     {
       "question": "What is the PE and PB ratio of Quant Aggressive Hybrid Fund Direct Growth?",
       "answer": "ThePE ratioratio of Quant Aggressive Hybrid Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-04-09T07:01:09+0000"
+  "scraped_at": "2026-04-10T07:11:06+0000"
 }

@@ -3,8 +3,8 @@
   "fund_name": "Quant Focused Fund Direct Growth",
   "source_url": "https://groww.in/mutual-funds/quant-focused-fund-direct-growth",
   "basic_info": {
-    "nav": "89.32",
-    "nav_date": "08 Apr '26",
+    "nav": "88.93",
+    "nav_date": "09 Apr '26",
     "expense_ratio_pct": "0.87",
     "min_sip": "1,000"
   },
@@ -14,14 +14,14 @@
     "risk_level": "Very High Risk"
   },
   "performance_returns": {
-    "1D": "+5.82%",
-    "1M": "-0.35%",
-    "6M": "-5.15%",
-    "1Y": "+5.31%",
-    "3Y": "+14.71%",
-    "5Y": "+13.19%",
-    "10Y": "+14.90%",
-    "All": "+15.91%"
+    "1D": "-0.43%",
+    "1M": "+1.26%",
+    "6M": "-6.11%",
+    "1Y": "+6.18%",
+    "3Y": "+14.53%",
+    "5Y": "+12.98%",
+    "10Y": "+14.85%",
+    "All": "+15.87%"
   },
   "return_calculator": {
     "monthly_investment_used": "1000",
@@ -29,131 +29,113 @@
       {
         "Over the past": "1 year",
         "Total investment": "₹12,000",
-        "Would've become": "₹11,556",
-        "Returns": "-3.70%"
+        "Would've become": "₹11,511",
+        "Returns": "-4.08%"
       },
       {
         "Over the past": "3 years",
         "Total investment": "₹36,000",
-        "Would've become": "₹37,426",
-        "Returns": "+3.96%"
+        "Would've become": "₹37,266",
+        "Returns": "+3.52%"
       },
       {
         "Over the past": "5 years",
         "Total investment": "₹60,000",
-        "Would've become": "₹75,329",
-        "Returns": "+25.55%"
+        "Would've become": "₹74,992",
+        "Returns": "+24.99%"
       },
       {
         "Over the past": "10 years",
         "Total investment": "₹1,20,000",
-        "Would've become": "₹2,52,874",
-        "Returns": "+110.73%"
+        "Would've become": "₹2,51,706",
+        "Returns": "+109.75%"
       }
     ],
     "sip_return_rates": [
       {
         "period": "1 year",
-        "return_pct": -3.7
+        "return_pct": -4.08
       },
       {
         "period": "3 years",
-        "return_pct": 3.96
+        "return_pct": 3.52
       },
       {
         "period": "5 years",
-        "return_pct": 25.55
+        "return_pct": 24.99
       },
       {
         "period": "10 years",
-        "return_pct": 110.73
+        "return_pct": 109.75
       }
     ]
   },
   "holdings": [
     {
-      "Name": "HDFC Bank Ltd.",
+      "Name": "Capri Global Capital Ltd.",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "9.42%"
-    },
-    {
-      "Name": "Adani Green Energy Ltd.",
-      "Sector": "Capital Goods",
-      "Instruments": "Equity",
-      "Assets": "9.40%"
+      "Assets": "10.01%"
     },
     {
       "Name": "Adani Enterprises Ltd.",
       "Sector": "Services",
       "Instruments": "Equity",
-      "Assets": "9.08%"
+      "Assets": "9.77%"
+    },
+    {
+      "Name": "Adani Green Energy Ltd.",
+      "Sector": "Capital Goods",
+      "Instruments": "Equity",
+      "Assets": "9.42%"
+    },
+    {
+      "Name": "HDFC Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "9.13%"
+    },
+    {
+      "Name": "HDFC Life Insurance Co Ltd.",
+      "Sector": "Insurance",
+      "Instruments": "Equity",
+      "Assets": "8.91%"
+    },
+    {
+      "Name": "Reliance Industries Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Equity",
+      "Assets": "7.59%"
     },
     {
       "Name": "Samvardhana Motherson International Ltd.",
       "Sector": "Automobile",
       "Instruments": "Equity",
-      "Assets": "7.57%"
-    },
-    {
-      "Name": "Capri Global Capital Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "7.38%"
+      "Assets": "7.02%"
     },
     {
       "Name": "Kotak Mahindra Bank Ltd.",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "6.19%"
-    },
-    {
-      "Name": "HDFC Life Insurance Co Ltd.",
-      "Sector": "Insurance",
-      "Instruments": "Equity",
-      "Assets": "6.17%"
-    },
-    {
-      "Name": "HDFC Asset Management Company Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "5.04%"
-    },
-    {
-      "Name": "Bajaj Auto Ltd.",
-      "Sector": "Automobile",
-      "Instruments": "Equity",
-      "Assets": "5.01%"
-    },
-    {
-      "Name": "ICICI Prudential Asset Management Company Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "4.74%"
+      "Assets": "6.20%"
     },
     {
       "Name": "Shriram Finance Ltd",
       "Sector": "Financial",
       "Instruments": "Futures",
-      "Assets": "3.18%"
+      "Assets": "5.87%"
     },
     {
-      "Name": "Wipro Ltd.",
-      "Sector": "Technology",
-      "Instruments": "Futures",
-      "Assets": "3.17%"
-    },
-    {
-      "Name": "Oil And Natural Gas Corporation Ltd.",
-      "Sector": "Energy",
+      "Name": "ICICI Prudential Asset Management Company Ltd.",
+      "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "3.05%"
+      "Assets": "5.54%"
     },
     {
-      "Name": "HDFC Life Insurance Co Ltd.",
-      "Sector": "Insurance",
+      "Name": "HDFC Asset Management Company Ltd.",
+      "Sector": "Financial",
       "Instruments": "Futures",
-      "Assets": "3.02%"
+      "Assets": "4.86%"
     },
     {
       "Name": "Varun Beverages Ltd.",
@@ -162,114 +144,124 @@
       "Assets": "2.90%"
     },
     {
+      "Name": "Dr. Reddy's Laboratories Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Futures",
+      "Assets": "2.64%"
+    },
+    {
+      "Name": "Hindustan Unilever Ltd.",
+      "Sector": "Consumer Staples",
+      "Instruments": "Futures",
+      "Assets": "2.38%"
+    },
+    {
+      "Name": "Bajaj Finance Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Futures",
+      "Assets": "2.36%"
+    },
+    {
       "Name": "Colgate-Palmolive (India) Ltd.",
       "Sector": "Consumer Staples",
       "Instruments": "Futures",
-      "Assets": "1.74%"
+      "Assets": "1.62%"
+    },
+    {
+      "Name": "Bharti Airtel Ltd.",
+      "Sector": "Communication",
+      "Instruments": "Futures",
+      "Assets": "1.60%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.99%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.99%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.99%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.99%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.99%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.85%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.84%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.71%"
     },
     {
       "Name": "Eternal Ltd.",
       "Sector": "Services",
       "Instruments": "Equity",
-      "Assets": "1.70%"
-    },
-    {
-      "Name": "Adani Enterprises Ltd. - (Partly Paid-up)",
-      "Sector": "Services",
-      "Instruments": "PPE",
-      "Assets": "0.90%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.84%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.84%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.84%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.84%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.84%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.84%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.73%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.60%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.36%"
-    },
-    {
-      "Name": "Eternal Ltd.",
-      "Sector": "Services",
-      "Instruments": "Futures",
-      "Assets": "-1.70%"
+      "Assets": "0.00%"
     }
   ],
   "holding_analysis": {
     "equity_debt_cash_split": {
-      "equity_pct": 87.94,
-      "debt_pct": 27.82,
-      "cash_pct": -17.46
+      "equity_pct": 97.83,
+      "debt_pct": 7.35,
+      "cash_pct": -5.18
     },
     "sector_allocation": [
       {
         "sector": "Financial",
-        "percentage": 51.32
-      },
-      {
-        "sector": "Consumer Discretionary",
-        "percentage": 14.31
+        "percentage": 54.06
       },
       {
         "sector": "Energy & Utilities",
-        "percentage": 14.16
+        "percentage": 17.39
       },
       {
         "sector": "Materials",
-        "percentage": 11.34
+        "percentage": 9.99
+      },
+      {
+        "sector": "Consumer Discretionary",
+        "percentage": 7.17
       },
       {
         "sector": "Consumer Staples",
-        "percentage": 5.27
+        "percentage": 7.05
+      },
+      {
+        "sector": "Healthcare",
+        "percentage": 2.69
       },
       {
         "sector": "Technology",
-        "percentage": 3.6
+        "percentage": 1.64
       }
     ]
   },
@@ -282,9 +274,9 @@
     "annualised_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+14.7%",
-        "5Y": "+13.2%",
-        "10Y": "+14.9%",
+        "3Y": "+14.5%",
+        "5Y": "+13.0%",
+        "10Y": "+14.8%",
         "All": "+15.9%"
       },
       {
@@ -296,8 +288,8 @@
       },
       {
         "Name": "Rank (Equity Large Cap)",
-        "3Y": "46",
-        "5Y": "23",
+        "3Y": "38",
+        "5Y": "20",
         "10Y": "--",
         "All": "--"
       }
@@ -319,8 +311,8 @@
       },
       {
         "Name": "Rank (Equity Large Cap)",
-        "3Y": "46",
-        "5Y": "23",
+        "3Y": "38",
+        "5Y": "20",
         "10Y": "--",
         "All": "--"
       }
@@ -333,37 +325,37 @@
     {
       "": "",
       "Name": "Nippon India Large Cap Fund Direct Growth",
-      "1Y": "+10.02%",
-      "3Y": "+17.90%",
+      "1Y": "+9.99%",
+      "3Y": "+17.60%",
       "Fund Size(Cr)": "51,403.80"
     },
     {
       "": "",
       "Name": "WhiteOak Capital Large Cap Fund Direct Growth",
-      "1Y": "+9.93%",
-      "3Y": "+17.75%",
+      "1Y": "+10.02%",
+      "3Y": "+17.53%",
       "Fund Size(Cr)": "1,148.98"
     },
     {
       "": "",
       "Name": "DSP Large Cap Fund Direct Growth",
-      "1Y": "+4.78%",
-      "3Y": "+17.00%",
+      "1Y": "+4.79%",
+      "3Y": "+16.74%",
       "Fund Size(Cr)": "7,269.64"
     },
     {
       "": "",
       "Name": "ICICI Prudential Large Cap Fund Direct Growth",
-      "1Y": "+8.47%",
-      "3Y": "+16.66%",
-      "Fund Size(Cr)": "77,451.59"
+      "1Y": "+8.10%",
+      "3Y": "+16.31%",
+      "Fund Size(Cr)": "69,947.55"
     },
     {
       "": "",
       "Name": "HDFC Large Cap Fund Direct Growth",
-      "1Y": "+6.18%",
-      "3Y": "+14.07%",
-      "Fund Size(Cr)": "40,085.19"
+      "1Y": "+5.86%",
+      "3Y": "+13.69%",
+      "Fund Size(Cr)": "35,458.50"
     }
   ],
   "fund_managers": [
@@ -417,7 +409,7 @@
     }
   ],
   "about_fund": {
-    "description": "Quant Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹88 Quant Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹88,796 Cr and the Latest NAV as of 08 Apr 2026 is ₹89.32. The Quant Focused Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
+    "description": "Quant Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹88 Quant Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹88,796 Cr and the Latest NAV as of 09 Apr 2026 is ₹88.93. The Quant Focused Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
     "investment_objective": "The scheme seeks to provide capital appreciation by investing in a focused portfolio of Large cap -'bluechip' companies",
     "benchmark": "NIFTY 500 Total Return Index"
   },
@@ -432,10 +424,10 @@
     "address": "6th Floor, Sea Breeze Building,Appa Saheb Marathe Marg,Prabhadevi, Mumbai 400025"
   },
   "advanced_ratios": {
-    "top_5": "43%",
-    "top_20": "91%",
-    "pe_ratio": 26.29,
-    "pb_ratio": 3.16,
+    "top_5": "47%",
+    "top_20": "101%",
+    "pe_ratio": 24.38,
+    "pb_ratio": 2.84,
     "alpha": -0.32,
     "beta": 1.15,
     "sharpe": 0.36,
@@ -453,15 +445,15 @@
     },
     {
       "question": "What kind of returns does Quant Focused Fund Direct Growth provide?",
-      "answer": "The Quant Focused Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 5.31% since its inception."
+      "answer": "The Quant Focused Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 6.18% since its inception."
     },
     {
       "question": "How much expense ratio is charged by Quant Focused Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Focused Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Focused Fund Direct Growth is 0.87% as of 09 Apr 2026..."
+      "answer": "The termExpense Ratioused for Quant Focused Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Focused Fund Direct Growth is 0.87% as of 10 Apr 2026..."
     },
     {
       "question": "What is the AUM of Quant Focused Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Focused Fund Direct Growth is ₹826.63Cr as of 09 Apr 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Focused Fund Direct Growth is ₹702.68Cr as of 10 Apr 2026."
     },
     {
       "question": "How to Redeem Quant Focused Fund Direct Growth?",
@@ -473,12 +465,12 @@
     },
     {
       "question": "What is the NAV of Quant Focused Fund Direct Growth?",
-      "answer": "The NAV of Quant Focused Fund Direct Growth is ₹89.32 as of 08 Apr 2026."
+      "answer": "The NAV of Quant Focused Fund Direct Growth is ₹88.93 as of 09 Apr 2026."
     },
     {
       "question": "What is the PE and PB ratio of Quant Focused Fund Direct Growth?",
       "answer": "ThePE ratioratio of Quant Focused Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-04-09T07:01:09+0000"
+  "scraped_at": "2026-04-10T07:11:06+0000"
 }
