@@ -374,14 +374,14 @@
       "Name": "JM Aggressive Hybrid Fund Direct Growth",
       "1Y": "+5.31%",
       "3Y": "+18.25%",
-      "Fund Size(Cr)": "735.49"
+      "Fund Size(Cr)": "651.98"
     },
     {
       "": "",
       "Name": "Edelweiss Aggressive Hybrid Fund Direct Growth",
       "1Y": "+10.39%",
       "3Y": "+17.29%",
-      "Fund Size(Cr)": "3,545.93"
+      "Fund Size(Cr)": "3,308.91"
     },
     {
       "": "",
@@ -395,7 +395,7 @@
       "Name": "Franklin India Aggressive Hybrid Fund Direct Growth",
       "1Y": "+6.79%",
       "3Y": "+14.45%",
-      "Fund Size(Cr)": "2,349.87"
+      "Fund Size(Cr)": "2,163.53"
     }
   ],
   "fund_managers": [
@@ -489,11 +489,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Aggressive Hybrid Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 0.83% as of 11 Apr 2026..."
+      "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 0.83% as of 12 Apr 2026..."
     },
     {
       "question": "What is the AUM of Quant Aggressive Hybrid Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹1,808.88Cr as of 11 Apr 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹1,808.88Cr as of 12 Apr 2026."
     },
     {
       "question": "How to Redeem Quant Aggressive Hybrid Fund Direct Growth?",
@@ -512,5 +512,5 @@
       "answer": "ThePE ratioratio of Quant Aggressive Hybrid Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-04-11T06:42:21+0000"
+  "scraped_at": "2026-04-12T06:57:50+0000"
 }
