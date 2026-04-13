@@ -375,10 +375,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+57.22%",
-        "5Y": "+156.42%",
-        "10Y": "+481.19%",
-        "All": "+593.18%"
+        "3Y": "+69.95%",
+        "5Y": "+167.08%",
+        "10Y": "+539.12%",
+        "All": "+662.36%"
       },
       {
         "Name": "Category average (Equity Sectoral)",
@@ -491,11 +491,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Infrastructure Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Infrastructure Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Infrastructure Fund Direct Growth is 0.91% as of 12 Apr 2026..."
+      "answer": "The termExpense Ratioused for Quant Infrastructure Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Infrastructure Fund Direct Growth is 0.91% as of 13 Apr 2026..."
     },
     {
       "question": "What is the AUM of Quant Infrastructure Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Infrastructure Fund Direct Growth is ₹2,489.26Cr as of 12 Apr 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Infrastructure Fund Direct Growth is ₹2,489.26Cr as of 13 Apr 2026."
     },
     {
       "question": "How to Redeem Quant Infrastructure Fund Direct Growth?",
@@ -514,5 +514,5 @@
       "answer": "ThePE ratioratio of Quant Infrastructure Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-04-12T06:57:50+0000"
+  "scraped_at": "2026-04-13T07:32:00+0000"
 }

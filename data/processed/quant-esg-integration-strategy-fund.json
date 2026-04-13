@@ -320,10 +320,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "1Y": "-1.66%",
-        "3Y": "+49.59%",
-        "5Y": "+134.48%",
-        "All": "+216.39%"
+        "1Y": "+10.77%",
+        "3Y": "+60.54%",
+        "5Y": "+144.18%",
+        "All": "+244.42%"
       },
       {
         "Name": "Category average (Equity Thematic)",
@@ -430,11 +430,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant ESG Integration Strategy Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant ESG Integration Strategy Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ESG Integration Strategy Fund Direct Growth is 0.93% as of 12 Apr 2026..."
+      "answer": "The termExpense Ratioused for Quant ESG Integration Strategy Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ESG Integration Strategy Fund Direct Growth is 0.93% as of 13 Apr 2026..."
     },
     {
       "question": "What is the AUM of Quant ESG Integration Strategy Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant ESG Integration Strategy Fund Direct Growth is ₹225.60Cr as of 12 Apr 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant ESG Integration Strategy Fund Direct Growth is ₹225.60Cr as of 13 Apr 2026."
     },
     {
       "question": "How to Redeem Quant ESG Integration Strategy Fund Direct Growth?",
@@ -453,5 +453,5 @@
       "answer": "ThePE ratioratio of Quant ESG Integration Strategy Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-04-12T06:57:50+0000"
+  "scraped_at": "2026-04-13T07:32:00+0000"
 }
