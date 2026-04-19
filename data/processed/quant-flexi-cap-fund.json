@@ -380,7 +380,7 @@
       },
       {
         "Name": "Rank (Equity Flexi Cap)",
-        "3Y": "15",
+        "3Y": "16",
         "5Y": "--",
         "10Y": "--",
         "All": "--"
@@ -403,7 +403,7 @@
       },
       {
         "Name": "Rank (Equity Flexi Cap)",
-        "3Y": "15",
+        "3Y": "16",
         "5Y": "--",
         "10Y": "--",
         "All": "--"
@@ -438,8 +438,8 @@
     {
       "": "",
       "Name": "Parag Parikh Flexi Cap Fund Direct Growth",
-      "1Y": "+7.27%",
-      "3Y": "+18.93%",
+      "1Y": "+6.98%",
+      "3Y": "+18.97%",
       "Fund Size(Cr)": "1,28,966.48"
     },
     {
@@ -541,11 +541,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Flexi Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Flexi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Flexi Cap Fund Direct Growth is 0.74% as of 18 Apr 2026..."
+      "answer": "The termExpense Ratioused for Quant Flexi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Flexi Cap Fund Direct Growth is 0.74% as of 19 Apr 2026..."
     },
     {
       "question": "What is the AUM of Quant Flexi Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Flexi Cap Fund Direct Growth is ₹5,687.36Cr as of 18 Apr 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Flexi Cap Fund Direct Growth is ₹5,687.36Cr as of 19 Apr 2026."
     },
     {
       "question": "How to Redeem Quant Flexi Cap Fund Direct Growth?",
@@ -564,5 +564,5 @@
       "answer": "ThePE ratioratio of Quant Flexi Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-04-18T06:51:23+0000"
+  "scraped_at": "2026-04-19T07:01:38+0000"
 }
