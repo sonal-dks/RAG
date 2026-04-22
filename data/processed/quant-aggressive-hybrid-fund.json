@@ -3,9 +3,9 @@
   "fund_name": "Quant Aggressive Hybrid Fund Direct Growth",
   "source_url": "https://groww.in/mutual-funds/quant-aggressive-hybrid-fund-direct-growth",
   "basic_info": {
-    "nav": "478.90",
-    "nav_date": "20 Apr '26",
-    "expense_ratio_pct": "0.83",
+    "nav": "482.53",
+    "nav_date": "21 Apr '26",
+    "expense_ratio_pct": "3.98",
     "min_sip": "1,000"
   },
   "fund_category_and_risk": {
@@ -14,14 +14,14 @@
     "risk_level": "Very High Risk"
   },
   "performance_returns": {
-    "1D": "+0.02%",
-    "1M": "+8.12%",
-    "6M": "-0.16%",
-    "1Y": "+11.03%",
-    "3Y": "+15.74%",
-    "5Y": "+16.29%",
-    "10Y": "+16.57%",
-    "All": "+16.42%"
+    "1D": "+0.76%",
+    "1M": "+8.94%",
+    "6M": "+0.60%",
+    "1Y": "+11.01%",
+    "3Y": "+16.18%",
+    "5Y": "+16.46%",
+    "10Y": "+16.63%",
+    "All": "+16.48%"
   },
   "return_calculator": {
     "monthly_investment_used": "1000",
@@ -29,44 +29,44 @@
       {
         "Over the past": "1 year",
         "Total investment": "₹12,000",
-        "Would've become": "₹12,466",
-        "Returns": "+3.88%"
+        "Would've become": "₹12,548",
+        "Returns": "+4.57%"
       },
       {
         "Over the past": "3 years",
         "Total investment": "₹36,000",
-        "Would've become": "₹41,256",
-        "Returns": "+14.60%"
+        "Would've become": "₹41,548",
+        "Returns": "+15.41%"
       },
       {
         "Over the past": "5 years",
         "Total investment": "₹60,000",
-        "Would've become": "₹80,874",
-        "Returns": "+34.79%"
+        "Would've become": "₹81,448",
+        "Returns": "+35.75%"
       },
       {
         "Over the past": "10 years",
         "Total investment": "₹1,20,000",
-        "Would've become": "₹2,95,923",
-        "Returns": "+146.60%"
+        "Would've become": "₹2,98,013",
+        "Returns": "+148.34%"
       }
     ],
     "sip_return_rates": [
       {
         "period": "1 year",
-        "return_pct": 3.88
+        "return_pct": 4.57
       },
       {
         "period": "3 years",
-        "return_pct": 14.6
+        "return_pct": 15.41
       },
       {
         "period": "5 years",
-        "return_pct": 34.79
+        "return_pct": 35.75
       },
       {
         "period": "10 years",
-        "return_pct": 146.6
+        "return_pct": 148.34
       }
     ]
   },
@@ -314,10 +314,10 @@
     "annualised_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+15.7%",
-        "5Y": "+16.3%",
+        "3Y": "+16.2%",
+        "5Y": "+16.5%",
         "10Y": "+16.6%",
-        "All": "+16.4%"
+        "All": "+16.5%"
       },
       {
         "Name": "Category average (Hybrid Aggressive Hybrid)",
@@ -328,8 +328,8 @@
       },
       {
         "Name": "Rank (Hybrid Aggressive Hybrid)",
-        "3Y": "20",
-        "5Y": "7",
+        "3Y": "17",
+        "5Y": "6",
         "10Y": "2",
         "All": "--"
       }
@@ -351,8 +351,8 @@
       },
       {
         "Name": "Rank (Hybrid Aggressive Hybrid)",
-        "3Y": "20",
-        "5Y": "7",
+        "3Y": "17",
+        "5Y": "6",
         "10Y": "2",
         "All": "--"
       }
@@ -365,36 +365,36 @@
     {
       "": "",
       "Name": "ICICI Prudential Equity & Debt Fund Direct Growth",
-      "1Y": "+7.95%",
-      "3Y": "+19.32%",
+      "1Y": "+7.69%",
+      "3Y": "+19.66%",
       "Fund Size(Cr)": "46,700.42"
     },
     {
       "": "",
       "Name": "JM Aggressive Hybrid Fund Direct Growth",
-      "1Y": "+1.91%",
-      "3Y": "+19.12%",
+      "1Y": "+1.38%",
+      "3Y": "+19.48%",
       "Fund Size(Cr)": "651.98"
     },
     {
       "": "",
       "Name": "Edelweiss Aggressive Hybrid Fund Direct Growth",
-      "1Y": "+7.10%",
-      "3Y": "+17.82%",
+      "1Y": "+6.60%",
+      "3Y": "+18.10%",
       "Fund Size(Cr)": "3,308.91"
     },
     {
       "": "",
       "Name": "Nippon India Aggressive Hybrid Fund Direct Growth",
-      "1Y": "+7.59%",
-      "3Y": "+15.60%",
+      "1Y": "+7.16%",
+      "3Y": "+15.91%",
       "Fund Size(Cr)": "3,700.53"
     },
     {
       "": "",
       "Name": "Franklin India Aggressive Hybrid Fund Direct Growth",
-      "1Y": "+3.74%",
-      "3Y": "+15.16%",
+      "1Y": "+3.47%",
+      "3Y": "+15.46%",
       "Fund Size(Cr)": "2,163.53"
     }
   ],
@@ -449,7 +449,7 @@
     }
   ],
   "about_fund": {
-    "description": "Quant Aggressive Hybrid Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Aggressive Hybrid Fund Direct Growth fund. The fund currently has an Asset Under Ma Quant Aggressive Hybrid Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Aggressive Hybrid Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹81,675 Cr and the Latest NAV as of 20 Apr 2026 is ₹478.90. The Quant Aggressive Hybrid Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
+    "description": "Quant Aggressive Hybrid Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Aggressive Hybrid Fund Direct Growth fund. The fund currently has an Asset Under Ma Quant Aggressive Hybrid Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant Aggressive Hybrid Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹81,675 Cr and the Latest NAV as of 21 Apr 2026 is ₹482.53. The Quant Aggressive Hybrid Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
     "investment_objective": "The scheme seeks to provide long term capital appreciation and current income with a mix of fixed income securities and equity instruments.",
     "benchmark": "NIFTY 50 Hybrid Composite Debt 65:35 Index"
   },
@@ -485,15 +485,15 @@
     },
     {
       "question": "What kind of returns does Quant Aggressive Hybrid Fund Direct Growth provide?",
-      "answer": "The Quant Aggressive Hybrid Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 11.03% since its inception."
+      "answer": "The Quant Aggressive Hybrid Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 11.01% since its inception."
     },
     {
       "question": "How much expense ratio is charged by Quant Aggressive Hybrid Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 0.83% as of 21 Apr 2026..."
+      "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 3.98% as of 22 Apr 2026..."
     },
     {
       "question": "What is the AUM of Quant Aggressive Hybrid Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹1,808.88Cr as of 21 Apr 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹1,808.88Cr as of 22 Apr 2026."
     },
     {
       "question": "How to Redeem Quant Aggressive Hybrid Fund Direct Growth?",
@@ -505,12 +505,12 @@
     },
     {
       "question": "What is the NAV of Quant Aggressive Hybrid Fund Direct Growth?",
-      "answer": "The NAV of Quant Aggressive Hybrid Fund Direct Growth is ₹478.90 as of 20 Apr 2026."
+      "answer": "The NAV of Quant Aggressive Hybrid Fund Direct Growth is ₹482.53 as of 21 Apr 2026."
     },
     {
       "question": "What is the PE and PB ratio of Quant Aggressive Hybrid Fund Direct Growth?",
       "answer": "ThePE ratioratio of Quant Aggressive Hybrid Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-04-21T07:15:55+0000"
+  "scraped_at": "2026-04-22T07:16:10+0000"
 }
