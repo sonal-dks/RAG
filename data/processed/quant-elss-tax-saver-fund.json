@@ -3,8 +3,8 @@
   "fund_name": "Quant ELSS Tax Saver Fund Direct Growth",
   "source_url": "https://groww.in/mutual-funds/quant-elss-tax-saver-fund-direct-growth",
   "basic_info": {
-    "nav": "432.60",
-    "nav_date": "22 Apr '26",
+    "nav": "429.27",
+    "nav_date": "23 Apr '26",
     "expense_ratio_pct": "2.70",
     "min_sip": "500"
   },
@@ -14,14 +14,14 @@
     "risk_level": "Very High Risk"
   },
   "performance_returns": {
-    "1D": "+1.10%",
-    "1M": "+10.78%",
-    "6M": "+1.46%",
-    "1Y": "+12.54%",
-    "3Y": "+20.19%",
-    "5Y": "+19.91%",
-    "10Y": "+21.42%",
-    "All": "+19.80%"
+    "1D": "-0.77%",
+    "1M": "+13.33%",
+    "6M": "+0.76%",
+    "1Y": "+10.62%",
+    "3Y": "+19.86%",
+    "5Y": "+19.75%",
+    "10Y": "+21.32%",
+    "All": "+19.73%"
   },
   "return_calculator": {
     "monthly_investment_used": "500",
@@ -29,44 +29,44 @@
       {
         "Over the past": "1 year",
         "Total investment": "₹6,000",
-        "Would've become": "₹6,358",
-        "Returns": "+5.97%"
+        "Would've become": "₹6,312",
+        "Returns": "+5.20%"
       },
       {
         "Over the past": "3 years",
         "Total investment": "₹18,000",
-        "Would've become": "₹20,896",
-        "Returns": "+16.09%"
+        "Would've become": "₹20,736",
+        "Returns": "+15.20%"
       },
       {
         "Over the past": "5 years",
         "Total investment": "₹30,000",
-        "Would've become": "₹42,759",
-        "Returns": "+42.53%"
+        "Would've become": "₹42,422",
+        "Returns": "+41.41%"
       },
       {
         "Over the past": "10 years",
         "Total investment": "₹60,000",
-        "Would've become": "₹1,83,798",
-        "Returns": "+206.33%"
+        "Would've become": "₹1,82,300",
+        "Returns": "+203.83%"
       }
     ],
     "sip_return_rates": [
       {
         "period": "1 year",
-        "return_pct": 5.97
+        "return_pct": 5.2
       },
       {
         "period": "3 years",
-        "return_pct": 16.09
+        "return_pct": 15.2
       },
       {
         "period": "5 years",
-        "return_pct": 42.53
+        "return_pct": 41.41
       },
       {
         "period": "10 years",
-        "return_pct": 206.33
+        "return_pct": 203.83
       }
     ]
   },
@@ -312,10 +312,10 @@
     "annualised_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+20.2%",
-        "5Y": "+19.9%",
-        "10Y": "+21.4%",
-        "All": "+19.8%"
+        "3Y": "+19.9%",
+        "5Y": "+19.8%",
+        "10Y": "+21.3%",
+        "All": "+19.7%"
       },
       {
         "Name": "Category average (Equity ELSS)",
@@ -326,8 +326,8 @@
       },
       {
         "Name": "Rank (Equity ELSS)",
-        "3Y": "10",
-        "5Y": "4",
+        "3Y": "9",
+        "5Y": "3",
         "10Y": "1",
         "All": "--"
       }
@@ -349,8 +349,8 @@
       },
       {
         "Name": "Rank (Equity ELSS)",
-        "3Y": "10",
-        "5Y": "4",
+        "3Y": "9",
+        "5Y": "3",
         "10Y": "1",
         "All": "--"
       }
@@ -363,40 +363,58 @@
     {
       "": "",
       "Name": "Motilal Oswal ELSS Tax Saver Fund Direct Growth",
-      "1Y": "+14.05%",
-      "3Y": "+26.71%",
+      "1Y": "+12.78%",
+      "3Y": "+26.70%",
       "Fund Size(Cr)": "3,968.68"
     },
     {
       "": "",
       "Name": "SBI ELSS Tax Saver Fund Direct Growth",
-      "1Y": "+4.63%",
-      "3Y": "+22.91%",
+      "1Y": "+3.45%",
+      "3Y": "+22.67%",
       "Fund Size(Cr)": "28,441.43"
     },
     {
       "": "",
       "Name": "WhiteOak Capital ELSS Tax Saver Fund Direct Growth",
-      "1Y": "+4.48%",
-      "3Y": "+21.83%",
+      "1Y": "+3.51%",
+      "3Y": "+21.60%",
       "Fund Size(Cr)": "402.93"
     },
     {
       "": "",
       "Name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
-      "1Y": "+1.19%",
-      "3Y": "+20.02%",
+      "1Y": "-0.21%",
+      "3Y": "+19.59%",
       "Fund Size(Cr)": "14,615.19"
     },
     {
       "": "",
       "Name": "Parag Parikh ELSS Tax Saver Fund Direct Growth",
-      "1Y": "-1.21%",
-      "3Y": "+15.24%",
+      "1Y": "-2.72%",
+      "3Y": "+14.97%",
       "Fund Size(Cr)": "5,260.64"
     }
   ],
   "fund_managers": [
+    {
+      "name": "Varun Pattani",
+      "tenure": "Feb 2025 - Present",
+      "education": "Mr. Pattani is an ACA",
+      "experience": "Prior to joining Quant Mutual Fund, he has worked with boutique PMS firm."
+    },
+    {
+      "name": "Ayusha Kumbhat",
+      "tenure": "Feb 2025 - Present",
+      "education": "CFA Level III, BSc (Hons) in Economics, MSc in Behavioural & Experimental Economics",
+      "experience": "She is working with Quant Mutual fund as Research Analyst for the past 15 months, specializing in investment research."
+    },
+    {
+      "name": "Sameer Kate",
+      "tenure": "Mar 2025 - Present",
+      "education": "Bachelor of Computer Science, MBA from IME Pune.",
+      "experience": "Prior to joining Quant Mutual Fund, he was working with Investec Capital and Kotak Securities,"
+    },
     {
       "name": "Sanjeev Sharma",
       "tenure": "Feb 2025 - Present",
@@ -416,24 +434,6 @@
       "experience": "Prior to joining Quant Mutual Fund he has worked with Infosys Finacle. Began his career in equity research in 2011."
     },
     {
-      "name": "Varun Pattani",
-      "tenure": "Feb 2025 - Present",
-      "education": "Mr. Pattani is an ACA",
-      "experience": "Prior to joining Quant Mutual Fund, he has worked with boutique PMS firm."
-    },
-    {
-      "name": "Sameer Kate",
-      "tenure": "Mar 2025 - Present",
-      "education": "Bachelor of Computer Science, MBA from IME Pune.",
-      "experience": "Prior to joining Quant Mutual Fund, he was working with Investec Capital and Kotak Securities,"
-    },
-    {
-      "name": "Ayusha Kumbhat",
-      "tenure": "Feb 2025 - Present",
-      "education": "CFA Level III, BSc (Hons) in Economics, MSc in Behavioural & Experimental Economics",
-      "experience": "She is working with Quant Mutual fund as Research Analyst for the past 15 months, specializing in investment research."
-    },
-    {
       "name": "Yug Tibrewal",
       "tenure": "Mar 2025 - Present",
       "education": "B.M.S, CFA L1",
@@ -441,7 +441,7 @@
     }
   ],
   "about_fund": {
-    "description": "Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Manageme Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sanjeev Sharma is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹81,675 Cr and the Latest NAV as of 22 Apr 2026 is ₹432.60. The Quant ELSS Tax Saver Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. ...Read more",
+    "description": "Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Managemen Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹81,675 Cr and the Latest NAV as of 23 Apr 2026 is ₹429.27. The Quant ELSS Tax Saver Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. ...Read more",
     "investment_objective": "The scheme aims to generate capital appreciation by investing predominantly in equity shares with growth potential. The secondary objective is to give dividend and other income.",
     "benchmark": "NIFTY 500 Total Return Index"
   },
@@ -477,15 +477,15 @@
     },
     {
       "question": "What kind of returns does Quant ELSS Tax Saver Fund Direct Growth provide?",
-      "answer": "The Quant ELSS Tax Saver Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 12.54% since its inception."
+      "answer": "The Quant ELSS Tax Saver Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 10.62% since its inception."
     },
     {
       "question": "How much expense ratio is charged by Quant ELSS Tax Saver Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant ELSS Tax Saver Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ELSS Tax Saver Fund Direct Growth is 2.70% as of 23 Apr 2026..."
+      "answer": "The termExpense Ratioused for Quant ELSS Tax Saver Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ELSS Tax Saver Fund Direct Growth is 2.70% as of 24 Apr 2026..."
     },
     {
       "question": "What is the AUM of Quant ELSS Tax Saver Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant ELSS Tax Saver Fund Direct Growth is ₹10,978.49Cr as of 23 Apr 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant ELSS Tax Saver Fund Direct Growth is ₹10,978.49Cr as of 24 Apr 2026."
     },
     {
       "question": "How to Redeem Quant ELSS Tax Saver Fund Direct Growth?",
@@ -497,12 +497,12 @@
     },
     {
       "question": "What is the NAV of Quant ELSS Tax Saver Fund Direct Growth?",
-      "answer": "The NAV of Quant ELSS Tax Saver Fund Direct Growth is ₹432.60 as of 22 Apr 2026."
+      "answer": "The NAV of Quant ELSS Tax Saver Fund Direct Growth is ₹429.27 as of 23 Apr 2026."
     },
     {
       "question": "What is the PE and PB ratio of Quant ELSS Tax Saver Fund Direct Growth?",
       "answer": "ThePE ratioratio of Quant ELSS Tax Saver Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-04-23T07:18:25+0000"
+  "scraped_at": "2026-04-24T07:21:54+0000"
 }
