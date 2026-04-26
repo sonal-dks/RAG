@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-04-25T06:55:28+0000",
+  "scraped_at": "2026-04-26T07:14:35+0000",
   "fund_count": 10,
   "funds": [
     {
@@ -9,7 +9,7 @@
       "basic_info": {
         "nav": "273.11",
         "nav_date": "24 Apr '26",
-        "expense_ratio_pct": "0.88",
+        "expense_ratio_pct": "0.72",
         "min_sip": "1,000"
       },
       "fund_category_and_risk": {
@@ -829,7 +829,7 @@
           {
             "Name": "Rank (Equity Small Cap)",
             "3Y": "17",
-            "5Y": "4",
+            "5Y": "3",
             "10Y": "--",
             "All": "--"
           }
@@ -852,7 +852,7 @@
           {
             "Name": "Rank (Equity Small Cap)",
             "3Y": "17",
-            "5Y": "4",
+            "5Y": "3",
             "10Y": "--",
             "All": "--"
           }
@@ -947,11 +947,11 @@
         },
         {
           "question": "How much expense ratio is charged by Quant Small Cap Fund Direct Plan Growth?",
-          "answer": "The termExpense Ratioused for Quant Small Cap Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Small Cap Fund Direct Plan Growth is 0.88% as of 25 Apr 2026..."
+          "answer": "The termExpense Ratioused for Quant Small Cap Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Small Cap Fund Direct Plan Growth is 0.72% as of 26 Apr 2026..."
         },
         {
           "question": "What is the AUM of Quant Small Cap Fund Direct Plan Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant Small Cap Fund Direct Plan Growth is ₹25,820.99Cr as of 25 Apr 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant Small Cap Fund Direct Plan Growth is ₹25,820.99Cr as of 26 Apr 2026."
         },
         {
           "question": "How to Redeem Quant Small Cap Fund Direct Plan Growth?",
@@ -970,7 +970,7 @@
           "answer": "ThePE ratioratio of Quant Small Cap Fund Direct Plan Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-04-25T06:55:27+0000"
+      "scraped_at": "2026-04-26T07:14:34+0000"
     },
     {
       "fund_key": "quant-infrastructure-fund",
@@ -979,7 +979,7 @@
       "basic_info": {
         "nav": "43.09",
         "nav_date": "24 Apr '26",
-        "expense_ratio_pct": "1.30",
+        "expense_ratio_pct": "0.78",
         "min_sip": "1,000"
       },
       "fund_category_and_risk": {
@@ -1340,7 +1340,7 @@
           },
           {
             "Name": "Rank (Equity Sectoral)",
-            "3Y": "14",
+            "3Y": "15",
             "5Y": "12",
             "10Y": "1",
             "All": "--"
@@ -1363,7 +1363,7 @@
           },
           {
             "Name": "Rank (Equity Sectoral)",
-            "3Y": "14",
+            "3Y": "15",
             "5Y": "12",
             "10Y": "1",
             "All": "--"
@@ -1465,11 +1465,11 @@
         },
         {
           "question": "How much expense ratio is charged by Quant Infrastructure Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant Infrastructure Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Infrastructure Fund Direct Growth is 1.30% as of 25 Apr 2026..."
+          "answer": "The termExpense Ratioused for Quant Infrastructure Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Infrastructure Fund Direct Growth is 0.78% as of 26 Apr 2026..."
         },
         {
           "question": "What is the AUM of Quant Infrastructure Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant Infrastructure Fund Direct Growth is ₹2,489.26Cr as of 25 Apr 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant Infrastructure Fund Direct Growth is ₹2,489.26Cr as of 26 Apr 2026."
         },
         {
           "question": "How to Redeem Quant Infrastructure Fund Direct Growth?",
@@ -1488,7 +1488,7 @@
           "answer": "ThePE ratioratio of Quant Infrastructure Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-04-25T06:55:27+0000"
+      "scraped_at": "2026-04-26T07:14:34+0000"
     },
     {
       "fund_key": "quant-flexi-cap-fund",
@@ -1930,8 +1930,8 @@
         {
           "": "",
           "Name": "Parag Parikh Flexi Cap Fund Direct Growth",
-          "1Y": "+3.79%",
-          "3Y": "+18.51%",
+          "1Y": "+3.07%",
+          "3Y": "+18.10%",
           "Fund Size(Cr)": "1,28,966.48"
         },
         {
@@ -2033,11 +2033,11 @@
         },
         {
           "question": "How much expense ratio is charged by Quant Flexi Cap Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant Flexi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Flexi Cap Fund Direct Growth is 0.67% as of 25 Apr 2026..."
+          "answer": "The termExpense Ratioused for Quant Flexi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Flexi Cap Fund Direct Growth is 0.67% as of 26 Apr 2026..."
         },
         {
           "question": "What is the AUM of Quant Flexi Cap Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant Flexi Cap Fund Direct Growth is ₹5,687.36Cr as of 25 Apr 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant Flexi Cap Fund Direct Growth is ₹5,687.36Cr as of 26 Apr 2026."
         },
         {
           "question": "How to Redeem Quant Flexi Cap Fund Direct Growth?",
@@ -2056,7 +2056,7 @@
           "answer": "ThePE ratioratio of Quant Flexi Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-04-25T06:55:28+0000"
+      "scraped_at": "2026-04-26T07:14:34+0000"
     },
     {
       "fund_key": "quant-elss-tax-saver-fund",
@@ -2065,7 +2065,7 @@
       "basic_info": {
         "nav": "426.85",
         "nav_date": "24 Apr '26",
-        "expense_ratio_pct": "0.97",
+        "expense_ratio_pct": "0.72",
         "min_sip": "500"
       },
       "fund_category_and_risk": {
@@ -2541,11 +2541,11 @@
         },
         {
           "question": "How much expense ratio is charged by Quant ELSS Tax Saver Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant ELSS Tax Saver Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ELSS Tax Saver Fund Direct Growth is 0.97% as of 25 Apr 2026..."
+          "answer": "The termExpense Ratioused for Quant ELSS Tax Saver Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ELSS Tax Saver Fund Direct Growth is 0.72% as of 26 Apr 2026..."
         },
         {
           "question": "What is the AUM of Quant ELSS Tax Saver Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant ELSS Tax Saver Fund Direct Growth is ₹10,978.49Cr as of 25 Apr 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant ELSS Tax Saver Fund Direct Growth is ₹10,978.49Cr as of 26 Apr 2026."
         },
         {
           "question": "How to Redeem Quant ELSS Tax Saver Fund Direct Growth?",
@@ -2564,7 +2564,7 @@
           "answer": "ThePE ratioratio of Quant ELSS Tax Saver Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-04-25T06:55:28+0000"
+      "scraped_at": "2026-04-26T07:14:34+0000"
     },
     {
       "fund_key": "quant-large-cap-fund",
@@ -2573,7 +2573,7 @@
       "basic_info": {
         "nav": "15.69",
         "nav_date": "24 Apr '26",
-        "expense_ratio_pct": "0.93",
+        "expense_ratio_pct": "0.50",
         "min_sip": "1,000"
       },
       "fund_category_and_risk": {
@@ -2902,7 +2902,7 @@
             "Name": "Rank (Equity Large Cap)",
             "6M": "--",
             "1Y": "29",
-            "3Y": "20",
+            "3Y": "18",
             "All": "--"
           }
         ],
@@ -2925,7 +2925,7 @@
             "Name": "Rank (Equity Large Cap)",
             "6M": "--",
             "1Y": "29",
-            "3Y": "20",
+            "3Y": "18",
             "All": "--"
           }
         ]
@@ -3061,11 +3061,11 @@
         },
         {
           "question": "How much expense ratio is charged by Quant Large Cap Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Large Cap Fund Direct Growth is 0.93% as of 25 Apr 2026..."
+          "answer": "The termExpense Ratioused for Quant Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Large Cap Fund Direct Growth is 0.50% as of 26 Apr 2026..."
         },
         {
           "question": "What is the AUM of Quant Large Cap Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant Large Cap Fund Direct Growth is ₹2,697.61Cr as of 25 Apr 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant Large Cap Fund Direct Growth is ₹2,697.61Cr as of 26 Apr 2026."
         },
         {
           "question": "How to Redeem Quant Large Cap Fund Direct Growth?",
@@ -3084,7 +3084,7 @@
           "answer": "ThePE ratioratio of Quant Large Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-04-25T06:55:28+0000"
+      "scraped_at": "2026-04-26T07:14:34+0000"
     },
     {
       "fund_key": "quant-esg-integration-strategy-fund",
@@ -3093,7 +3093,7 @@
       "basic_info": {
         "nav": "36.01",
         "nav_date": "24 Apr '26",
-        "expense_ratio_pct": "2.57",
+        "expense_ratio_pct": "0.93",
         "min_sip": "1,000"
       },
       "fund_category_and_risk": {
@@ -3518,11 +3518,11 @@
         },
         {
           "question": "How much expense ratio is charged by Quant ESG Integration Strategy Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant ESG Integration Strategy Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ESG Integration Strategy Fund Direct Growth is 2.57% as of 25 Apr 2026..."
+          "answer": "The termExpense Ratioused for Quant ESG Integration Strategy Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ESG Integration Strategy Fund Direct Growth is 0.93% as of 26 Apr 2026..."
         },
         {
           "question": "What is the AUM of Quant ESG Integration Strategy Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant ESG Integration Strategy Fund Direct Growth is ₹225.60Cr as of 25 Apr 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant ESG Integration Strategy Fund Direct Growth is ₹225.60Cr as of 26 Apr 2026."
         },
         {
           "question": "How to Redeem Quant ESG Integration Strategy Fund Direct Growth?",
@@ -3541,7 +3541,7 @@
           "answer": "ThePE ratioratio of Quant ESG Integration Strategy Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-04-25T06:55:28+0000"
+      "scraped_at": "2026-04-26T07:14:35+0000"
     },
     {
       "fund_key": "quant-mid-cap-fund",
@@ -3550,7 +3550,7 @@
       "basic_info": {
         "nav": "238.15",
         "nav_date": "24 Apr '26",
-        "expense_ratio_pct": "1.42",
+        "expense_ratio_pct": "0.74",
         "min_sip": "1,000"
       },
       "fund_category_and_risk": {
@@ -4086,11 +4086,11 @@
         },
         {
           "question": "How much expense ratio is charged by Quant Mid Cap Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 1.42% as of 25 Apr 2026..."
+          "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 0.74% as of 26 Apr 2026..."
         },
         {
           "question": "What is the AUM of Quant Mid Cap Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹7,001.82Cr as of 25 Apr 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹7,001.82Cr as of 26 Apr 2026."
         },
         {
           "question": "How to Redeem Quant Mid Cap Fund Direct Growth?",
@@ -4109,7 +4109,7 @@
           "answer": "ThePE ratioratio of Quant Mid Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-04-25T06:55:28+0000"
+      "scraped_at": "2026-04-26T07:14:35+0000"
     },
     {
       "fund_key": "quant-multi-cap-fund",
@@ -4118,7 +4118,7 @@
       "basic_info": {
         "nav": "675.07",
         "nav_date": "24 Apr '26",
-        "expense_ratio_pct": "1.79",
+        "expense_ratio_pct": "0.68",
         "min_sip": "1,000"
       },
       "fund_category_and_risk": {
@@ -4836,11 +4836,11 @@
         },
         {
           "question": "How much expense ratio is charged by Quant Multi Cap Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant Multi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Multi Cap Fund Direct Growth is 1.79% as of 25 Apr 2026..."
+          "answer": "The termExpense Ratioused for Quant Multi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Multi Cap Fund Direct Growth is 0.68% as of 26 Apr 2026..."
         },
         {
           "question": "What is the AUM of Quant Multi Cap Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant Multi Cap Fund Direct Growth is ₹6,573.56Cr as of 25 Apr 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant Multi Cap Fund Direct Growth is ₹6,573.56Cr as of 26 Apr 2026."
         },
         {
           "question": "How to Redeem Quant Multi Cap Fund Direct Growth?",
@@ -4859,7 +4859,7 @@
           "answer": "ThePE ratioratio of Quant Multi Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-04-25T06:55:28+0000"
+      "scraped_at": "2026-04-26T07:14:35+0000"
     },
     {
       "fund_key": "quant-aggressive-hybrid-fund",
@@ -4868,7 +4868,7 @@
       "basic_info": {
         "nav": "483.71",
         "nav_date": "24 Apr '26",
-        "expense_ratio_pct": "1.99",
+        "expense_ratio_pct": "0.75",
         "min_sip": "1,000"
       },
       "fund_category_and_risk": {
@@ -5191,7 +5191,7 @@
           },
           {
             "Name": "Rank (Hybrid Aggressive Hybrid)",
-            "3Y": "12",
+            "3Y": "11",
             "5Y": "6",
             "10Y": "1",
             "All": "--"
@@ -5214,7 +5214,7 @@
           },
           {
             "Name": "Rank (Hybrid Aggressive Hybrid)",
-            "3Y": "12",
+            "3Y": "11",
             "5Y": "6",
             "10Y": "1",
             "All": "--"
@@ -5352,11 +5352,11 @@
         },
         {
           "question": "How much expense ratio is charged by Quant Aggressive Hybrid Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 1.99% as of 25 Apr 2026..."
+          "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 0.75% as of 26 Apr 2026..."
         },
         {
           "question": "What is the AUM of Quant Aggressive Hybrid Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹1,808.88Cr as of 25 Apr 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹1,808.88Cr as of 26 Apr 2026."
         },
         {
           "question": "How to Redeem Quant Aggressive Hybrid Fund Direct Growth?",
@@ -5375,7 +5375,7 @@
           "answer": "ThePE ratioratio of Quant Aggressive Hybrid Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-04-25T06:55:28+0000"
+      "scraped_at": "2026-04-26T07:14:35+0000"
     },
     {
       "fund_key": "quant-focused-fund",
@@ -5384,7 +5384,7 @@
       "basic_info": {
         "nav": "93.42",
         "nav_date": "24 Apr '26",
-        "expense_ratio_pct": "1.77",
+        "expense_ratio_pct": "0.86",
         "min_sip": "1,000"
       },
       "fund_category_and_risk": {
@@ -5668,7 +5668,7 @@
           {
             "Name": "Rank (Equity Large Cap)",
             "3Y": "30",
-            "5Y": "18",
+            "5Y": "17",
             "10Y": "--",
             "All": "--"
           }
@@ -5691,7 +5691,7 @@
           {
             "Name": "Rank (Equity Large Cap)",
             "3Y": "30",
-            "5Y": "18",
+            "5Y": "17",
             "10Y": "--",
             "All": "--"
           }
@@ -5828,11 +5828,11 @@
         },
         {
           "question": "How much expense ratio is charged by Quant Focused Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant Focused Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Focused Fund Direct Growth is 1.77% as of 25 Apr 2026..."
+          "answer": "The termExpense Ratioused for Quant Focused Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Focused Fund Direct Growth is 0.86% as of 26 Apr 2026..."
         },
         {
           "question": "What is the AUM of Quant Focused Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant Focused Fund Direct Growth is ₹702.68Cr as of 25 Apr 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant Focused Fund Direct Growth is ₹702.68Cr as of 26 Apr 2026."
         },
         {
           "question": "How to Redeem Quant Focused Fund Direct Growth?",
@@ -5851,7 +5851,7 @@
           "answer": "ThePE ratioratio of Quant Focused Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-04-25T06:55:28+0000"
+      "scraped_at": "2026-04-26T07:14:35+0000"
     }
   ]
 }
