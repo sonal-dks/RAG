@@ -3,9 +3,9 @@
   "fund_name": "Quant Small Cap Fund Direct Plan Growth",
   "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
   "basic_info": {
-    "nav": "280.36",
-    "nav_date": "29 Apr '26",
-    "expense_ratio_pct": "0.86",
+    "nav": "280.48",
+    "nav_date": "30 Apr '26",
+    "expense_ratio_pct": "1.13",
     "min_sip": "1,000"
   },
   "fund_category_and_risk": {
@@ -14,12 +14,12 @@
     "risk_level": "Very High Risk"
   },
   "performance_returns": {
-    "1D": "+0.57%",
-    "1M": "+14.35%",
-    "6M": "-2.18%",
-    "1Y": "+8.05%",
-    "3Y": "+21.28%",
-    "5Y": "+23.23%",
+    "1D": "+0.04%",
+    "1M": "+16.90%",
+    "6M": "-1.28%",
+    "1Y": "+9.37%",
+    "3Y": "+21.27%",
+    "5Y": "+23.31%",
     "10Y": "+19.85%",
     "All": "+17.14%"
   },
@@ -29,36 +29,36 @@
       {
         "Over the past": "1 year",
         "Total investment": "₹12,000",
-        "Would've become": "₹12,439",
-        "Returns": "+3.66%"
+        "Would've become": "₹12,441",
+        "Returns": "+3.67%"
       },
       {
         "Over the past": "3 years",
         "Total investment": "₹36,000",
-        "Would've become": "₹41,203",
-        "Returns": "+14.45%"
+        "Would've become": "₹41,210",
+        "Returns": "+14.47%"
       },
       {
         "Over the past": "5 years",
         "Total investment": "₹60,000",
-        "Would've become": "₹90,749",
+        "Would've become": "₹90,748",
         "Returns": "+51.25%"
       },
       {
         "Over the past": "10 years",
         "Total investment": "₹1,20,000",
-        "Would've become": "₹4,27,530",
-        "Returns": "+256.27%"
+        "Would've become": "₹4,27,458",
+        "Returns": "+256.21%"
       }
     ],
     "sip_return_rates": [
       {
         "period": "1 year",
-        "return_pct": 3.66
+        "return_pct": 3.67
       },
       {
         "period": "3 years",
-        "return_pct": 14.45
+        "return_pct": 14.47
       },
       {
         "period": "5 years",
@@ -66,7 +66,7 @@
       },
       {
         "period": "10 years",
-        "return_pct": 256.27
+        "return_pct": 256.21
       }
     ]
   },
@@ -811,7 +811,7 @@
       {
         "Name": "Fund returns",
         "3Y": "+21.3%",
-        "5Y": "+23.2%",
+        "5Y": "+23.3%",
         "10Y": "+19.9%",
         "All": "+17.1%"
       },
@@ -824,7 +824,7 @@
       },
       {
         "Name": "Rank (Equity Small Cap)",
-        "3Y": "17",
+        "3Y": "16",
         "5Y": "4",
         "10Y": "--",
         "All": "--"
@@ -847,7 +847,7 @@
       },
       {
         "Name": "Rank (Equity Small Cap)",
-        "3Y": "17",
+        "3Y": "16",
         "5Y": "4",
         "10Y": "--",
         "All": "--"
@@ -857,7 +857,43 @@
   "exit_load": "Exit load of 1% if redeemed within 1 year",
   "stamp_duty": "Stamp duty on investment: 0.005%",
   "tax_implication": null,
-  "similar_funds": [],
+  "similar_funds": [
+    {
+      "": "",
+      "Name": "Bandhan Small Cap Fund Direct Growth",
+      "1Y": "+15.13%",
+      "3Y": "+32.17%",
+      "Fund Size(Cr)": "20,129.67"
+    },
+    {
+      "": "",
+      "Name": "Invesco India Smallcap Fund Direct Growth",
+      "1Y": "+12.62%",
+      "3Y": "+25.82%",
+      "Fund Size(Cr)": "9,207.58"
+    },
+    {
+      "": "",
+      "Name": "Nippon India Small Cap Fund Direct Growth",
+      "1Y": "+11.19%",
+      "3Y": "+22.04%",
+      "Fund Size(Cr)": "61,808.85"
+    },
+    {
+      "": "",
+      "Name": "Quant Small Cap Fund Direct Plan Growth",
+      "1Y": "+9.37%",
+      "3Y": "+21.27%",
+      "Fund Size(Cr)": "25,820.99"
+    },
+    {
+      "": "",
+      "Name": "Axis Small Cap Fund Direct Growth",
+      "1Y": "+9.57%",
+      "3Y": "+19.09%",
+      "Fund Size(Cr)": "23,918.65"
+    }
+  ],
   "fund_managers": [
     {
       "name": "Varun Pattani",
@@ -903,7 +939,7 @@
     }
   ],
   "about_fund": {
-    "description": "Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Managemen Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹81,675 Cr and the Latest NAV as of 29 Apr 2026 is ₹280.36. The Quant Small Cap Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 1 year ...Read more",
+    "description": "Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Managemen Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹81,675 Cr and the Latest NAV as of 30 Apr 2026 is ₹280.48. The Quant Small Cap Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 1 year ...Read more",
     "investment_objective": "The scheme seeks to generate capital appreciation by investing in a well-diversified portfolio of small cap companies.",
     "benchmark": "NIFTY Smallcap 250 Total Return Index"
   },
@@ -939,15 +975,15 @@
     },
     {
       "question": "What kind of returns does Quant Small Cap Fund Direct Plan Growth provide?",
-      "answer": "The Quant Small Cap Fund Direct Plan Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 8.05% since its inception."
+      "answer": "The Quant Small Cap Fund Direct Plan Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 9.37% since its inception."
     },
     {
       "question": "How much expense ratio is charged by Quant Small Cap Fund Direct Plan Growth?",
-      "answer": "The termExpense Ratioused for Quant Small Cap Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Small Cap Fund Direct Plan Growth is 0.86% as of 30 Apr 2026..."
+      "answer": "The termExpense Ratioused for Quant Small Cap Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Small Cap Fund Direct Plan Growth is 1.13% as of 01 May 2026..."
     },
     {
       "question": "What is the AUM of Quant Small Cap Fund Direct Plan Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Small Cap Fund Direct Plan Growth is ₹25,820.99Cr as of 30 Apr 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Small Cap Fund Direct Plan Growth is ₹25,820.99Cr as of 01 May 2026."
     },
     {
       "question": "How to Redeem Quant Small Cap Fund Direct Plan Growth?",
@@ -959,12 +995,12 @@
     },
     {
       "question": "What is the NAV of Quant Small Cap Fund Direct Plan Growth?",
-      "answer": "The NAV of Quant Small Cap Fund Direct Plan Growth is ₹280.36 as of 29 Apr 2026."
+      "answer": "The NAV of Quant Small Cap Fund Direct Plan Growth is ₹280.48 as of 30 Apr 2026."
     },
     {
       "question": "What is the PE and PB ratio of Quant Small Cap Fund Direct Plan Growth?",
       "answer": "ThePE ratioratio of Quant Small Cap Fund Direct Plan Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-04-30T07:46:38+0000"
+  "scraped_at": "2026-05-01T07:46:04+0000"
 }
