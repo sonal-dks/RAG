@@ -375,10 +375,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+81.55%",
-        "5Y": "+188.33%",
-        "10Y": "+566.64%",
-        "All": "+717.01%"
+        "3Y": "+79.53%",
+        "5Y": "+184.82%",
+        "10Y": "+587.55%",
+        "All": "+729.09%"
       },
       {
         "Name": "Category average (Equity Sectoral)",
@@ -470,10 +470,10 @@
     "top_20": "87%",
     "pe_ratio": 19.73,
     "pb_ratio": 2.46,
-    "alpha": -5.73,
-    "beta": 0.78,
-    "sharpe": 0.48,
-    "sortino": 0.69
+    "alpha": -4.0,
+    "beta": 0.87,
+    "sharpe": 0.67,
+    "sortino": 1.13
   },
   "other_plans_in_same_fund": [
     {
@@ -491,11 +491,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Infrastructure Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Infrastructure Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Infrastructure Fund Direct Growth is 0.78% as of 02 May 2026..."
+      "answer": "The termExpense Ratioused for Quant Infrastructure Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Infrastructure Fund Direct Growth is 0.78% as of 03 May 2026..."
     },
     {
       "question": "What is the AUM of Quant Infrastructure Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Infrastructure Fund Direct Growth is ₹2,489.26Cr as of 02 May 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Infrastructure Fund Direct Growth is ₹2,489.26Cr as of 03 May 2026."
     },
     {
       "question": "How to Redeem Quant Infrastructure Fund Direct Growth?",
@@ -514,5 +514,5 @@
       "answer": "ThePE ratioratio of Quant Infrastructure Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-05-02T07:16:41+0000"
+  "scraped_at": "2026-05-03T07:33:54+0000"
 }

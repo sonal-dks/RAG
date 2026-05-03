@@ -833,10 +833,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+78.27%",
-        "5Y": "+192.04%",
-        "10Y": "+497.21%",
-        "All": "+700.68%"
+        "3Y": "+78.64%",
+        "5Y": "+185.28%",
+        "10Y": "+512.36%",
+        "All": "+722.29%"
       },
       {
         "Name": "Category average (Equity Small Cap)",
@@ -857,7 +857,43 @@
   "exit_load": "Exit load of 1% if redeemed within 1 year",
   "stamp_duty": "Stamp duty on investment: 0.005%",
   "tax_implication": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
-  "similar_funds": [],
+  "similar_funds": [
+    {
+      "": "",
+      "Name": "Bandhan Small Cap Fund Direct Growth",
+      "1Y": "+15.13%",
+      "3Y": "+32.17%",
+      "Fund Size(Cr)": "20,129.67"
+    },
+    {
+      "": "",
+      "Name": "Invesco India Smallcap Fund Direct Growth",
+      "1Y": "+12.62%",
+      "3Y": "+25.82%",
+      "Fund Size(Cr)": "9,207.58"
+    },
+    {
+      "": "",
+      "Name": "Nippon India Small Cap Fund Direct Growth",
+      "1Y": "+11.19%",
+      "3Y": "+22.04%",
+      "Fund Size(Cr)": "61,808.85"
+    },
+    {
+      "": "",
+      "Name": "Sundaram Small Cap Fund Direct Growth",
+      "1Y": "+17.01%",
+      "3Y": "+21.81%",
+      "Fund Size(Cr)": "2,982.57"
+    },
+    {
+      "": "",
+      "Name": "Quant Small Cap Fund Direct Plan Growth",
+      "1Y": "+9.37%",
+      "3Y": "+21.27%",
+      "Fund Size(Cr)": "25,820.99"
+    }
+  ],
   "fund_managers": [
     {
       "name": "Varun Pattani",
@@ -922,10 +958,10 @@
     "top_20": "56%",
     "pe_ratio": 25.38,
     "pb_ratio": 2.27,
-    "alpha": 2.32,
-    "beta": 0.88,
-    "sharpe": 0.65,
-    "sortino": 1.01
+    "alpha": 2.29,
+    "beta": 0.89,
+    "sharpe": 0.76,
+    "sortino": 1.29
   },
   "other_plans_in_same_fund": [
     {
@@ -943,11 +979,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Small Cap Fund Direct Plan Growth?",
-      "answer": "The termExpense Ratioused for Quant Small Cap Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Small Cap Fund Direct Plan Growth is 0.70% as of 02 May 2026..."
+      "answer": "The termExpense Ratioused for Quant Small Cap Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Small Cap Fund Direct Plan Growth is 0.70% as of 03 May 2026..."
     },
     {
       "question": "What is the AUM of Quant Small Cap Fund Direct Plan Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Small Cap Fund Direct Plan Growth is ₹25,820.99Cr as of 02 May 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Small Cap Fund Direct Plan Growth is ₹25,820.99Cr as of 03 May 2026."
     },
     {
       "question": "How to Redeem Quant Small Cap Fund Direct Plan Growth?",
@@ -966,5 +1002,5 @@
       "answer": "ThePE ratioratio of Quant Small Cap Fund Direct Plan Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-05-02T07:16:41+0000"
+  "scraped_at": "2026-05-03T07:33:54+0000"
 }
