@@ -3,9 +3,9 @@
   "fund_name": "Quant Large Cap Fund Direct Growth",
   "source_url": "https://groww.in/mutual-funds/quant-large-cap-fund-direct-growth",
   "basic_info": {
-    "nav": "16.16",
-    "nav_date": "07 May '26",
-    "expense_ratio_pct": "1.17",
+    "nav": "15.98",
+    "nav_date": "08 May '26",
+    "expense_ratio_pct": "0.50",
     "min_sip": "1,000"
   },
   "fund_category_and_risk": {
@@ -14,12 +14,12 @@
     "risk_level": "Very High Risk"
   },
   "performance_returns": {
-    "1D": "+0.16%",
-    "1M": "+13.05%",
-    "6M": "+0.66%",
-    "1Y": "+10.95%",
-    "3Y": "+18.19%",
-    "All": "+13.69%"
+    "1D": "-1.12%",
+    "1M": "+6.24%",
+    "6M": "-0.47%",
+    "1Y": "+11.06%",
+    "3Y": "+17.39%",
+    "All": "+13.34%"
   },
   "return_calculator": {
     "monthly_investment_used": "1000",
@@ -27,44 +27,44 @@
       {
         "Over the past": "3 months",
         "Total investment": "₹3,000",
-        "Would've become": "₹3,179",
-        "Returns": "+5.97%"
+        "Would've become": "₹3,144",
+        "Returns": "+4.80%"
       },
       {
         "Over the past": "6 months",
         "Total investment": "₹6,000",
-        "Would've become": "₹6,253",
-        "Returns": "+4.22%"
+        "Would've become": "₹6,184",
+        "Returns": "+3.07%"
       },
       {
         "Over the past": "1 year",
         "Total investment": "₹12,000",
-        "Would've become": "₹12,454",
-        "Returns": "+3.78%"
+        "Would've become": "₹12,316",
+        "Returns": "+2.63%"
       },
       {
         "Over the past": "3 years",
         "Total investment": "₹36,000",
-        "Would've become": "₹40,930",
-        "Returns": "+13.69%"
+        "Would've become": "₹40,467",
+        "Returns": "+12.41%"
       }
     ],
     "sip_return_rates": [
       {
         "period": "3 months",
-        "return_pct": 5.97
+        "return_pct": 4.8
       },
       {
         "period": "6 months",
-        "return_pct": 4.22
+        "return_pct": 3.07
       },
       {
         "period": "1 year",
-        "return_pct": 3.78
+        "return_pct": 2.63
       },
       {
         "period": "3 years",
-        "return_pct": 13.69
+        "return_pct": 12.41
       }
     ]
   },
@@ -270,42 +270,30 @@
   ],
   "holding_analysis": {
     "equity_debt_cash_split": {
-      "equity_pct": 96.01,
-      "debt_pct": 7.25,
-      "cash_pct": -3.27
+      "equity_pct": 92.9,
+      "debt_pct": 5.85,
+      "cash_pct": 1.25
     },
     "sector_allocation": [
       {
         "sector": "Financial",
-        "percentage": 51.0
+        "percentage": 42.78
       },
       {
         "sector": "Energy & Utilities",
-        "percentage": 16.25
+        "percentage": 24.23
       },
       {
         "sector": "Consumer Discretionary",
-        "percentage": 11.8
-      },
-      {
-        "sector": "Materials",
-        "percentage": 7.31
-      },
-      {
-        "sector": "Healthcare",
-        "percentage": 5.49
-      },
-      {
-        "sector": "Industrials",
-        "percentage": 3.11
+        "percentage": 14.36
       },
       {
         "sector": "Technology",
-        "percentage": 3.1
+        "percentage": 9.67
       },
       {
-        "sector": "Consumer Staples",
-        "percentage": 1.95
+        "sector": "Materials",
+        "percentage": 8.96
       }
     ]
   },
@@ -318,10 +306,10 @@
     "annualised_returns": [
       {
         "Name": "Fund returns",
-        "6M": "+0.7%",
-        "1Y": "+10.9%",
-        "3Y": "+18.2%",
-        "All": "+13.7%"
+        "6M": "-0.5%",
+        "1Y": "+11.1%",
+        "3Y": "+17.4%",
+        "All": "+13.3%"
       },
       {
         "Name": "Category average (Equity Large Cap)",
@@ -369,36 +357,36 @@
     {
       "": "",
       "Name": "Invesco India Largecap Fund Direct Growth",
-      "1Y": "+5.55%",
-      "3Y": "+17.96%",
+      "1Y": "+6.37%",
+      "3Y": "+17.52%",
       "Fund Size(Cr)": "1,536.88"
     },
     {
       "": "",
       "Name": "Nippon India Large Cap Fund Direct Growth",
-      "1Y": "+5.49%",
-      "3Y": "+17.58%",
+      "1Y": "+5.62%",
+      "3Y": "+16.80%",
       "Fund Size(Cr)": "46,520.53"
     },
     {
       "": "",
       "Name": "WhiteOak Capital Large Cap Fund Direct Growth",
-      "1Y": "+4.44%",
-      "3Y": "+17.22%",
+      "1Y": "+5.13%",
+      "3Y": "+16.80%",
       "Fund Size(Cr)": "1,045.06"
     },
     {
       "": "",
       "Name": "DSP Large Cap Fund Direct Growth",
-      "1Y": "-0.07%",
-      "3Y": "+16.60%",
+      "1Y": "-0.04%",
+      "3Y": "+15.89%",
       "Fund Size(Cr)": "6,619.60"
     },
     {
       "": "",
       "Name": "ICICI Prudential Large Cap Fund Direct Growth",
-      "1Y": "+2.31%",
-      "3Y": "+16.41%",
+      "1Y": "+2.61%",
+      "3Y": "+15.89%",
       "Fund Size(Cr)": "69,947.55"
     }
   ],
@@ -453,7 +441,7 @@
     }
   ],
   "about_fund": {
-    "description": "Quant Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Quant Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹81,675 Cr and the Latest NAV as of 07 May 2026 is ₹16.16. The Quant Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
+    "description": "Quant Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Quant Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹81,675 Cr and the Latest NAV as of 08 May 2026 is ₹15.98. The Quant Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
     "investment_objective": "The scheme seeks to generate consistent returns by investing in equity and equity related instruments falling under the category of large cap companies. The AMC will have the discretion to completely or partially invest in any of the type of securities stated above with a view to maximize the return The scheme seeks to generate consistent returns by investing in equity and equity related instruments falling under the category of large cap companies. The AMC will have the discretion to completely or partially invest in any of the type of securities stated above with a view to maximize the returns or on defensive considerations ...Read more",
     "benchmark": "NIFTY 100 Total Return Index"
   },
@@ -470,8 +458,8 @@
   "advanced_ratios": {
     "top_5": "35%",
     "top_20": "91%",
-    "pe_ratio": 23.25,
-    "pb_ratio": 3.06,
+    "pe_ratio": 29.28,
+    "pb_ratio": 3.5,
     "alpha": 1.11,
     "beta": 1.1,
     "sharpe": 0.71,
@@ -489,15 +477,15 @@
     },
     {
       "question": "What kind of returns does Quant Large Cap Fund Direct Growth provide?",
-      "answer": "The Quant Large Cap Fund Direct Growth has been there from 11 Aug 2022 and the average annual returns provided by this fund is 10.95% since its inception."
+      "answer": "The Quant Large Cap Fund Direct Growth has been there from 11 Aug 2022 and the average annual returns provided by this fund is 11.06% since its inception."
     },
     {
       "question": "How much expense ratio is charged by Quant Large Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Large Cap Fund Direct Growth is 1.17% as of 08 May 2026..."
+      "answer": "The termExpense Ratioused for Quant Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Large Cap Fund Direct Growth is 0.50% as of 09 May 2026..."
     },
     {
       "question": "What is the AUM of Quant Large Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Large Cap Fund Direct Growth is ₹2,697.61Cr as of 08 May 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Large Cap Fund Direct Growth is ₹3,112.33Cr as of 09 May 2026."
     },
     {
       "question": "How to Redeem Quant Large Cap Fund Direct Growth?",
@@ -509,12 +497,12 @@
     },
     {
       "question": "What is the NAV of Quant Large Cap Fund Direct Growth?",
-      "answer": "The NAV of Quant Large Cap Fund Direct Growth is ₹16.16 as of 07 May 2026."
+      "answer": "The NAV of Quant Large Cap Fund Direct Growth is ₹15.98 as of 08 May 2026."
     },
     {
       "question": "What is the PE and PB ratio of Quant Large Cap Fund Direct Growth?",
       "answer": "ThePE ratioratio of Quant Large Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-05-08T07:11:44+0000"
+  "scraped_at": "2026-05-09T07:30:06+0000"
 }

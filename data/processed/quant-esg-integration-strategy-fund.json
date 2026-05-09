@@ -3,9 +3,9 @@
   "fund_name": "Quant ESG Integration Strategy Fund Direct Growth",
   "source_url": "https://groww.in/mutual-funds/quant-esg-integration-strategy-fund-direct-growth",
   "basic_info": {
-    "nav": "38.96",
-    "nav_date": "07 May '26",
-    "expense_ratio_pct": "2.76",
+    "nav": "38.77",
+    "nav_date": "08 May '26",
+    "expense_ratio_pct": "0.93",
     "min_sip": "1,000"
   },
   "fund_category_and_risk": {
@@ -14,13 +14,13 @@
     "risk_level": "Very High Risk"
   },
   "performance_returns": {
-    "1D": "+0.66%",
-    "1M": "+21.22%",
-    "6M": "+9.40%",
-    "1Y": "+17.05%",
-    "3Y": "+20.72%",
-    "5Y": "+21.42%",
-    "All": "+28.03%"
+    "1D": "-0.49%",
+    "1M": "+15.03%",
+    "6M": "+8.87%",
+    "1Y": "+18.13%",
+    "3Y": "+20.06%",
+    "5Y": "+21.28%",
+    "All": "+27.90%"
   },
   "return_calculator": {
     "monthly_investment_used": "1000",
@@ -28,44 +28,44 @@
       {
         "Over the past": "6 months",
         "Total investment": "₹6,000",
-        "Would've become": "₹6,629",
-        "Returns": "+10.48%"
+        "Would've become": "₹6,591",
+        "Returns": "+9.85%"
       },
       {
         "Over the past": "1 year",
         "Total investment": "₹12,000",
-        "Would've become": "₹13,284",
-        "Returns": "+10.70%"
+        "Would've become": "₹13,214",
+        "Returns": "+10.12%"
       },
       {
         "Over the past": "3 years",
         "Total investment": "₹36,000",
-        "Would've become": "₹43,361",
-        "Returns": "+20.45%"
+        "Would've become": "₹43,137",
+        "Returns": "+19.82%"
       },
       {
         "Over the past": "5 years",
         "Total investment": "₹60,000",
-        "Would've become": "₹90,597",
-        "Returns": "+51.00%"
+        "Would've become": "₹90,119",
+        "Returns": "+50.20%"
       }
     ],
     "sip_return_rates": [
       {
         "period": "6 months",
-        "return_pct": 10.48
+        "return_pct": 9.85
       },
       {
         "period": "1 year",
-        "return_pct": 10.7
+        "return_pct": 10.12
       },
       {
         "period": "3 years",
-        "return_pct": 20.45
+        "return_pct": 19.82
       },
       {
         "period": "5 years",
-        "return_pct": 51.0
+        "return_pct": 50.2
       }
     ]
   },
@@ -253,38 +253,38 @@
   ],
   "holding_analysis": {
     "equity_debt_cash_split": {
-      "equity_pct": 98.83,
-      "debt_pct": 7.04,
-      "cash_pct": -5.87
+      "equity_pct": 93.35,
+      "debt_pct": 6.02,
+      "cash_pct": -5.12
     },
     "sector_allocation": [
       {
         "sector": "Financial",
-        "percentage": 41.46
-      },
-      {
-        "sector": "Consumer Staples",
-        "percentage": 16.57
+        "percentage": 54.3
       },
       {
         "sector": "Energy & Utilities",
-        "percentage": 16.43
+        "percentage": 15.01
       },
       {
-        "sector": "Healthcare",
-        "percentage": 11.84
+        "sector": "Technology",
+        "percentage": 12.06
       },
       {
         "sector": "Materials",
-        "percentage": 9.03
+        "percentage": 10.05
       },
       {
         "sector": "Industrials",
-        "percentage": 4.6
+        "percentage": 5.57
+      },
+      {
+        "sector": "Healthcare",
+        "percentage": 1.93
       },
       {
         "sector": "Consumer Discretionary",
-        "percentage": 0.07
+        "percentage": 1.08
       }
     ]
   },
@@ -297,10 +297,10 @@
     "annualised_returns": [
       {
         "Name": "Fund returns",
-        "1Y": "+17.1%",
-        "3Y": "+20.7%",
-        "5Y": "+21.4%",
-        "All": "+28.0%"
+        "1Y": "+18.1%",
+        "3Y": "+20.1%",
+        "5Y": "+21.3%",
+        "All": "+27.9%"
       },
       {
         "Name": "Category average (Equity Thematic)",
@@ -390,7 +390,7 @@
     }
   ],
   "about_fund": {
-    "description": "Quant ESG Integration Strategy Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sameer Kate is the Current Fund Manager of Quant ESG Integration Strategy Fund Direct Growth fund. The fund currently has an Ass Quant ESG Integration Strategy Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sameer Kate is the Current Fund Manager of Quant ESG Integration Strategy Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹81,675 Cr and the Latest NAV as of 07 May 2026 is ₹38.96. The Quant ESG Integration Strategy Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
+    "description": "Quant ESG Integration Strategy Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sameer Kate is the Current Fund Manager of Quant ESG Integration Strategy Fund Direct Growth fund. The fund currently has an Ass Quant ESG Integration Strategy Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sameer Kate is the Current Fund Manager of Quant ESG Integration Strategy Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹81,675 Cr and the Latest NAV as of 08 May 2026 is ₹38.77. The Quant ESG Integration Strategy Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
     "investment_objective": "The scheme seeks to generate long term capital appreciation by investing in a diversified portfolio of companies demonstrating sustainable practices across Environmental, Social and Governance (ESG) parameters.",
     "benchmark": "NIFTY 100 ESG Total Return Index"
   },
@@ -407,8 +407,8 @@
   "advanced_ratios": {
     "top_5": "41%",
     "top_20": "98%",
-    "pe_ratio": 32.22,
-    "pb_ratio": 3.21,
+    "pe_ratio": 36.01,
+    "pb_ratio": 3.57,
     "alpha": 4.04,
     "beta": 1.23,
     "sharpe": 0.64,
@@ -426,15 +426,15 @@
     },
     {
       "question": "What kind of returns does Quant ESG Integration Strategy Fund Direct Growth provide?",
-      "answer": "The Quant ESG Integration Strategy Fund Direct Growth has been there from 05 Nov 2020 and the average annual returns provided by this fund is 17.05% since its inception."
+      "answer": "The Quant ESG Integration Strategy Fund Direct Growth has been there from 05 Nov 2020 and the average annual returns provided by this fund is 18.13% since its inception."
     },
     {
       "question": "How much expense ratio is charged by Quant ESG Integration Strategy Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant ESG Integration Strategy Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ESG Integration Strategy Fund Direct Growth is 2.76% as of 08 May 2026..."
+      "answer": "The termExpense Ratioused for Quant ESG Integration Strategy Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ESG Integration Strategy Fund Direct Growth is 0.93% as of 09 May 2026..."
     },
     {
       "question": "What is the AUM of Quant ESG Integration Strategy Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant ESG Integration Strategy Fund Direct Growth is ₹225.60Cr as of 08 May 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant ESG Integration Strategy Fund Direct Growth is ₹264.40Cr as of 09 May 2026."
     },
     {
       "question": "How to Redeem Quant ESG Integration Strategy Fund Direct Growth?",
@@ -446,12 +446,12 @@
     },
     {
       "question": "What is the NAV of Quant ESG Integration Strategy Fund Direct Growth?",
-      "answer": "The NAV of Quant ESG Integration Strategy Fund Direct Growth is ₹38.96 as of 07 May 2026."
+      "answer": "The NAV of Quant ESG Integration Strategy Fund Direct Growth is ₹38.77 as of 08 May 2026."
     },
     {
       "question": "What is the PE and PB ratio of Quant ESG Integration Strategy Fund Direct Growth?",
       "answer": "ThePE ratioratio of Quant ESG Integration Strategy Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-05-08T07:11:45+0000"
+  "scraped_at": "2026-05-09T07:30:06+0000"
 }
