@@ -70,202 +70,172 @@
   },
   "holdings": [
     {
-      "Name": "HDFC Bank Ltd.",
+      "Name": "ICICI Bank Ltd.",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "8.56%"
-    },
-    {
-      "Name": "Adani Enterprises Ltd.",
-      "Sector": "Services",
-      "Instruments": "Equity",
-      "Assets": "7.01%"
-    },
-    {
-      "Name": "HDFC Life Insurance Co Ltd.",
-      "Sector": "Insurance",
-      "Instruments": "Futures",
-      "Assets": "6.65%"
+      "Assets": "8.83%"
     },
     {
       "Name": "Samvardhana Motherson International Ltd.",
       "Sector": "Automobile",
       "Instruments": "Equity",
-      "Assets": "6.62%"
-    },
-    {
-      "Name": "Capri Global Capital Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "6.40%"
-    },
-    {
-      "Name": "Reliance Industries Ltd.",
-      "Sector": "Energy",
-      "Instruments": "Equity",
-      "Assets": "6.04%"
-    },
-    {
-      "Name": "HDFC Asset Management Company Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "5.47%"
+      "Assets": "8.73%"
     },
     {
       "Name": "Adani Green Energy Ltd.",
       "Sector": "Capital Goods",
       "Instruments": "Equity",
-      "Assets": "5.31%"
+      "Assets": "8.61%"
     },
     {
-      "Name": "Aurobindo Pharma Ltd.",
-      "Sector": "Healthcare",
-      "Instruments": "Futures",
-      "Assets": "5.27%"
-    },
-    {
-      "Name": "Bajaj Auto Ltd.",
-      "Sector": "Automobile",
+      "Name": "Adani Enterprises Ltd.",
+      "Sector": "Services",
       "Instruments": "Equity",
-      "Assets": "4.71%"
+      "Assets": "8.33%"
     },
     {
-      "Name": "ICICI Bank Ltd.",
-      "Sector": "Financial",
+      "Name": "Reliance Industries Ltd.",
+      "Sector": "Energy",
       "Instruments": "Equity",
-      "Assets": "4.55%"
+      "Assets": "7.62%"
     },
     {
       "Name": "ICICI Prudential Asset Management Company Ltd.",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "4.06%"
+      "Assets": "7.20%"
     },
     {
-      "Name": "Kotak Mahindra Bank Ltd.",
+      "Name": "Capri Global Capital Ltd.",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "3.28%"
+      "Assets": "6.21%"
     },
     {
-      "Name": "Bharat Electronics Ltd.",
-      "Sector": "Capital Goods",
+      "Name": "HDFC Life Insurance Co Ltd.",
+      "Sector": "Insurance",
       "Instruments": "Futures",
-      "Assets": "2.99%"
+      "Assets": "5.73%"
     },
     {
-      "Name": "Bharti Airtel Ltd.",
-      "Sector": "Communication",
+      "Name": "LG Electronics India Ltd.",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
-      "Assets": "2.97%"
-    },
-    {
-      "Name": "Shriram Finance Ltd",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "2.86%"
-    },
-    {
-      "Name": "Kotak Mahindra Bank Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "2.50%"
+      "Assets": "4.61%"
     },
     {
       "Name": "Adani Energy Solutions Ltd.",
       "Sector": "Energy",
       "Instruments": "Equity",
-      "Assets": "2.20%"
+      "Assets": "4.37%"
+    },
+    {
+      "Name": "State Bank of India",
+      "Sector": "Financial",
+      "Instruments": "Futures",
+      "Assets": "3.76%"
+    },
+    {
+      "Name": "Kotak Mahindra Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "3.08%"
+    },
+    {
+      "Name": "Tech Mahindra Ltd.",
+      "Sector": "Technology",
+      "Instruments": "Futures",
+      "Assets": "3.03%"
+    },
+    {
+      "Name": "Bharti Airtel Ltd.",
+      "Sector": "Communication",
+      "Instruments": "Equity",
+      "Assets": "2.99%"
+    },
+    {
+      "Name": "Bharti Airtel Ltd.",
+      "Sector": "Communication",
+      "Instruments": "Futures",
+      "Assets": "2.96%"
+    },
+    {
+      "Name": "Kotak Mahindra Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Futures",
+      "Assets": "2.36%"
     },
     {
       "Name": "Reliance Industries Ltd.",
       "Sector": "Energy",
       "Instruments": "Futures",
-      "Assets": "2.07%"
+      "Assets": "1.90%"
     },
     {
-      "Name": "Bajaj Finance Ltd.",
+      "Name": "State Bank of India",
       "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "1.89%"
-    },
-    {
-      "Name": "Hindustan Unilever Ltd.",
-      "Sector": "Consumer Staples",
-      "Instruments": "Futures",
-      "Assets": "1.87%"
+      "Instruments": "Equity",
+      "Assets": "1.38%"
     },
     {
       "Name": "HDFC Life Insurance Co Ltd.",
       "Sector": "Insurance",
       "Instruments": "Equity",
-      "Assets": "1.38%"
-    },
-    {
-      "Name": "Shriram Finance Ltd",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "1.37%"
+      "Assets": "1.19%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "1.21%"
+      "Assets": "1.06%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.92%"
+      "Assets": "0.80%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.92%"
+      "Assets": "0.80%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.81%"
+      "Assets": "0.64%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.81%"
+      "Assets": "0.64%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.74%"
+      "Assets": "0.63%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.74%"
+      "Assets": "0.48%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.55%"
+      "Assets": "0.48%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.55%"
-    },
-    {
-      "Name": "Eternal Ltd.",
-      "Sector": "Services",
-      "Instruments": "Equity",
-      "Assets": "0.00%"
+      "Assets": "0.32%"
     }
   ],
   "holding_analysis": {
@@ -321,8 +291,8 @@
       {
         "Name": "Rank (Equity Large Cap)",
         "6M": "--",
-        "1Y": "22",
-        "3Y": "18",
+        "1Y": "23",
+        "3Y": "19",
         "All": "--"
       }
     ],
@@ -344,8 +314,8 @@
       {
         "Name": "Rank (Equity Large Cap)",
         "6M": "--",
-        "1Y": "22",
-        "3Y": "18",
+        "1Y": "23",
+        "3Y": "19",
         "All": "--"
       }
     ]
@@ -456,8 +426,8 @@
     "address": "6th Floor, Sea Breeze Building,Appa Saheb Marathe Marg,Prabhadevi, Mumbai 400025"
   },
   "advanced_ratios": {
-    "top_5": "35%",
-    "top_20": "91%",
+    "top_5": "42%",
+    "top_20": "94%",
     "pe_ratio": 29.28,
     "pb_ratio": 3.5,
     "alpha": 1.11,
@@ -481,11 +451,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Large Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Large Cap Fund Direct Growth is 0.50% as of 09 May 2026..."
+      "answer": "The termExpense Ratioused for Quant Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Large Cap Fund Direct Growth is 0.50% as of 10 May 2026..."
     },
     {
       "question": "What is the AUM of Quant Large Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Large Cap Fund Direct Growth is ₹3,112.33Cr as of 09 May 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Large Cap Fund Direct Growth is ₹3,112.33Cr as of 10 May 2026."
     },
     {
       "question": "How to Redeem Quant Large Cap Fund Direct Growth?",
@@ -504,5 +474,5 @@
       "answer": "ThePE ratioratio of Quant Large Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-05-09T07:30:06+0000"
+  "scraped_at": "2026-05-10T07:43:45+0000"
 }

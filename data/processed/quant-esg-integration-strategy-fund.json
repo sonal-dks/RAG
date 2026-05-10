@@ -71,184 +71,178 @@
   },
   "holdings": [
     {
-      "Name": "Piramal Finance Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "9.34%"
-    },
-    {
       "Name": "Adani Enterprises Ltd.",
       "Sector": "Services",
       "Instruments": "Equity",
-      "Assets": "8.93%"
+      "Assets": "9.38%"
     },
     {
       "Name": "Adani Green Energy Ltd.",
       "Sector": "Capital Goods",
       "Instruments": "Equity",
-      "Assets": "8.44%"
+      "Assets": "9.01%"
     },
     {
-      "Name": "Adani Energy Solutions Ltd.",
-      "Sector": "Energy",
-      "Instruments": "Equity",
-      "Assets": "7.79%"
-    },
-    {
-      "Name": "Aurobindo Pharma Ltd.",
-      "Sector": "Healthcare",
-      "Instruments": "Equity",
-      "Assets": "6.45%"
-    },
-    {
-      "Name": "Tata Consumer Products Ltd.",
-      "Sector": "Consumer Staples",
-      "Instruments": "Futures",
-      "Assets": "5.97%"
-    },
-    {
-      "Name": "ICICI Prudential Life Insurance Company Ltd.",
-      "Sector": "Insurance",
-      "Instruments": "Equity",
-      "Assets": "5.23%"
-    },
-    {
-      "Name": "Kotak Mahindra Bank Ltd.",
+      "Name": "Piramal Finance Ltd.",
       "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "5.06%"
+      "Instruments": "Equity",
+      "Assets": "8.68%"
     },
     {
-      "Name": "HDFC Life Insurance Co Ltd.",
-      "Sector": "Insurance",
-      "Instruments": "Futures",
-      "Assets": "4.60%"
+      "Name": "HFCL Ltd.",
+      "Sector": "Communication",
+      "Instruments": "Equity",
+      "Assets": "8.26%"
     },
     {
-      "Name": "BlackBuck Ltd.",
+      "Name": "PB Fintech Ltd.",
       "Sector": "Services",
-      "Instruments": "Equity",
-      "Assets": "4.55%"
-    },
-    {
-      "Name": "Varun Beverages Ltd.",
-      "Sector": "Consumer Staples",
       "Instruments": "Futures",
-      "Assets": "4.46%"
-    },
-    {
-      "Name": "HDFC Life Insurance Co Ltd.",
-      "Sector": "Insurance",
-      "Instruments": "Equity",
-      "Assets": "4.18%"
-    },
-    {
-      "Name": "Kotak Mahindra Bank Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "3.95%"
-    },
-    {
-      "Name": "Dabur India Ltd.",
-      "Sector": "Consumer Staples",
-      "Instruments": "Equity",
-      "Assets": "3.73%"
+      "Assets": "7.87%"
     },
     {
       "Name": "Aurobindo Pharma Ltd.",
       "Sector": "Healthcare",
-      "Instruments": "Futures",
-      "Assets": "3.47%"
-    },
-    {
-      "Name": "HDFC Asset Management Company Ltd.",
-      "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "3.27%"
+      "Assets": "5.86%"
     },
     {
       "Name": "Capri Global Capital Ltd.",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "3.08%"
+      "Assets": "5.58%"
     },
     {
-      "Name": "HDFC Asset Management Company Ltd.",
+      "Name": "Nippon Life India Asset Management Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "5.06%"
+    },
+    {
+      "Name": "Reliance Industries Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Futures",
+      "Assets": "4.99%"
+    },
+    {
+      "Name": "Kotak Mahindra Bank Ltd.",
       "Sector": "Financial",
       "Instruments": "Futures",
-      "Assets": "2.28%"
+      "Assets": "4.70%"
     },
     {
-      "Name": "Zydus Wellness Ltd.",
-      "Sector": "Consumer Staples",
+      "Name": "ICICI Prudential Life Insurance Company Ltd.",
+      "Sector": "Insurance",
       "Instruments": "Equity",
-      "Assets": "1.96%"
+      "Assets": "4.50%"
+    },
+    {
+      "Name": "HDFC Life Insurance Co Ltd.",
+      "Sector": "Insurance",
+      "Instruments": "Futures",
+      "Assets": "3.90%"
+    },
+    {
+      "Name": "BlackBuck Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "3.69%"
+    },
+    {
+      "Name": "Kotak Mahindra Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "3.66%"
+    },
+    {
+      "Name": "HDFC Life Insurance Co Ltd.",
+      "Sector": "Insurance",
+      "Instruments": "Equity",
+      "Assets": "3.54%"
+    },
+    {
+      "Name": "ICICI Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Futures",
+      "Assets": "3.20%"
+    },
+    {
+      "Name": "Black Box Ltd.",
+      "Sector": "Technology",
+      "Instruments": "Equity",
+      "Assets": "2.99%"
     },
     {
       "Name": "Viyash Scientific Limited",
       "Sector": "Healthcare",
       "Instruments": "Equity",
-      "Assets": "1.77%"
+      "Assets": "1.69%"
     },
     {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.88%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.88%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.88%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.88%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.88%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.88%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.88%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.88%"
-    },
-    {
-      "Name": "Colgate-Palmolive (India) Ltd.",
-      "Sector": "Consumer Staples",
-      "Instruments": "Equity",
-      "Assets": "0.27%"
+      "Name": "Bharat Heavy Electricals Ltd.",
+      "Sector": "Capital Goods",
+      "Instruments": "Futures",
+      "Assets": "1.51%"
     },
     {
       "Name": "Safari Industries (India) Ltd.",
       "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
-      "Assets": "0.07%"
+      "Assets": "1.01%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.76%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.76%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.75%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.75%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.75%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.75%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.75%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.75%"
+    },
+    {
+      "Name": "Aurobindo Pharma Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Futures",
+      "Assets": "-5.75%"
     }
   ],
   "holding_analysis": {
@@ -405,8 +399,8 @@
     "address": "6th Floor, Sea Breeze Building,Appa Saheb Marathe Marg,Prabhadevi, Mumbai 400025"
   },
   "advanced_ratios": {
-    "top_5": "41%",
-    "top_20": "98%",
+    "top_5": "43%",
+    "top_20": "99%",
     "pe_ratio": 36.01,
     "pb_ratio": 3.57,
     "alpha": 4.04,
@@ -430,11 +424,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant ESG Integration Strategy Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant ESG Integration Strategy Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ESG Integration Strategy Fund Direct Growth is 0.93% as of 09 May 2026..."
+      "answer": "The termExpense Ratioused for Quant ESG Integration Strategy Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ESG Integration Strategy Fund Direct Growth is 0.93% as of 10 May 2026..."
     },
     {
       "question": "What is the AUM of Quant ESG Integration Strategy Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant ESG Integration Strategy Fund Direct Growth is ₹264.40Cr as of 09 May 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant ESG Integration Strategy Fund Direct Growth is ₹264.40Cr as of 10 May 2026."
     },
     {
       "question": "How to Redeem Quant ESG Integration Strategy Fund Direct Growth?",
@@ -453,5 +447,5 @@
       "answer": "ThePE ratioratio of Quant ESG Integration Strategy Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-05-09T07:30:06+0000"
+  "scraped_at": "2026-05-10T07:43:45+0000"
 }

@@ -72,136 +72,112 @@
   },
   "holdings": [
     {
-      "Name": "Capri Global Capital Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "10.01%"
-    },
-    {
       "Name": "Adani Enterprises Ltd.",
       "Sector": "Services",
       "Instruments": "Equity",
-      "Assets": "9.77%"
+      "Assets": "9.88%"
+    },
+    {
+      "Name": "Capri Global Capital Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "9.68%"
     },
     {
       "Name": "Adani Green Energy Ltd.",
       "Sector": "Capital Goods",
       "Instruments": "Equity",
-      "Assets": "9.42%"
+      "Assets": "9.45%"
     },
     {
-      "Name": "HDFC Bank Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "9.13%"
-    },
-    {
-      "Name": "HDFC Life Insurance Co Ltd.",
-      "Sector": "Insurance",
-      "Instruments": "Equity",
-      "Assets": "8.91%"
-    },
-    {
-      "Name": "Reliance Industries Ltd.",
-      "Sector": "Energy",
-      "Instruments": "Equity",
-      "Assets": "7.59%"
+      "Name": "Bharat Heavy Electricals Ltd.",
+      "Sector": "Capital Goods",
+      "Instruments": "Futures",
+      "Assets": "9.08%"
     },
     {
       "Name": "Samvardhana Motherson International Ltd.",
       "Sector": "Automobile",
       "Instruments": "Equity",
-      "Assets": "7.02%"
+      "Assets": "8.69%"
     },
     {
-      "Name": "Kotak Mahindra Bank Ltd.",
-      "Sector": "Financial",
+      "Name": "HDFC Life Insurance Co Ltd.",
+      "Sector": "Insurance",
       "Instruments": "Equity",
-      "Assets": "6.20%"
-    },
-    {
-      "Name": "Shriram Finance Ltd",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "5.87%"
+      "Assets": "7.65%"
     },
     {
       "Name": "ICICI Prudential Asset Management Company Ltd.",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "5.54%"
+      "Assets": "7.12%"
     },
     {
-      "Name": "HDFC Asset Management Company Ltd.",
+      "Name": "Reliance Industries Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Equity",
+      "Assets": "6.99%"
+    },
+    {
+      "Name": "Kotak Mahindra Bank Ltd.",
       "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "4.86%"
+      "Instruments": "Equity",
+      "Assets": "5.81%"
     },
     {
-      "Name": "Varun Beverages Ltd.",
-      "Sector": "Consumer Staples",
+      "Name": "PB Fintech Ltd.",
+      "Sector": "Services",
       "Instruments": "Futures",
-      "Assets": "2.90%"
+      "Assets": "5.67%"
     },
     {
-      "Name": "Dr. Reddy's Laboratories Ltd.",
-      "Sector": "Healthcare",
-      "Instruments": "Futures",
-      "Assets": "2.64%"
-    },
-    {
-      "Name": "Hindustan Unilever Ltd.",
-      "Sector": "Consumer Staples",
-      "Instruments": "Futures",
-      "Assets": "2.38%"
-    },
-    {
-      "Name": "Bajaj Finance Ltd.",
+      "Name": "ICICI Bank Ltd.",
       "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "2.36%"
+      "Instruments": "Equity",
+      "Assets": "5.38%"
     },
     {
-      "Name": "Colgate-Palmolive (India) Ltd.",
-      "Sector": "Consumer Staples",
+      "Name": "Tech Mahindra Ltd.",
+      "Sector": "Technology",
       "Instruments": "Futures",
-      "Assets": "1.62%"
+      "Assets": "4.98%"
     },
     {
       "Name": "Bharti Airtel Ltd.",
       "Sector": "Communication",
       "Instruments": "Futures",
-      "Assets": "1.60%"
+      "Assets": "4.90%"
+    },
+    {
+      "Name": "Reliance Industries Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Futures",
+      "Assets": "2.57%"
+    },
+    {
+      "Name": "Power Finance Corporation Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "1.40%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.99%"
+      "Assets": "0.86%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.99%"
+      "Assets": "0.86%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.99%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.99%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.99%"
+      "Assets": "0.86%"
     },
     {
       "Name": "Reserve Bank of India",
@@ -213,19 +189,25 @@
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.84%"
+      "Assets": "0.73%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.71%"
+      "Assets": "0.73%"
     },
     {
-      "Name": "Eternal Ltd.",
-      "Sector": "Services",
-      "Instruments": "Equity",
-      "Assets": "0.00%"
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.73%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.73%"
     }
   ],
   "holding_analysis": {
@@ -284,7 +266,7 @@
       },
       {
         "Name": "Rank (Equity Large Cap)",
-        "3Y": "22",
+        "3Y": "21",
         "5Y": "18",
         "10Y": "--",
         "All": "--"
@@ -307,7 +289,7 @@
       },
       {
         "Name": "Rank (Equity Large Cap)",
-        "3Y": "22",
+        "3Y": "21",
         "5Y": "18",
         "10Y": "--",
         "All": "--"
@@ -421,7 +403,7 @@
   },
   "advanced_ratios": {
     "top_5": "47%",
-    "top_20": "101%",
+    "top_20": "103%",
     "pe_ratio": 27.3,
     "pb_ratio": 3.18,
     "alpha": 1.62,
@@ -445,11 +427,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Focused Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Focused Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Focused Fund Direct Growth is 0.83% as of 09 May 2026..."
+      "answer": "The termExpense Ratioused for Quant Focused Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Focused Fund Direct Growth is 0.83% as of 10 May 2026..."
     },
     {
       "question": "What is the AUM of Quant Focused Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Focused Fund Direct Growth is ₹813.02Cr as of 09 May 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Focused Fund Direct Growth is ₹813.02Cr as of 10 May 2026."
     },
     {
       "question": "How to Redeem Quant Focused Fund Direct Growth?",
@@ -468,5 +450,5 @@
       "answer": "ThePE ratioratio of Quant Focused Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-05-09T07:30:07+0000"
+  "scraped_at": "2026-05-10T07:43:46+0000"
 }

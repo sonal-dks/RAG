@@ -75,47 +75,53 @@
       "Name": "Adani Power Ltd.",
       "Sector": "Energy",
       "Instruments": "Equity",
-      "Assets": "9.05%"
+      "Assets": "9.66%"
     },
     {
       "Name": "Samvardhana Motherson International Ltd.",
       "Sector": "Automobile",
       "Instruments": "Equity",
-      "Assets": "7.59%"
-    },
-    {
-      "Name": "Aurobindo Pharma Ltd.",
-      "Sector": "Healthcare",
-      "Instruments": "Equity",
-      "Assets": "6.95%"
+      "Assets": "7.55%"
     },
     {
       "Name": "Adani Enterprises Ltd.",
       "Sector": "Services",
       "Instruments": "Equity",
-      "Assets": "6.27%"
-    },
-    {
-      "Name": "HDFC Bank Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "5.50%"
-    },
-    {
-      "Name": "Kotak Mahindra Bank Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "4.88%"
+      "Assets": "7.40%"
     },
     {
       "Name": "ICICI Prudential Asset Management Company Ltd.",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "4.38%"
+      "Assets": "6.73%"
+    },
+    {
+      "Name": "Aurobindo Pharma Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "6.39%"
+    },
+    {
+      "Name": "ICICI Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "6.18%"
+    },
+    {
+      "Name": "Kotak Mahindra Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Futures",
+      "Assets": "4.59%"
     },
     {
       "Name": "Tata Power Company Ltd.",
       "Sector": "Energy",
+      "Instruments": "Equity",
+      "Assets": "3.96%"
+    },
+    {
+      "Name": "Adani Green Energy Ltd.",
+      "Sector": "Capital Goods",
       "Instruments": "Equity",
       "Assets": "3.91%"
     },
@@ -123,139 +129,115 @@
       "Name": "Larsen & Toubro Ltd.",
       "Sector": "Construction",
       "Instruments": "Equity",
-      "Assets": "3.83%"
-    },
-    {
-      "Name": "ICICI Bank Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "3.80%"
-    },
-    {
-      "Name": "Bajaj Auto Ltd.",
-      "Sector": "Automobile",
-      "Instruments": "Equity",
-      "Assets": "3.69%"
-    },
-    {
-      "Name": "Life Insurance Corporation of India",
-      "Sector": "Insurance",
-      "Instruments": "Equity",
-      "Assets": "3.55%"
-    },
-    {
-      "Name": "Reliance Industries Ltd.",
-      "Sector": "Energy",
-      "Instruments": "Equity",
-      "Assets": "3.54%"
-    },
-    {
-      "Name": "Bharat Electronics Ltd.",
-      "Sector": "Capital Goods",
-      "Instruments": "Futures",
-      "Assets": "3.38%"
-    },
-    {
-      "Name": "Aurobindo Pharma Ltd.",
-      "Sector": "Healthcare",
-      "Instruments": "Futures",
-      "Assets": "3.08%"
-    },
-    {
-      "Name": "Adani Green Energy Ltd.",
-      "Sector": "Capital Goods",
-      "Instruments": "Equity",
-      "Assets": "2.98%"
-    },
-    {
-      "Name": "HDFC Life Insurance Co Ltd.",
-      "Sector": "Insurance",
-      "Instruments": "Equity",
-      "Assets": "2.55%"
-    },
-    {
-      "Name": "Swan Corp Ltd.",
-      "Sector": "Construction",
-      "Instruments": "Equity",
-      "Assets": "2.22%"
-    },
-    {
-      "Name": "K.P.R. Mill Ltd.",
-      "Sector": "Textiles",
-      "Instruments": "Equity",
-      "Assets": "1.93%"
-    },
-    {
-      "Name": "Indus Infra Trust",
-      "Sector": "Construction",
-      "Instruments": "InvITs",
-      "Assets": "1.92%"
-    },
-    {
-      "Name": "Alivus Life Sciences Ltd",
-      "Sector": "Healthcare",
-      "Instruments": "Equity",
-      "Assets": "1.86%"
-    },
-    {
-      "Name": "JSW Infrastructure Ltd.",
-      "Sector": "Services",
-      "Instruments": "Equity",
-      "Assets": "1.69%"
-    },
-    {
-      "Name": "HDFC Bank Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "1.67%"
-    },
-    {
-      "Name": "HDFC Asset Management Company Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "1.55%"
-    },
-    {
-      "Name": "HDFC Asset Management Company Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "1.32%"
-    },
-    {
-      "Name": "Piramal Finance Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "1.20%"
+      "Assets": "3.78%"
     },
     {
       "Name": "Adani Energy Solutions Ltd.",
       "Sector": "Energy",
       "Instruments": "Equity",
-      "Assets": "1.15%"
+      "Assets": "3.59%"
+    },
+    {
+      "Name": "Life Insurance Corporation of India",
+      "Sector": "Insurance",
+      "Instruments": "Equity",
+      "Assets": "3.37%"
+    },
+    {
+      "Name": "Reliance Industries Ltd.",
+      "Sector": "Energy",
+      "Instruments": "Equity",
+      "Assets": "3.26%"
+    },
+    {
+      "Name": "Bharat Electronics Ltd.",
+      "Sector": "Capital Goods",
+      "Instruments": "Futures",
+      "Assets": "2.98%"
+    },
+    {
+      "Name": "Dixon Technologies (India) Ltd.",
+      "Sector": "Capital Goods",
+      "Instruments": "Futures",
+      "Assets": "2.93%"
+    },
+    {
+      "Name": "Aurobindo Pharma Ltd.",
+      "Sector": "Healthcare",
+      "Instruments": "Futures",
+      "Assets": "2.84%"
+    },
+    {
+      "Name": "HDFC Life Insurance Co Ltd.",
+      "Sector": "Insurance",
+      "Instruments": "Equity",
+      "Assets": "2.19%"
+    },
+    {
+      "Name": "Swan Corp Ltd.",
+      "Sector": "Construction",
+      "Instruments": "Equity",
+      "Assets": "2.14%"
+    },
+    {
+      "Name": "K.P.R. Mill Ltd.",
+      "Sector": "Textiles",
+      "Instruments": "Equity",
+      "Assets": "1.88%"
+    },
+    {
+      "Name": "Indus Infra Trust",
+      "Sector": "Construction",
+      "Instruments": "InvITs",
+      "Assets": "1.74%"
+    },
+    {
+      "Name": "Alivus Life Sciences Ltd",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "1.71%"
+    },
+    {
+      "Name": "JSW Infrastructure Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "1.65%"
+    },
+    {
+      "Name": "AU Small Finance Bank Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "1.40%"
+    },
+    {
+      "Name": "Piramal Finance Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "1.13%"
+    },
+    {
+      "Name": "LG Electronics India Ltd.",
+      "Sector": "Consumer Discretionary",
+      "Instruments": "Equity",
+      "Assets": "0.94%"
     },
     {
       "Name": "HDFC Life Insurance Co Ltd.",
       "Sector": "Insurance",
       "Instruments": "Futures",
-      "Assets": "0.95%"
+      "Assets": "0.82%"
+    },
+    {
+      "Name": "PB Fintech Ltd.",
+      "Sector": "Services",
+      "Instruments": "Equity",
+      "Assets": "0.79%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.87%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.70%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.70%"
+      "Assets": "0.76%"
     },
     {
       "Name": "Aditya Birla Lifestyle Brands Ltd.",
@@ -267,61 +249,85 @@
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.61%"
-    },
-    {
-      "Name": "Capital Infra Trust",
-      "Sector": "Construction",
-      "Instruments": "InvITs",
       "Assets": "0.60%"
     },
     {
       "Name": "Reserve Bank of India",
       "Sector": "Financial",
       "Instruments": "T-Bills",
-      "Assets": "0.44%"
+      "Assets": "0.53%"
     },
     {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.43%"
+      "Name": "Capital Infra Trust",
+      "Sector": "Construction",
+      "Instruments": "InvITs",
+      "Assets": "0.44%"
     },
     {
       "Name": "NBCC (India) Ltd.",
       "Sector": "Construction",
       "Instruments": "Equity",
-      "Assets": "0.41%"
+      "Assets": "0.42%"
     },
     {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.35%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.35%"
-    },
-    {
-      "Name": "Reserve Bank of India",
-      "Sector": "Financial",
-      "Instruments": "T-Bills",
-      "Assets": "0.35%"
-    },
-    {
-      "Name": "LG Electronics India Ltd.",
-      "Sector": "Consumer Discretionary",
+      "Name": "Tata Chemicals Ltd.",
+      "Sector": "Chemicals",
       "Instruments": "Equity",
-      "Assets": "0.27%"
+      "Assets": "0.38%"
+    },
+    {
+      "Name": "Lloyds Metals & Energy Ltd.",
+      "Sector": "Metals & Mining",
+      "Instruments": "Equity",
+      "Assets": "0.38%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.38%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.37%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.30%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.30%"
+    },
+    {
+      "Name": "Reserve Bank of India",
+      "Sector": "Financial",
+      "Instruments": "T-Bills",
+      "Assets": "0.30%"
     },
     {
       "Name": "Tata Communications Ltd.",
       "Sector": "Communication",
       "Instruments": "Equity",
-      "Assets": "0.02%"
+      "Assets": "0.28%"
+    },
+    {
+      "Name": "Viyash Scientific Limited",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "0.27%"
+    },
+    {
+      "Name": "Tech Mahindra Ltd.",
+      "Sector": "Technology",
+      "Instruments": "Futures",
+      "Assets": "0.20%"
     }
   ],
   "holding_analysis": {
@@ -384,7 +390,7 @@
       },
       {
         "Name": "Rank (Equity Flexi Cap)",
-        "3Y": "9",
+        "3Y": "10",
         "5Y": "--",
         "10Y": "--",
         "All": "--"
@@ -407,7 +413,7 @@
       },
       {
         "Name": "Rank (Equity Flexi Cap)",
-        "3Y": "9",
+        "3Y": "10",
         "5Y": "--",
         "10Y": "--",
         "All": "--"
@@ -442,8 +448,8 @@
     {
       "": "",
       "Name": "Parag Parikh Flexi Cap Fund Direct Growth",
-      "1Y": "+4.27%",
-      "3Y": "+17.99%",
+      "1Y": "+4.21%",
+      "3Y": "+17.65%",
       "Fund Size(Cr)": "1,28,966.48"
     },
     {
@@ -520,8 +526,8 @@
     "address": "6th Floor, Sea Breeze Building,Appa Saheb Marathe Marg,Prabhadevi, Mumbai 400025"
   },
   "advanced_ratios": {
-    "top_5": "35%",
-    "top_20": "85%",
+    "top_5": "38%",
+    "top_20": "87%",
     "pe_ratio": 29.23,
     "pb_ratio": 3.6,
     "alpha": 2.83,
@@ -545,11 +551,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Flexi Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Flexi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Flexi Cap Fund Direct Growth is 0.67% as of 09 May 2026..."
+      "answer": "The termExpense Ratioused for Quant Flexi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Flexi Cap Fund Direct Growth is 0.67% as of 10 May 2026..."
     },
     {
       "question": "What is the AUM of Quant Flexi Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Flexi Cap Fund Direct Growth is ₹6,593.52Cr as of 09 May 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Flexi Cap Fund Direct Growth is ₹6,593.52Cr as of 10 May 2026."
     },
     {
       "question": "How to Redeem Quant Flexi Cap Fund Direct Growth?",
@@ -568,5 +574,5 @@
       "answer": "ThePE ratioratio of Quant Flexi Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-05-09T07:30:06+0000"
+  "scraped_at": "2026-05-10T07:43:45+0000"
 }
