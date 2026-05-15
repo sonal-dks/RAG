@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-05-14T08:13:40+0000",
+  "scraped_at": "2026-05-15T08:28:25+0000",
   "fund_count": 10,
   "funds": [
     {
@@ -7,9 +7,9 @@
       "fund_name": "Quant Small Cap Fund Direct Plan Growth",
       "source_url": "https://groww.in/mutual-funds/quant-small-cap-fund-direct-plan-growth",
       "basic_info": {
-        "nav": "284.93",
-        "nav_date": "13 May '26",
-        "expense_ratio_pct": "0.71",
+        "nav": "286.91",
+        "nav_date": "14 May '26",
+        "expense_ratio_pct": "0.70",
         "min_sip": "1,000"
       },
       "fund_category_and_risk": {
@@ -18,14 +18,14 @@
         "risk_level": "Very High Risk"
       },
       "performance_returns": {
-        "1D": "+0.59%",
-        "1M": "+7.98%",
-        "6M": "+0.64%",
-        "1Y": "+8.02%",
-        "3Y": "+21.31%",
-        "5Y": "+21.52%",
-        "10Y": "+20.01%",
-        "All": "+17.23%"
+        "1D": "+0.70%",
+        "1M": "+8.73%",
+        "6M": "+1.05%",
+        "1Y": "+7.88%",
+        "3Y": "+21.57%",
+        "5Y": "+21.91%",
+        "10Y": "+20.09%",
+        "All": "+17.29%"
       },
       "return_calculator": {
         "monthly_investment_used": "1000",
@@ -33,44 +33,44 @@
           {
             "Over the past": "1 year",
             "Total investment": "₹12,000",
-            "Would've become": "₹12,569",
-            "Returns": "+4.74%"
+            "Would've become": "₹12,648",
+            "Returns": "+5.40%"
           },
           {
             "Over the past": "3 years",
             "Total investment": "₹36,000",
-            "Would've become": "₹41,247",
-            "Returns": "+14.57%"
+            "Would've become": "₹41,518",
+            "Returns": "+15.33%"
           },
           {
             "Over the past": "5 years",
             "Total investment": "₹60,000",
-            "Would've become": "₹91,047",
-            "Returns": "+51.74%"
+            "Would've become": "₹91,633",
+            "Returns": "+52.72%"
           },
           {
             "Over the past": "10 years",
             "Total investment": "₹1,20,000",
-            "Would've become": "₹4,33,569",
-            "Returns": "+261.31%"
+            "Would've become": "₹4,36,306",
+            "Returns": "+263.59%"
           }
         ],
         "sip_return_rates": [
           {
             "period": "1 year",
-            "return_pct": 4.74
+            "return_pct": 5.4
           },
           {
             "period": "3 years",
-            "return_pct": 14.57
+            "return_pct": 15.33
           },
           {
             "period": "5 years",
-            "return_pct": 51.74
+            "return_pct": 52.72
           },
           {
             "period": "10 years",
-            "return_pct": 261.31
+            "return_pct": 263.59
           }
         ]
       },
@@ -808,10 +808,10 @@
         "annualised_returns": [
           {
             "Name": "Fund returns",
-            "3Y": "+21.3%",
-            "5Y": "+21.5%",
-            "10Y": "+20.0%",
-            "All": "+17.2%"
+            "3Y": "+21.6%",
+            "5Y": "+21.9%",
+            "10Y": "+20.1%",
+            "All": "+17.3%"
           },
           {
             "Name": "Category average (Equity Small Cap)",
@@ -859,36 +859,36 @@
         {
           "": "",
           "Name": "Bandhan Small Cap Fund Direct Growth",
-          "1Y": "+12.49%",
-          "3Y": "+31.23%",
+          "1Y": "+11.32%",
+          "3Y": "+31.35%",
           "Fund Size(Cr)": "25,345.79"
         },
         {
           "": "",
           "Name": "Invesco India Smallcap Fund Direct Growth",
-          "1Y": "+10.43%",
-          "3Y": "+25.00%",
+          "1Y": "+10.16%",
+          "3Y": "+25.32%",
           "Fund Size(Cr)": "11,038.23"
         },
         {
           "": "",
           "Name": "Sundaram Small Cap Fund Direct Growth",
-          "1Y": "+13.04%",
-          "3Y": "+21.39%",
+          "1Y": "+12.17%",
+          "3Y": "+21.71%",
           "Fund Size(Cr)": "3,562.91"
         },
         {
           "": "",
           "Name": "Quant Small Cap Fund Direct Plan Growth",
-          "1Y": "+8.02%",
-          "3Y": "+21.31%",
+          "1Y": "+7.88%",
+          "3Y": "+21.57%",
           "Fund Size(Cr)": "30,373.69"
         },
         {
           "": "",
           "Name": "Nippon India Small Cap Fund Direct Growth",
-          "1Y": "+8.51%",
-          "3Y": "+20.94%",
+          "1Y": "+7.86%",
+          "3Y": "+21.16%",
           "Fund Size(Cr)": "72,672.99"
         }
       ],
@@ -937,7 +937,7 @@
         }
       ],
       "about_fund": {
-        "description": "Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Managemen Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 13 May 2026 is ₹284.93. The Quant Small Cap Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 1 year ...Read more",
+        "description": "Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Managemen Quant Small Cap Fund Direct Plan Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Small Cap Fund Direct Plan Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 14 May 2026 is ₹286.91. The Quant Small Cap Fund Direct Plan Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1% if redeemed within 1 year ...Read more",
         "investment_objective": "The scheme seeks to generate capital appreciation by investing in a well-diversified portfolio of small cap companies.",
         "benchmark": "NIFTY Smallcap 250 Total Return Index"
       },
@@ -973,15 +973,15 @@
         },
         {
           "question": "What kind of returns does Quant Small Cap Fund Direct Plan Growth provide?",
-          "answer": "The Quant Small Cap Fund Direct Plan Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 8.02% since its inception."
+          "answer": "The Quant Small Cap Fund Direct Plan Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 7.88% since its inception."
         },
         {
           "question": "How much expense ratio is charged by Quant Small Cap Fund Direct Plan Growth?",
-          "answer": "The termExpense Ratioused for Quant Small Cap Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Small Cap Fund Direct Plan Growth is 0.71% as of 14 May 2026..."
+          "answer": "The termExpense Ratioused for Quant Small Cap Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Small Cap Fund Direct Plan Growth is 0.70% as of 15 May 2026..."
         },
         {
           "question": "What is the AUM of Quant Small Cap Fund Direct Plan Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant Small Cap Fund Direct Plan Growth is ₹30,373.69Cr as of 14 May 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant Small Cap Fund Direct Plan Growth is ₹30,373.69Cr as of 15 May 2026."
         },
         {
           "question": "How to Redeem Quant Small Cap Fund Direct Plan Growth?",
@@ -993,23 +993,23 @@
         },
         {
           "question": "What is the NAV of Quant Small Cap Fund Direct Plan Growth?",
-          "answer": "The NAV of Quant Small Cap Fund Direct Plan Growth is ₹284.93 as of 13 May 2026."
+          "answer": "The NAV of Quant Small Cap Fund Direct Plan Growth is ₹286.91 as of 14 May 2026."
         },
         {
           "question": "What is the PE and PB ratio of Quant Small Cap Fund Direct Plan Growth?",
           "answer": "ThePE ratioratio of Quant Small Cap Fund Direct Plan Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-05-14T08:13:39+0000"
+      "scraped_at": "2026-05-15T08:28:24+0000"
     },
     {
       "fund_key": "quant-infrastructure-fund",
       "fund_name": "Quant Infrastructure Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/quant-infrastructure-fund-direct-growth",
       "basic_info": {
-        "nav": "43.61",
-        "nav_date": "13 May '26",
-        "expense_ratio_pct": "1.04",
+        "nav": "44.34",
+        "nav_date": "14 May '26",
+        "expense_ratio_pct": "0.77",
         "min_sip": "1,000"
       },
       "fund_category_and_risk": {
@@ -1018,14 +1018,14 @@
         "risk_level": "Very High Risk"
       },
       "performance_returns": {
-        "1D": "+1.58%",
-        "1M": "+8.14%",
-        "6M": "+3.00%",
-        "1Y": "+10.38%",
-        "3Y": "+21.46%",
-        "5Y": "+21.18%",
-        "10Y": "+21.13%",
-        "All": "+17.14%"
+        "1D": "+1.68%",
+        "1M": "+9.95%",
+        "6M": "+4.71%",
+        "1Y": "+11.10%",
+        "3Y": "+22.11%",
+        "5Y": "+21.95%",
+        "10Y": "+21.33%",
+        "All": "+17.28%"
       },
       "return_calculator": {
         "monthly_investment_used": "1000",
@@ -1033,44 +1033,44 @@
           {
             "Over the past": "1 year",
             "Total investment": "₹12,000",
-            "Would've become": "₹12,774",
-            "Returns": "+6.45%"
+            "Would've become": "₹12,970",
+            "Returns": "+8.08%"
           },
           {
             "Over the past": "3 years",
             "Total investment": "₹36,000",
-            "Would've become": "₹41,720",
-            "Returns": "+15.89%"
+            "Would've become": "₹42,393",
+            "Returns": "+17.76%"
           },
           {
             "Over the past": "5 years",
             "Total investment": "₹60,000",
-            "Would've become": "₹89,485",
-            "Returns": "+49.14%"
+            "Would've become": "₹90,929",
+            "Returns": "+51.55%"
           },
           {
             "Over the past": "10 years",
             "Total investment": "₹1,20,000",
-            "Would've become": "₹3,97,615",
-            "Returns": "+231.35%"
+            "Would've become": "₹4,04,012",
+            "Returns": "+236.68%"
           }
         ],
         "sip_return_rates": [
           {
             "period": "1 year",
-            "return_pct": 6.45
+            "return_pct": 8.08
           },
           {
             "period": "3 years",
-            "return_pct": 15.89
+            "return_pct": 17.76
           },
           {
             "period": "5 years",
-            "return_pct": 49.14
+            "return_pct": 51.55
           },
           {
             "period": "10 years",
-            "return_pct": 231.35
+            "return_pct": 236.68
           }
         ]
       },
@@ -1346,10 +1346,10 @@
         "annualised_returns": [
           {
             "Name": "Fund returns",
-            "3Y": "+21.5%",
-            "5Y": "+21.2%",
-            "10Y": "+21.1%",
-            "All": "+17.1%"
+            "3Y": "+22.1%",
+            "5Y": "+21.9%",
+            "10Y": "+21.3%",
+            "All": "+17.3%"
           },
           {
             "Name": "Category average (Equity Sectoral)",
@@ -1445,7 +1445,7 @@
         }
       ],
       "about_fund": {
-        "description": "Quant Infrastructure Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Infrastructure Fund Direct Growth fund. The fund currently has an Asset Under Managemen Quant Infrastructure Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Infrastructure Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 13 May 2026 is ₹43.61. The Quant Infrastructure Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 0.50% if redeemed within 3 months. ...Read more",
+        "description": "Quant Infrastructure Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Infrastructure Fund Direct Growth fund. The fund currently has an Asset Under Managemen Quant Infrastructure Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Infrastructure Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 14 May 2026 is ₹44.34. The Quant Infrastructure Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 0.50% if redeemed within 3 months. ...Read more",
         "investment_objective": "The fund aims to invest predominantly in equity and equity related instruments of the companies in the infrastructure sector.",
         "benchmark": "NIFTY Infrastructure Total Return Index"
       },
@@ -1481,15 +1481,15 @@
         },
         {
           "question": "What kind of returns does Quant Infrastructure Fund Direct Growth provide?",
-          "answer": "The Quant Infrastructure Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 10.38% since its inception."
+          "answer": "The Quant Infrastructure Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 11.10% since its inception."
         },
         {
           "question": "How much expense ratio is charged by Quant Infrastructure Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant Infrastructure Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Infrastructure Fund Direct Growth is 1.04% as of 14 May 2026..."
+          "answer": "The termExpense Ratioused for Quant Infrastructure Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Infrastructure Fund Direct Growth is 0.77% as of 15 May 2026..."
         },
         {
           "question": "What is the AUM of Quant Infrastructure Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant Infrastructure Fund Direct Growth is ₹3,072.93Cr as of 14 May 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant Infrastructure Fund Direct Growth is ₹3,072.93Cr as of 15 May 2026."
         },
         {
           "question": "How to Redeem Quant Infrastructure Fund Direct Growth?",
@@ -1501,22 +1501,22 @@
         },
         {
           "question": "What is the NAV of Quant Infrastructure Fund Direct Growth?",
-          "answer": "The NAV of Quant Infrastructure Fund Direct Growth is ₹43.61 as of 13 May 2026."
+          "answer": "The NAV of Quant Infrastructure Fund Direct Growth is ₹44.34 as of 14 May 2026."
         },
         {
           "question": "What is the PE and PB ratio of Quant Infrastructure Fund Direct Growth?",
           "answer": "ThePE ratioratio of Quant Infrastructure Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-05-14T08:13:39+0000"
+      "scraped_at": "2026-05-15T08:28:24+0000"
     },
     {
       "fund_key": "quant-flexi-cap-fund",
       "fund_name": "Quant Flexi Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/quant-flexi-cap-fund-direct-growth",
       "basic_info": {
-        "nav": "114.45",
-        "nav_date": "13 May '26",
+        "nav": "116.19",
+        "nav_date": "14 May '26",
         "expense_ratio_pct": "0.67",
         "min_sip": "250"
       },
@@ -1526,14 +1526,14 @@
         "risk_level": "Very High Risk"
       },
       "performance_returns": {
-        "1D": "+1.39%",
-        "1M": "+4.91%",
-        "6M": "+2.65%",
-        "1Y": "+7.90%",
-        "3Y": "+19.21%",
-        "5Y": "+18.05%",
-        "10Y": "+20.22%",
-        "All": "+18.46%"
+        "1D": "+1.52%",
+        "1M": "+6.50%",
+        "6M": "+3.84%",
+        "1Y": "+9.13%",
+        "3Y": "+19.79%",
+        "5Y": "+18.55%",
+        "10Y": "+20.40%",
+        "All": "+18.59%"
       },
       "return_calculator": {
         "monthly_investment_used": "250",
@@ -1541,44 +1541,44 @@
           {
             "Over the past": "1 year",
             "Total investment": "₹3,000",
-            "Would've become": "₹3,177",
-            "Returns": "+5.90%"
+            "Would've become": "₹3,221",
+            "Returns": "+7.37%"
           },
           {
             "Over the past": "3 years",
             "Total investment": "₹9,000",
-            "Would've become": "₹10,369",
-            "Returns": "+15.21%"
+            "Would've become": "₹10,520",
+            "Returns": "+16.89%"
           },
           {
             "Over the past": "5 years",
             "Total investment": "₹15,000",
-            "Would've become": "₹21,449",
-            "Returns": "+42.99%"
+            "Would've become": "₹21,762",
+            "Returns": "+45.08%"
           },
           {
             "Over the past": "10 years",
             "Total investment": "₹30,000",
-            "Would've become": "₹86,885",
-            "Returns": "+189.62%"
+            "Would've become": "₹88,151",
+            "Returns": "+193.84%"
           }
         ],
         "sip_return_rates": [
           {
             "period": "1 year",
-            "return_pct": 5.9
+            "return_pct": 7.37
           },
           {
             "period": "3 years",
-            "return_pct": 15.21
+            "return_pct": 16.89
           },
           {
             "period": "5 years",
-            "return_pct": 42.99
+            "return_pct": 45.08
           },
           {
             "period": "10 years",
-            "return_pct": 189.62
+            "return_pct": 193.84
           }
         ]
       },
@@ -1888,10 +1888,10 @@
         "annualised_returns": [
           {
             "Name": "Fund returns",
-            "3Y": "+19.2%",
-            "5Y": "+18.1%",
-            "10Y": "+20.2%",
-            "All": "+18.5%"
+            "3Y": "+19.8%",
+            "5Y": "+18.6%",
+            "10Y": "+20.4%",
+            "All": "+18.6%"
           },
           {
             "Name": "Category average (Equity Flexi Cap)",
@@ -1902,7 +1902,7 @@
           },
           {
             "Name": "Rank (Equity Flexi Cap)",
-            "3Y": "10",
+            "3Y": "8",
             "5Y": "--",
             "10Y": "--",
             "All": "--"
@@ -1925,7 +1925,7 @@
           },
           {
             "Name": "Rank (Equity Flexi Cap)",
-            "3Y": "10",
+            "3Y": "8",
             "5Y": "--",
             "10Y": "--",
             "All": "--"
@@ -1935,7 +1935,43 @@
       "exit_load": "Exit load of 1% if redeemed within 1 year",
       "stamp_duty": "Stamp duty on investment: 0.005%",
       "tax_implication": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
-      "similar_funds": [],
+      "similar_funds": [
+        {
+          "": "",
+          "Name": "JM Flexicap Fund Direct Plan Growth",
+          "1Y": "-0.62%",
+          "3Y": "+19.79%",
+          "Fund Size(Cr)": "5,040.51"
+        },
+        {
+          "": "",
+          "Name": "HDFC Flexi Cap Direct Plan Growth",
+          "1Y": "+0.82%",
+          "3Y": "+18.87%",
+          "Fund Size(Cr)": "1,00,479.23"
+        },
+        {
+          "": "",
+          "Name": "HSBC Flexi Cap Fund Direct Growth",
+          "1Y": "+4.80%",
+          "3Y": "+18.65%",
+          "Fund Size(Cr)": "5,405.12"
+        },
+        {
+          "": "",
+          "Name": "Parag Parikh Flexi Cap Fund Direct Growth",
+          "1Y": "+1.28%",
+          "3Y": "+16.71%",
+          "Fund Size(Cr)": "1,40,949.13"
+        },
+        {
+          "": "",
+          "Name": "Franklin India Flexi Cap Fund Direct Growth",
+          "1Y": "-3.14%",
+          "3Y": "+15.92%",
+          "Fund Size(Cr)": "19,049.25"
+        }
+      ],
       "fund_managers": [
         {
           "name": "Varun Pattani",
@@ -1987,7 +2023,7 @@
         }
       ],
       "about_fund": {
-        "description": "Quant Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Quant Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 13 May 2026 is ₹114.45. The Quant Flexi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹250. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
+        "description": "Quant Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Quant Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 14 May 2026 is ₹116.19. The Quant Flexi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹250. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
         "investment_objective": "The scheme seeks to provide long-term capital gains by investing predominantly in equity and equity-related instruments of the companies which are consumption driven.",
         "benchmark": "NIFTY 500 Total Return Index"
       },
@@ -2023,15 +2059,15 @@
         },
         {
           "question": "What kind of returns does Quant Flexi Cap Fund Direct Growth provide?",
-          "answer": "The Quant Flexi Cap Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 7.90% since its inception."
+          "answer": "The Quant Flexi Cap Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 9.13% since its inception."
         },
         {
           "question": "How much expense ratio is charged by Quant Flexi Cap Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant Flexi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Flexi Cap Fund Direct Growth is 0.67% as of 14 May 2026..."
+          "answer": "The termExpense Ratioused for Quant Flexi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Flexi Cap Fund Direct Growth is 0.67% as of 15 May 2026..."
         },
         {
           "question": "What is the AUM of Quant Flexi Cap Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant Flexi Cap Fund Direct Growth is ₹6,593.52Cr as of 14 May 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant Flexi Cap Fund Direct Growth is ₹6,593.52Cr as of 15 May 2026."
         },
         {
           "question": "How to Redeem Quant Flexi Cap Fund Direct Growth?",
@@ -2043,23 +2079,23 @@
         },
         {
           "question": "What is the NAV of Quant Flexi Cap Fund Direct Growth?",
-          "answer": "The NAV of Quant Flexi Cap Fund Direct Growth is ₹114.45 as of 13 May 2026."
+          "answer": "The NAV of Quant Flexi Cap Fund Direct Growth is ₹116.19 as of 14 May 2026."
         },
         {
           "question": "What is the PE and PB ratio of Quant Flexi Cap Fund Direct Growth?",
           "answer": "ThePE ratioratio of Quant Flexi Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-05-14T08:13:39+0000"
+      "scraped_at": "2026-05-15T08:28:24+0000"
     },
     {
       "fund_key": "quant-elss-tax-saver-fund",
       "fund_name": "Quant ELSS Tax Saver Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/quant-elss-tax-saver-fund-direct-growth",
       "basic_info": {
-        "nav": "430.42",
-        "nav_date": "13 May '26",
-        "expense_ratio_pct": "0.72",
+        "nav": "436.67",
+        "nav_date": "14 May '26",
+        "expense_ratio_pct": "2.95",
         "min_sip": "500"
       },
       "fund_category_and_risk": {
@@ -2068,14 +2104,14 @@
         "risk_level": "Very High Risk"
       },
       "performance_returns": {
-        "1D": "+1.00%",
-        "1M": "+4.55%",
-        "6M": "+0.87%",
-        "1Y": "+10.22%",
-        "3Y": "+18.68%",
-        "5Y": "+17.30%",
-        "10Y": "+20.61%",
-        "All": "+19.67%"
+        "1D": "+1.45%",
+        "1M": "+6.07%",
+        "6M": "+1.97%",
+        "1Y": "+11.39%",
+        "3Y": "+19.24%",
+        "5Y": "+17.94%",
+        "10Y": "+20.78%",
+        "All": "+19.79%"
       },
       "return_calculator": {
         "monthly_investment_used": "500",
@@ -2083,44 +2119,44 @@
           {
             "Over the past": "1 year",
             "Total investment": "₹6,000",
-            "Would've become": "₹6,283",
-            "Returns": "+4.72%"
+            "Would've become": "₹6,367",
+            "Returns": "+6.12%"
           },
           {
             "Over the past": "3 years",
             "Total investment": "₹18,000",
-            "Would've become": "₹20,518",
-            "Returns": "+13.99%"
+            "Would've become": "₹20,804",
+            "Returns": "+15.58%"
           },
           {
             "Over the past": "5 years",
             "Total investment": "₹30,000",
-            "Would've become": "₹42,026",
-            "Returns": "+40.09%"
+            "Would've become": "₹42,613",
+            "Returns": "+42.04%"
           },
           {
             "Over the past": "10 years",
             "Total investment": "₹60,000",
-            "Would've become": "₹1,80,932",
-            "Returns": "+201.55%"
+            "Would've become": "₹1,83,447",
+            "Returns": "+205.74%"
           }
         ],
         "sip_return_rates": [
           {
             "period": "1 year",
-            "return_pct": 4.72
+            "return_pct": 6.12
           },
           {
             "period": "3 years",
-            "return_pct": 13.99
+            "return_pct": 15.58
           },
           {
             "period": "5 years",
-            "return_pct": 40.09
+            "return_pct": 42.04
           },
           {
             "period": "10 years",
-            "return_pct": 201.55
+            "return_pct": 205.74
           }
         ]
       },
@@ -2350,10 +2386,10 @@
         "annualised_returns": [
           {
             "Name": "Fund returns",
-            "3Y": "+18.7%",
-            "5Y": "+17.3%",
-            "10Y": "+20.6%",
-            "All": "+19.7%"
+            "3Y": "+19.2%",
+            "5Y": "+17.9%",
+            "10Y": "+20.8%",
+            "All": "+19.8%"
           },
           {
             "Name": "Category average (Equity ELSS)",
@@ -2364,7 +2400,7 @@
           },
           {
             "Name": "Rank (Equity ELSS)",
-            "3Y": "6",
+            "3Y": "5",
             "5Y": "4",
             "10Y": "1",
             "All": "--"
@@ -2387,7 +2423,7 @@
           },
           {
             "Name": "Rank (Equity ELSS)",
-            "3Y": "6",
+            "3Y": "5",
             "5Y": "4",
             "10Y": "1",
             "All": "--"
@@ -2401,36 +2437,36 @@
         {
           "": "",
           "Name": "Motilal Oswal ELSS Tax Saver Fund Direct Growth",
-          "1Y": "+13.58%",
-          "3Y": "+25.35%",
+          "1Y": "+12.28%",
+          "3Y": "+25.60%",
           "Fund Size(Cr)": "4,658.52"
         },
         {
           "": "",
           "Name": "SBI ELSS Tax Saver Fund Direct Growth",
-          "1Y": "+0.67%",
-          "3Y": "+20.12%",
+          "1Y": "+0.65%",
+          "3Y": "+20.50%",
           "Fund Size(Cr)": "31,093.90"
         },
         {
           "": "",
           "Name": "WhiteOak Capital ELSS Tax Saver Fund Direct Growth",
-          "1Y": "+1.46%",
-          "3Y": "+19.22%",
+          "1Y": "+1.75%",
+          "3Y": "+19.53%",
           "Fund Size(Cr)": "450.45"
         },
         {
           "": "",
           "Name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
-          "1Y": "-3.88%",
-          "3Y": "+16.95%",
+          "1Y": "-3.21%",
+          "3Y": "+17.32%",
           "Fund Size(Cr)": "15,559.49"
         },
         {
           "": "",
           "Name": "Parag Parikh ELSS Tax Saver Fund Direct Growth",
-          "1Y": "-5.53%",
-          "3Y": "+12.57%",
+          "1Y": "-5.24%",
+          "3Y": "+12.85%",
           "Fund Size(Cr)": "5,617.03"
         }
       ],
@@ -2479,7 +2515,7 @@
         }
       ],
       "about_fund": {
-        "description": "Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Managemen Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 13 May 2026 is ₹430.42. The Quant ELSS Tax Saver Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. ...Read more",
+        "description": "Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Managemen Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 14 May 2026 is ₹436.67. The Quant ELSS Tax Saver Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. ...Read more",
         "investment_objective": "The scheme aims to generate capital appreciation by investing predominantly in equity shares with growth potential. The secondary objective is to give dividend and other income.",
         "benchmark": "NIFTY 500 Total Return Index"
       },
@@ -2515,15 +2551,15 @@
         },
         {
           "question": "What kind of returns does Quant ELSS Tax Saver Fund Direct Growth provide?",
-          "answer": "The Quant ELSS Tax Saver Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 10.22% since its inception."
+          "answer": "The Quant ELSS Tax Saver Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 11.39% since its inception."
         },
         {
           "question": "How much expense ratio is charged by Quant ELSS Tax Saver Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant ELSS Tax Saver Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ELSS Tax Saver Fund Direct Growth is 0.72% as of 14 May 2026..."
+          "answer": "The termExpense Ratioused for Quant ELSS Tax Saver Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ELSS Tax Saver Fund Direct Growth is 2.95% as of 15 May 2026..."
         },
         {
           "question": "What is the AUM of Quant ELSS Tax Saver Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant ELSS Tax Saver Fund Direct Growth is ₹12,505.69Cr as of 14 May 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant ELSS Tax Saver Fund Direct Growth is ₹12,505.69Cr as of 15 May 2026."
         },
         {
           "question": "How to Redeem Quant ELSS Tax Saver Fund Direct Growth?",
@@ -2535,23 +2571,23 @@
         },
         {
           "question": "What is the NAV of Quant ELSS Tax Saver Fund Direct Growth?",
-          "answer": "The NAV of Quant ELSS Tax Saver Fund Direct Growth is ₹430.42 as of 13 May 2026."
+          "answer": "The NAV of Quant ELSS Tax Saver Fund Direct Growth is ₹436.67 as of 14 May 2026."
         },
         {
           "question": "What is the PE and PB ratio of Quant ELSS Tax Saver Fund Direct Growth?",
           "answer": "ThePE ratioratio of Quant ELSS Tax Saver Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-05-14T08:13:39+0000"
+      "scraped_at": "2026-05-15T08:28:25+0000"
     },
     {
       "fund_key": "quant-large-cap-fund",
       "fund_name": "Quant Large Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/quant-large-cap-fund-direct-growth",
       "basic_info": {
-        "nav": "15.61",
-        "nav_date": "13 May '26",
-        "expense_ratio_pct": "0.53",
+        "nav": "15.87",
+        "nav_date": "14 May '26",
+        "expense_ratio_pct": "0.81",
         "min_sip": "1,000"
       },
       "fund_category_and_risk": {
@@ -2560,12 +2596,12 @@
         "risk_level": "Very High Risk"
       },
       "performance_returns": {
-        "1D": "+1.30%",
-        "1M": "+2.16%",
-        "6M": "-3.56%",
-        "1Y": "+5.13%",
-        "3Y": "+16.40%",
-        "All": "+12.58%"
+        "1D": "+1.66%",
+        "1M": "+3.86%",
+        "6M": "-2.27%",
+        "1Y": "+6.19%",
+        "3Y": "+17.03%",
+        "All": "+13.06%"
       },
       "return_calculator": {
         "monthly_investment_used": "1000",
@@ -2573,44 +2609,44 @@
           {
             "Over the past": "3 months",
             "Total investment": "₹3,000",
-            "Would've become": "₹3,072",
-            "Returns": "+2.40%"
+            "Would've become": "₹3,107",
+            "Returns": "+3.57%"
           },
           {
             "Over the past": "6 months",
             "Total investment": "₹6,000",
-            "Would've become": "₹6,047",
-            "Returns": "+0.78%"
+            "Would've become": "₹6,134",
+            "Returns": "+2.23%"
           },
           {
             "Over the past": "1 year",
             "Total investment": "₹12,000",
-            "Would've become": "₹12,037",
-            "Returns": "+0.31%"
+            "Would've become": "₹12,225",
+            "Returns": "+1.88%"
           },
           {
             "Over the past": "3 years",
             "Total investment": "₹36,000",
-            "Would've become": "₹39,503",
-            "Returns": "+9.73%"
+            "Would've become": "₹40,140",
+            "Returns": "+11.50%"
           }
         ],
         "sip_return_rates": [
           {
             "period": "3 months",
-            "return_pct": 2.4
+            "return_pct": 3.57
           },
           {
             "period": "6 months",
-            "return_pct": 0.78
+            "return_pct": 2.23
           },
           {
             "period": "1 year",
-            "return_pct": 0.31
+            "return_pct": 1.88
           },
           {
             "period": "3 years",
-            "return_pct": 9.73
+            "return_pct": 11.5
           }
         ]
       },
@@ -2822,10 +2858,10 @@
         "annualised_returns": [
           {
             "Name": "Fund returns",
-            "6M": "-3.6%",
-            "1Y": "+5.1%",
-            "3Y": "+16.4%",
-            "All": "+12.6%"
+            "6M": "-2.3%",
+            "1Y": "+6.2%",
+            "3Y": "+17.0%",
+            "All": "+13.1%"
           },
           {
             "Name": "Category average (Equity Large Cap)",
@@ -2837,7 +2873,7 @@
           {
             "Name": "Rank (Equity Large Cap)",
             "6M": "--",
-            "1Y": "29",
+            "1Y": "24",
             "3Y": "19",
             "All": "--"
           }
@@ -2860,7 +2896,7 @@
           {
             "Name": "Rank (Equity Large Cap)",
             "6M": "--",
-            "1Y": "29",
+            "1Y": "24",
             "3Y": "19",
             "All": "--"
           }
@@ -2873,36 +2909,36 @@
         {
           "": "",
           "Name": "Invesco India Largecap Fund Direct Growth",
-          "1Y": "+1.39%",
-          "3Y": "+15.90%",
+          "1Y": "+1.47%",
+          "3Y": "+16.17%",
           "Fund Size(Cr)": "1,721.89"
         },
         {
           "": "",
           "Name": "WhiteOak Capital Large Cap Fund Direct Growth",
-          "1Y": "+0.37%",
-          "3Y": "+15.36%",
+          "1Y": "+1.06%",
+          "3Y": "+15.80%",
           "Fund Size(Cr)": "1,163.57"
         },
         {
           "": "",
           "Name": "Nippon India Large Cap Fund Direct Growth",
-          "1Y": "+0.12%",
-          "3Y": "+15.34%",
+          "1Y": "+0.42%",
+          "3Y": "+15.67%",
           "Fund Size(Cr)": "51,690.28"
         },
         {
           "": "",
           "Name": "ICICI Prudential Large Cap Fund Direct Growth",
-          "1Y": "-1.89%",
-          "3Y": "+14.72%",
+          "1Y": "-1.25%",
+          "3Y": "+15.10%",
           "Fund Size(Cr)": "75,650.43"
         },
         {
           "": "",
           "Name": "DSP Large Cap Fund Direct Growth",
-          "1Y": "-3.77%",
-          "3Y": "+14.45%",
+          "1Y": "-2.54%",
+          "3Y": "+14.95%",
           "Fund Size(Cr)": "7,192.01"
         }
       ],
@@ -2957,7 +2993,7 @@
         }
       ],
       "about_fund": {
-        "description": "Quant Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Quant Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 13 May 2026 is ₹15.61. The Quant Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
+        "description": "Quant Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Quant Large Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Large Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 14 May 2026 is ₹15.87. The Quant Large Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
         "investment_objective": "The scheme seeks to generate consistent returns by investing in equity and equity related instruments falling under the category of large cap companies. The AMC will have the discretion to completely or partially invest in any of the type of securities stated above with a view to maximize the return The scheme seeks to generate consistent returns by investing in equity and equity related instruments falling under the category of large cap companies. The AMC will have the discretion to completely or partially invest in any of the type of securities stated above with a view to maximize the returns or on defensive considerations ...Read more",
         "benchmark": "NIFTY 100 Total Return Index"
       },
@@ -2993,15 +3029,15 @@
         },
         {
           "question": "What kind of returns does Quant Large Cap Fund Direct Growth provide?",
-          "answer": "The Quant Large Cap Fund Direct Growth has been there from 11 Aug 2022 and the average annual returns provided by this fund is 5.13% since its inception."
+          "answer": "The Quant Large Cap Fund Direct Growth has been there from 11 Aug 2022 and the average annual returns provided by this fund is 6.19% since its inception."
         },
         {
           "question": "How much expense ratio is charged by Quant Large Cap Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Large Cap Fund Direct Growth is 0.53% as of 14 May 2026..."
+          "answer": "The termExpense Ratioused for Quant Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Large Cap Fund Direct Growth is 0.81% as of 15 May 2026..."
         },
         {
           "question": "What is the AUM of Quant Large Cap Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant Large Cap Fund Direct Growth is ₹3,112.33Cr as of 14 May 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant Large Cap Fund Direct Growth is ₹3,112.33Cr as of 15 May 2026."
         },
         {
           "question": "How to Redeem Quant Large Cap Fund Direct Growth?",
@@ -3013,23 +3049,23 @@
         },
         {
           "question": "What is the NAV of Quant Large Cap Fund Direct Growth?",
-          "answer": "The NAV of Quant Large Cap Fund Direct Growth is ₹15.61 as of 13 May 2026."
+          "answer": "The NAV of Quant Large Cap Fund Direct Growth is ₹15.87 as of 14 May 2026."
         },
         {
           "question": "What is the PE and PB ratio of Quant Large Cap Fund Direct Growth?",
           "answer": "ThePE ratioratio of Quant Large Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-05-14T08:13:39+0000"
+      "scraped_at": "2026-05-15T08:28:25+0000"
     },
     {
       "fund_key": "quant-esg-integration-strategy-fund",
       "fund_name": "Quant ESG Integration Strategy Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/quant-esg-integration-strategy-fund-direct-growth",
       "basic_info": {
-        "nav": "38.40",
-        "nav_date": "13 May '26",
-        "expense_ratio_pct": "1.00",
+        "nav": "39.01",
+        "nav_date": "14 May '26",
+        "expense_ratio_pct": "0.93",
         "min_sip": "1,000"
       },
       "fund_category_and_risk": {
@@ -3038,13 +3074,13 @@
         "risk_level": "Very High Risk"
       },
       "performance_returns": {
-        "1D": "+1.55%",
-        "1M": "+11.43%",
-        "6M": "+5.27%",
-        "1Y": "+12.89%",
-        "3Y": "+19.85%",
-        "5Y": "+20.82%",
-        "All": "+27.60%"
+        "1D": "+1.57%",
+        "1M": "+13.18%",
+        "6M": "+6.52%",
+        "1Y": "+13.92%",
+        "3Y": "+20.46%",
+        "5Y": "+21.39%",
+        "All": "+27.95%"
       },
       "return_calculator": {
         "monthly_investment_used": "1000",
@@ -3052,44 +3088,44 @@
           {
             "Over the past": "6 months",
             "Total investment": "₹6,000",
-            "Would've become": "₹6,501",
-            "Returns": "+8.35%"
+            "Would've become": "₹6,584",
+            "Returns": "+9.73%"
           },
           {
             "Over the past": "1 year",
             "Total investment": "₹12,000",
-            "Would've become": "₹13,060",
-            "Returns": "+8.83%"
+            "Would've become": "₹13,246",
+            "Returns": "+10.38%"
           },
           {
             "Over the past": "3 years",
             "Total investment": "₹36,000",
-            "Would've become": "₹42,664",
-            "Returns": "+18.51%"
+            "Would've become": "₹43,307",
+            "Returns": "+20.30%"
           },
           {
             "Over the past": "5 years",
             "Total investment": "₹60,000",
-            "Would've become": "₹89,082",
-            "Returns": "+48.47%"
+            "Would've become": "₹90,427",
+            "Returns": "+50.71%"
           }
         ],
         "sip_return_rates": [
           {
             "period": "6 months",
-            "return_pct": 8.35
+            "return_pct": 9.73
           },
           {
             "period": "1 year",
-            "return_pct": 8.83
+            "return_pct": 10.38
           },
           {
             "period": "3 years",
-            "return_pct": 18.51
+            "return_pct": 20.3
           },
           {
             "period": "5 years",
-            "return_pct": 48.47
+            "return_pct": 50.71
           }
         ]
       },
@@ -3315,10 +3351,10 @@
         "annualised_returns": [
           {
             "Name": "Fund returns",
-            "1Y": "+12.9%",
-            "3Y": "+19.9%",
-            "5Y": "+20.8%",
-            "All": "+27.6%"
+            "1Y": "+13.9%",
+            "3Y": "+20.5%",
+            "5Y": "+21.4%",
+            "All": "+27.9%"
           },
           {
             "Name": "Category average (Equity Thematic)",
@@ -3408,7 +3444,7 @@
         }
       ],
       "about_fund": {
-        "description": "Quant ESG Integration Strategy Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sameer Kate is the Current Fund Manager of Quant ESG Integration Strategy Fund Direct Growth fund. The fund currently has an Ass Quant ESG Integration Strategy Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sameer Kate is the Current Fund Manager of Quant ESG Integration Strategy Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 13 May 2026 is ₹38.40. The Quant ESG Integration Strategy Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
+        "description": "Quant ESG Integration Strategy Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sameer Kate is the Current Fund Manager of Quant ESG Integration Strategy Fund Direct Growth fund. The fund currently has an Ass Quant ESG Integration Strategy Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Sameer Kate is the Current Fund Manager of Quant ESG Integration Strategy Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 14 May 2026 is ₹39.01. The Quant ESG Integration Strategy Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
         "investment_objective": "The scheme seeks to generate long term capital appreciation by investing in a diversified portfolio of companies demonstrating sustainable practices across Environmental, Social and Governance (ESG) parameters.",
         "benchmark": "NIFTY 100 ESG Total Return Index"
       },
@@ -3444,15 +3480,15 @@
         },
         {
           "question": "What kind of returns does Quant ESG Integration Strategy Fund Direct Growth provide?",
-          "answer": "The Quant ESG Integration Strategy Fund Direct Growth has been there from 05 Nov 2020 and the average annual returns provided by this fund is 12.89% since its inception."
+          "answer": "The Quant ESG Integration Strategy Fund Direct Growth has been there from 05 Nov 2020 and the average annual returns provided by this fund is 13.92% since its inception."
         },
         {
           "question": "How much expense ratio is charged by Quant ESG Integration Strategy Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant ESG Integration Strategy Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ESG Integration Strategy Fund Direct Growth is 1.00% as of 14 May 2026..."
+          "answer": "The termExpense Ratioused for Quant ESG Integration Strategy Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ESG Integration Strategy Fund Direct Growth is 0.93% as of 15 May 2026..."
         },
         {
           "question": "What is the AUM of Quant ESG Integration Strategy Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant ESG Integration Strategy Fund Direct Growth is ₹264.40Cr as of 14 May 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant ESG Integration Strategy Fund Direct Growth is ₹264.40Cr as of 15 May 2026."
         },
         {
           "question": "How to Redeem Quant ESG Integration Strategy Fund Direct Growth?",
@@ -3464,23 +3500,23 @@
         },
         {
           "question": "What is the NAV of Quant ESG Integration Strategy Fund Direct Growth?",
-          "answer": "The NAV of Quant ESG Integration Strategy Fund Direct Growth is ₹38.40 as of 13 May 2026."
+          "answer": "The NAV of Quant ESG Integration Strategy Fund Direct Growth is ₹39.01 as of 14 May 2026."
         },
         {
           "question": "What is the PE and PB ratio of Quant ESG Integration Strategy Fund Direct Growth?",
           "answer": "ThePE ratioratio of Quant ESG Integration Strategy Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-05-14T08:13:39+0000"
+      "scraped_at": "2026-05-15T08:28:25+0000"
     },
     {
       "fund_key": "quant-mid-cap-fund",
       "fund_name": "Quant Mid Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/quant-mid-cap-fund-direct-growth",
       "basic_info": {
-        "nav": "240.07",
-        "nav_date": "13 May '26",
-        "expense_ratio_pct": "0.74",
+        "nav": "243.53",
+        "nav_date": "14 May '26",
+        "expense_ratio_pct": "0.82",
         "min_sip": "1,000"
       },
       "fund_category_and_risk": {
@@ -3489,14 +3525,14 @@
         "risk_level": "Very High Risk"
       },
       "performance_returns": {
-        "1D": "+0.81%",
-        "1M": "+5.77%",
-        "6M": "-0.25%",
-        "1Y": "+0.28%",
-        "3Y": "+18.17%",
-        "5Y": "+18.17%",
-        "10Y": "+17.91%",
-        "All": "+16.68%"
+        "1D": "+1.44%",
+        "1M": "+7.29%",
+        "6M": "+1.41%",
+        "1Y": "+0.29%",
+        "3Y": "+18.71%",
+        "5Y": "+19.02%",
+        "10Y": "+18.07%",
+        "All": "+16.80%"
       },
       "return_calculator": {
         "monthly_investment_used": "1000",
@@ -3504,44 +3540,44 @@
           {
             "Over the past": "1 year",
             "Total investment": "₹12,000",
-            "Would've become": "₹12,356",
-            "Returns": "+2.97%"
+            "Would've become": "₹12,521",
+            "Returns": "+4.34%"
           },
           {
             "Over the past": "3 years",
             "Total investment": "₹36,000",
-            "Would've become": "₹38,916",
-            "Returns": "+8.10%"
+            "Would've become": "₹39,459",
+            "Returns": "+9.61%"
           },
           {
             "Over the past": "5 years",
             "Total investment": "₹60,000",
-            "Would've become": "₹83,062",
-            "Returns": "+38.44%"
+            "Would've become": "₹84,214",
+            "Returns": "+40.36%"
           },
           {
             "Over the past": "10 years",
             "Total investment": "₹1,20,000",
-            "Would've become": "₹3,41,132",
-            "Returns": "+184.28%"
+            "Would've become": "₹3,45,843",
+            "Returns": "+188.20%"
           }
         ],
         "sip_return_rates": [
           {
             "period": "1 year",
-            "return_pct": 2.97
+            "return_pct": 4.34
           },
           {
             "period": "3 years",
-            "return_pct": 8.1
+            "return_pct": 9.61
           },
           {
             "period": "5 years",
-            "return_pct": 38.44
+            "return_pct": 40.36
           },
           {
             "period": "10 years",
-            "return_pct": 184.28
+            "return_pct": 188.2
           }
         ]
       },
@@ -3811,10 +3847,10 @@
         "annualised_returns": [
           {
             "Name": "Fund returns",
-            "3Y": "+18.2%",
-            "5Y": "+18.2%",
-            "10Y": "+17.9%",
-            "All": "+16.7%"
+            "3Y": "+18.7%",
+            "5Y": "+19.0%",
+            "10Y": "+18.1%",
+            "All": "+16.8%"
           },
           {
             "Name": "Category average (Equity Mid Cap)",
@@ -3862,36 +3898,36 @@
         {
           "": "",
           "Name": "WhiteOak Capital Mid Cap Fund Direct Growth",
-          "1Y": "+14.28%",
-          "3Y": "+27.05%",
+          "1Y": "+14.37%",
+          "3Y": "+27.45%",
           "Fund Size(Cr)": "5,293.04"
         },
         {
           "": "",
           "Name": "Edelweiss Mid Cap Direct Plan Growth",
-          "1Y": "+10.01%",
-          "3Y": "+25.74%",
+          "1Y": "+10.04%",
+          "3Y": "+26.22%",
           "Fund Size(Cr)": "15,910.69"
         },
         {
           "": "",
           "Name": "Nippon India Growth Mid Cap Fund Direct Growth",
-          "1Y": "+10.94%",
-          "3Y": "+25.29%",
+          "1Y": "+11.36%",
+          "3Y": "+25.81%",
           "Fund Size(Cr)": "45,820.33"
         },
         {
           "": "",
           "Name": "Sundaram Mid Cap Fund Direct Growth",
-          "1Y": "+9.71%",
-          "3Y": "+23.99%",
+          "1Y": "+9.35%",
+          "3Y": "+24.28%",
           "Fund Size(Cr)": "13,378.01"
         },
         {
           "": "",
           "Name": "HDFC Mid Cap Fund Direct Growth",
-          "1Y": "+8.35%",
-          "3Y": "+23.43%",
+          "1Y": "+8.04%",
+          "3Y": "+23.82%",
           "Fund Size(Cr)": "94,744.72"
         }
       ],
@@ -3940,7 +3976,7 @@
         }
       ],
       "about_fund": {
-        "description": "Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94, Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 13 May 2026 is ₹240.07. The Quant Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 0.50% if redeemed within 3 months. ...Read more",
+        "description": "Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94, Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 14 May 2026 is ₹243.53. The Quant Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 0.50% if redeemed within 3 months. ...Read more",
         "investment_objective": "The scheme aims at providing long term capital appreciation and generating income with a diversified portfolio of Mid Cap companies.",
         "benchmark": "NIFTY Midcap 150 Total Return Index"
       },
@@ -3976,15 +4012,15 @@
         },
         {
           "question": "What kind of returns does Quant Mid Cap Fund Direct Growth provide?",
-          "answer": "The Quant Mid Cap Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 0.28% since its inception."
+          "answer": "The Quant Mid Cap Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 0.29% since its inception."
         },
         {
           "question": "How much expense ratio is charged by Quant Mid Cap Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 0.74% as of 14 May 2026..."
+          "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 0.82% as of 15 May 2026..."
         },
         {
           "question": "What is the AUM of Quant Mid Cap Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹7,904.71Cr as of 14 May 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹7,904.71Cr as of 15 May 2026."
         },
         {
           "question": "How to Redeem Quant Mid Cap Fund Direct Growth?",
@@ -3996,23 +4032,23 @@
         },
         {
           "question": "What is the NAV of Quant Mid Cap Fund Direct Growth?",
-          "answer": "The NAV of Quant Mid Cap Fund Direct Growth is ₹240.07 as of 13 May 2026."
+          "answer": "The NAV of Quant Mid Cap Fund Direct Growth is ₹243.53 as of 14 May 2026."
         },
         {
           "question": "What is the PE and PB ratio of Quant Mid Cap Fund Direct Growth?",
           "answer": "ThePE ratioratio of Quant Mid Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-05-14T08:13:39+0000"
+      "scraped_at": "2026-05-15T08:28:25+0000"
     },
     {
       "fund_key": "quant-multi-cap-fund",
       "fund_name": "Quant Multi Cap Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/quant-multi-cap-fund-direct-growth",
       "basic_info": {
-        "nav": "687.95",
-        "nav_date": "13 May '26",
-        "expense_ratio_pct": "0.68",
+        "nav": "696.19",
+        "nav_date": "14 May '26",
+        "expense_ratio_pct": "0.70",
         "min_sip": "1,000"
       },
       "fund_category_and_risk": {
@@ -4021,14 +4057,14 @@
         "risk_level": "Very High Risk"
       },
       "performance_returns": {
-        "1D": "+1.03%",
-        "1M": "+6.15%",
-        "6M": "+0.16%",
-        "1Y": "+4.02%",
-        "3Y": "+13.81%",
-        "5Y": "+13.85%",
-        "10Y": "+18.14%",
-        "All": "+18.18%"
+        "1D": "+1.20%",
+        "1M": "+7.42%",
+        "6M": "+1.30%",
+        "1Y": "+4.69%",
+        "3Y": "+14.25%",
+        "5Y": "+14.44%",
+        "10Y": "+18.27%",
+        "All": "+18.29%"
       },
       "return_calculator": {
         "monthly_investment_used": "1000",
@@ -4036,221 +4072,209 @@
           {
             "Over the past": "1 year",
             "Total investment": "₹12,000",
-            "Would've become": "₹12,450",
-            "Returns": "+3.75%"
+            "Would've become": "₹12,587",
+            "Returns": "+4.89%"
           },
           {
             "Over the past": "3 years",
             "Total investment": "₹36,000",
-            "Would've become": "₹38,546",
-            "Returns": "+7.07%"
+            "Would've become": "₹38,993",
+            "Returns": "+8.31%"
           },
           {
             "Over the past": "5 years",
             "Total investment": "₹60,000",
-            "Would've become": "₹76,576",
-            "Returns": "+27.63%"
+            "Would've become": "₹77,462",
+            "Returns": "+29.10%"
           },
           {
             "Over the past": "10 years",
             "Total investment": "₹1,20,000",
-            "Would've become": "₹3,10,188",
-            "Returns": "+158.49%"
+            "Would've become": "₹3,13,738",
+            "Returns": "+161.45%"
           }
         ],
         "sip_return_rates": [
           {
             "period": "1 year",
-            "return_pct": 3.75
+            "return_pct": 4.89
           },
           {
             "period": "3 years",
-            "return_pct": 7.07
+            "return_pct": 8.31
           },
           {
             "period": "5 years",
-            "return_pct": 27.63
+            "return_pct": 29.1
           },
           {
             "period": "10 years",
-            "return_pct": 158.49
+            "return_pct": 161.45
           }
         ]
       },
       "holdings": [
         {
-          "Name": "Aurobindo Pharma Ltd.",
-          "Sector": "Healthcare",
-          "Instruments": "Equity",
-          "Assets": "8.52%"
-        },
-        {
           "Name": "Adani Power Ltd.",
           "Sector": "Energy",
           "Instruments": "Equity",
-          "Assets": "6.64%"
+          "Assets": "8.63%"
+        },
+        {
+          "Name": "Aurobindo Pharma Ltd.",
+          "Sector": "Healthcare",
+          "Instruments": "Equity",
+          "Assets": "7.99%"
         },
         {
           "Name": "Nifty MidCap Select Index",
           "Sector": "Financial",
           "Instruments": "ID",
-          "Assets": "4.67%"
+          "Assets": "7.64%"
         },
         {
           "Name": "ICICI Bank Ltd.",
           "Sector": "Financial",
           "Instruments": "Equity",
-          "Assets": "4.65%"
+          "Assets": "4.85%"
         },
         {
-          "Name": "HDFC Bank Ltd.",
+          "Name": "ICICI Bank Ltd.",
           "Sector": "Financial",
           "Instruments": "Futures",
-          "Assets": "3.53%"
-        },
-        {
-          "Name": "Reliance Industries Ltd.",
-          "Sector": "Energy",
-          "Instruments": "Equity",
-          "Assets": "3.36%"
+          "Assets": "4.03%"
         },
         {
           "Name": "Adani Enterprises Ltd.",
           "Sector": "Services",
           "Instruments": "Equity",
-          "Assets": "3.20%"
-        },
-        {
-          "Name": "IRB Infrastructure Developers Ltd.",
-          "Sector": "Construction",
-          "Instruments": "Equity",
-          "Assets": "3.04%"
-        },
-        {
-          "Name": "Swan Corp Ltd.",
-          "Sector": "Construction",
-          "Instruments": "Equity",
-          "Assets": "2.98%"
-        },
-        {
-          "Name": "HDFC Bank Ltd.",
-          "Sector": "Financial",
-          "Instruments": "Equity",
-          "Assets": "2.86%"
-        },
-        {
-          "Name": "Sun TV Network Ltd.",
-          "Sector": "Services",
-          "Instruments": "Equity",
-          "Assets": "2.81%"
-        },
-        {
-          "Name": "Samvardhana Motherson International Ltd.",
-          "Sector": "Automobile",
-          "Instruments": "Equity",
-          "Assets": "2.79%"
+          "Assets": "3.86%"
         },
         {
           "Name": "Adani Green Energy Ltd.",
           "Sector": "Capital Goods",
           "Instruments": "Equity",
-          "Assets": "2.79%"
+          "Assets": "3.73%"
+        },
+        {
+          "Name": "Reliance Industries Ltd.",
+          "Sector": "Energy",
+          "Instruments": "Equity",
+          "Assets": "3.15%"
+        },
+        {
+          "Name": "Swan Corp Ltd.",
+          "Sector": "Construction",
+          "Instruments": "Equity",
+          "Assets": "2.93%"
+        },
+        {
+          "Name": "Samvardhana Motherson International Ltd.",
+          "Sector": "Automobile",
+          "Instruments": "Equity",
+          "Assets": "2.84%"
+        },
+        {
+          "Name": "Sun TV Network Ltd.",
+          "Sector": "Services",
+          "Instruments": "Equity",
+          "Assets": "2.65%"
+        },
+        {
+          "Name": "IRB Infrastructure Developers Ltd.",
+          "Sector": "Construction",
+          "Instruments": "Equity",
+          "Assets": "2.60%"
         },
         {
           "Name": "AWL Agri Business Ltd.",
           "Sector": "Consumer Staples",
           "Instruments": "Equity",
-          "Assets": "2.41%"
-        },
-        {
-          "Name": "Kotak Mahindra Bank Ltd.",
-          "Sector": "Financial",
-          "Instruments": "Futures",
-          "Assets": "2.14%"
+          "Assets": "2.35%"
         },
         {
           "Name": "LIC Housing Finance Ltd.",
           "Sector": "Financial",
           "Instruments": "Equity",
-          "Assets": "2.09%"
+          "Assets": "2.07%"
         },
         {
-          "Name": "Strides Pharma Science Ltd.",
-          "Sector": "Healthcare",
-          "Instruments": "Equity",
-          "Assets": "2.03%"
+          "Name": "Kotak Mahindra Bank Ltd.",
+          "Sector": "Financial",
+          "Instruments": "Futures",
+          "Assets": "2.05%"
         },
         {
           "Name": "Crisil Ltd.",
           "Sector": "Services",
           "Instruments": "Equity",
-          "Assets": "2.00%"
+          "Assets": "2.01%"
+        },
+        {
+          "Name": "Strides Pharma Science Ltd.",
+          "Sector": "Healthcare",
+          "Instruments": "Equity",
+          "Assets": "1.97%"
         },
         {
           "Name": "K.P.R. Mill Ltd.",
           "Sector": "Textiles",
           "Instruments": "Equity",
-          "Assets": "1.66%"
+          "Assets": "1.65%"
         },
         {
-          "Name": "Oracle Financial Services Software Ltd.",
-          "Sector": "Technology",
+          "Name": "Reliance Industries Ltd.",
+          "Sector": "Energy",
           "Instruments": "Futures",
-          "Assets": "1.51%"
-        },
-        {
-          "Name": "Bajaj Auto Ltd.",
-          "Sector": "Automobile",
-          "Instruments": "Equity",
-          "Assets": "1.51%"
-        },
-        {
-          "Name": "Aurobindo Pharma Ltd.",
-          "Sector": "Healthcare",
-          "Instruments": "Futures",
-          "Assets": "1.50%"
-        },
-        {
-          "Name": "Bharti Airtel Ltd.",
-          "Sector": "Communication",
-          "Instruments": "Equity",
           "Assets": "1.48%"
         },
         {
           "Name": "PB Fintech Ltd.",
           "Sector": "Services",
           "Instruments": "Equity",
-          "Assets": "1.42%"
+          "Assets": "1.46%"
         },
         {
           "Name": "Aditya Birla Lifestyle Brands Ltd.",
           "Sector": "Services",
           "Instruments": "Equity",
-          "Assets": "1.41%"
+          "Assets": "1.44%"
         },
         {
           "Name": "Embassy Developments Ltd.",
           "Sector": "Construction",
           "Instruments": "Equity",
-          "Assets": "1.37%"
+          "Assets": "1.42%"
         },
         {
-          "Name": "Premier Energies Ltd.",
-          "Sector": "Energy",
-          "Instruments": "Equity",
-          "Assets": "1.29%"
+          "Name": "Aurobindo Pharma Ltd.",
+          "Sector": "Healthcare",
+          "Instruments": "Futures",
+          "Assets": "1.41%"
         },
         {
           "Name": "Gujarat State Fertilizers & Chemicals Ltd.",
           "Sector": "Chemicals",
           "Instruments": "Equity",
-          "Assets": "1.28%"
+          "Assets": "1.37%"
         },
         {
           "Name": "Honda India Power Products Ltd.",
           "Sector": "Capital Goods",
           "Instruments": "Equity",
-          "Assets": "1.21%"
+          "Assets": "1.34%"
+        },
+        {
+          "Name": "Premier Energies Ltd.",
+          "Sector": "Energy",
+          "Instruments": "Equity",
+          "Assets": "1.30%"
+        },
+        {
+          "Name": "Lloyds Metals & Energy Ltd.",
+          "Sector": "Metals & Mining",
+          "Instruments": "Equity",
+          "Assets": "1.24%"
         },
         {
           "Name": "Maharashtra Seamless Ltd.",
@@ -4259,34 +4283,46 @@
           "Assets": "1.18%"
         },
         {
-          "Name": "Reserve Bank of India",
-          "Sector": "Financial",
-          "Instruments": "T-Bills",
-          "Assets": "1.13%"
-        },
-        {
-          "Name": "JSW Infrastructure Ltd.",
-          "Sector": "Services",
+          "Name": "Rossell Techsys Ltd.",
+          "Sector": "Capital Goods",
           "Instruments": "Equity",
-          "Assets": "1.09%"
+          "Assets": "1.18%"
         },
         {
           "Name": "Zydus Wellness Ltd.",
           "Sector": "Consumer Staples",
           "Instruments": "Equity",
-          "Assets": "1.09%"
+          "Assets": "1.14%"
         },
         {
           "Name": "NMDC Ltd.",
           "Sector": "Metals & Mining",
           "Instruments": "Equity",
-          "Assets": "1.05%"
+          "Assets": "1.10%"
+        },
+        {
+          "Name": "JSW Infrastructure Ltd.",
+          "Sector": "Services",
+          "Instruments": "Equity",
+          "Assets": "1.08%"
         },
         {
           "Name": "Tata Communications Ltd.",
           "Sector": "Communication",
           "Instruments": "Equity",
-          "Assets": "1.02%"
+          "Assets": "1.06%"
+        },
+        {
+          "Name": "Reserve Bank of India",
+          "Sector": "Financial",
+          "Instruments": "T-Bills",
+          "Assets": "1.00%"
+        },
+        {
+          "Name": "Dixon Technologies (India) Ltd.",
+          "Sector": "Capital Goods",
+          "Instruments": "Futures",
+          "Assets": "0.97%"
         },
         {
           "Name": "Century Enka Ltd.",
@@ -4298,77 +4334,59 @@
           "Name": "Juniper Hotels Ltd.",
           "Sector": "Services",
           "Instruments": "Equity",
-          "Assets": "0.93%"
-        },
-        {
-          "Name": "Rossell Techsys Ltd.",
-          "Sector": "Capital Goods",
-          "Instruments": "Equity",
-          "Assets": "0.91%"
-        },
-        {
-          "Name": "Lloyds Metals & Energy Ltd.",
-          "Sector": "Metals & Mining",
-          "Instruments": "Equity",
-          "Assets": "0.85%"
-        },
-        {
-          "Name": "Reserve Bank of India",
-          "Sector": "Financial",
-          "Instruments": "T-Bills",
-          "Assets": "0.83%"
-        },
-        {
-          "Name": "Reserve Bank of India",
-          "Sector": "Financial",
-          "Instruments": "T-Bills",
-          "Assets": "0.75%"
+          "Assets": "0.88%"
         },
         {
           "Name": "NCC Ltd.",
           "Sector": "Construction",
           "Instruments": "Equity",
-          "Assets": "0.72%"
+          "Assets": "0.79%"
         },
         {
           "Name": "Reserve Bank of India",
           "Sector": "Financial",
           "Instruments": "T-Bills",
-          "Assets": "0.53%"
-        },
-        {
-          "Name": "Aditya Birla Fashion and Retail Ltd.",
-          "Sector": "Services",
-          "Instruments": "Equity",
-          "Assets": "0.52%"
-        },
-        {
-          "Name": "Dabur India Ltd.",
-          "Sector": "Consumer Staples",
-          "Instruments": "Futures",
-          "Assets": "0.49%"
-        },
-        {
-          "Name": "Poly Medicure Ltd.",
-          "Sector": "Healthcare",
-          "Instruments": "Equity",
-          "Assets": "0.48%"
+          "Assets": "0.67%"
         },
         {
           "Name": "Welspun Corp Ltd.",
           "Sector": "Metals & Mining",
           "Instruments": "Equity",
-          "Assets": "0.46%"
+          "Assets": "0.64%"
+        },
+        {
+          "Name": "Aditya Birla Fashion and Retail Ltd.",
+          "Sector": "Services",
+          "Instruments": "Equity",
+          "Assets": "0.54%"
+        },
+        {
+          "Name": "HFCL Ltd.",
+          "Sector": "Communication",
+          "Instruments": "Equity",
+          "Assets": "0.54%"
+        },
+        {
+          "Name": "Poly Medicure Ltd.",
+          "Sector": "Healthcare",
+          "Instruments": "Equity",
+          "Assets": "0.54%"
         },
         {
           "Name": "Reserve Bank of India",
           "Sector": "Financial",
           "Instruments": "T-Bills",
-          "Assets": "0.45%"
+          "Assets": "0.47%"
         },
         {
-          "Name": "ICICI Prudential Life Insurance Company Ltd.",
-          "Sector": "Insurance",
+          "Name": "Nippon Life India Asset Management Ltd.",
+          "Sector": "Financial",
+          "Instruments": "Equity",
+          "Assets": "0.44%"
+        },
+        {
+          "Name": "Tata Chemicals Ltd.",
+          "Sector": "Chemicals",
           "Instruments": "Equity",
           "Assets": "0.44%"
         },
@@ -4379,46 +4397,52 @@
           "Assets": "0.42%"
         },
         {
-          "Name": "Nippon Life India Asset Management Ltd.",
+          "Name": "Reserve Bank of India",
           "Sector": "Financial",
-          "Instruments": "Equity",
+          "Instruments": "T-Bills",
           "Assets": "0.40%"
         },
         {
-          "Name": "Pfizer Ltd.",
-          "Sector": "Healthcare",
+          "Name": "ICICI Prudential Life Insurance Company Ltd.",
+          "Sector": "Insurance",
           "Instruments": "Equity",
-          "Assets": "0.39%"
-        },
-        {
-          "Name": "Reserve Bank of India",
-          "Sector": "Financial",
-          "Instruments": "T-Bills",
-          "Assets": "0.38%"
-        },
-        {
-          "Name": "Reserve Bank of India",
-          "Sector": "Financial",
-          "Instruments": "T-Bills",
-          "Assets": "0.38%"
-        },
-        {
-          "Name": "Reserve Bank of India",
-          "Sector": "Financial",
-          "Instruments": "T-Bills",
-          "Assets": "0.38%"
-        },
-        {
-          "Name": "HFCL Ltd.",
-          "Sector": "Communication",
-          "Instruments": "Equity",
-          "Assets": "0.36%"
+          "Assets": "0.40%"
         },
         {
           "Name": "Indo Count Industries Ltd.",
           "Sector": "Textiles",
           "Instruments": "Equity",
-          "Assets": "0.35%"
+          "Assets": "0.34%"
+        },
+        {
+          "Name": "Pfizer Ltd.",
+          "Sector": "Healthcare",
+          "Instruments": "Equity",
+          "Assets": "0.34%"
+        },
+        {
+          "Name": "Reserve Bank of India",
+          "Sector": "Financial",
+          "Instruments": "T-Bills",
+          "Assets": "0.33%"
+        },
+        {
+          "Name": "Reserve Bank of India",
+          "Sector": "Financial",
+          "Instruments": "T-Bills",
+          "Assets": "0.33%"
+        },
+        {
+          "Name": "Reserve Bank of India",
+          "Sector": "Financial",
+          "Instruments": "T-Bills",
+          "Assets": "0.33%"
+        },
+        {
+          "Name": "Reserve Bank of India",
+          "Sector": "Financial",
+          "Instruments": "T-Bills",
+          "Assets": "0.33%"
         },
         {
           "Name": "3M India Ltd.",
@@ -4430,25 +4454,19 @@
           "Name": "Quant Healthcare Fund Direct - Growth",
           "Sector": "--",
           "Instruments": "Mutual Fund",
-          "Assets": "0.33%"
+          "Assets": "0.31%"
         },
         {
-          "Name": "Reserve Bank of India",
+          "Name": "RBL Bank Ltd.",
           "Sector": "Financial",
-          "Instruments": "T-Bills",
-          "Assets": "0.30%"
-        },
-        {
-          "Name": "ICICI Prudential Life Insurance Company Ltd.",
-          "Sector": "Insurance",
           "Instruments": "Futures",
-          "Assets": "0.28%"
+          "Assets": "0.22%"
         },
         {
           "Name": "Digitide Solutions Ltd.",
           "Sector": "Services",
           "Instruments": "Equity",
-          "Assets": "0.16%"
+          "Assets": "0.19%"
         },
         {
           "Name": "ICICI Prudential Asset Management Company Ltd.",
@@ -4457,8 +4475,20 @@
           "Assets": "0.09%"
         },
         {
+          "Name": "Lancer Containers Lines Ltd.",
+          "Sector": "Services",
+          "Instruments": "Equity",
+          "Assets": "0.08%"
+        },
+        {
           "Name": "Larsen & Toubro Ltd.",
           "Sector": "Construction",
+          "Instruments": "Equity",
+          "Assets": "0.07%"
+        },
+        {
+          "Name": "Rossell India Ltd.",
+          "Sector": "Consumer Staples",
           "Instruments": "Equity",
           "Assets": "0.07%"
         },
@@ -4467,18 +4497,6 @@
           "Sector": "Services",
           "Instruments": "Equity",
           "Assets": "0.07%"
-        },
-        {
-          "Name": "Lancer Containers Lines Ltd.",
-          "Sector": "Services",
-          "Instruments": "Equity",
-          "Assets": "0.07%"
-        },
-        {
-          "Name": "Rossell India Ltd.",
-          "Sector": "Consumer Staples",
-          "Instruments": "Equity",
-          "Assets": "0.06%"
         },
         {
           "Name": "Life Insurance Corporation of India",
@@ -4525,6 +4543,10 @@
             "percentage": 9.46
           },
           {
+            "sector": "Others",
+            "percentage": 7.96
+          },
+          {
             "sector": "Consumer Staples",
             "percentage": 3.74
           },
@@ -4551,10 +4573,10 @@
         "annualised_returns": [
           {
             "Name": "Fund returns",
-            "3Y": "+13.8%",
-            "5Y": "+13.8%",
-            "10Y": "+18.1%",
-            "All": "+18.2%"
+            "3Y": "+14.3%",
+            "5Y": "+14.4%",
+            "10Y": "+18.3%",
+            "All": "+18.3%"
           },
           {
             "Name": "Category average (Equity Multi Cap)",
@@ -4602,36 +4624,36 @@
         {
           "": "",
           "Name": "Kotak Multicap Fund Direct Growth",
-          "1Y": "+8.50%",
-          "3Y": "+22.84%",
+          "1Y": "+8.86%",
+          "3Y": "+23.29%",
           "Fund Size(Cr)": "25,768.71"
         },
         {
           "": "",
           "Name": "HSBC Multi Cap Fund Direct Growth",
-          "1Y": "+7.70%",
-          "3Y": "+22.58%",
+          "1Y": "+8.13%",
+          "3Y": "+23.06%",
           "Fund Size(Cr)": "5,500.08"
         },
         {
           "": "",
           "Name": "Mahindra Manulife Multi Cap Fund Direct Growth",
-          "1Y": "+9.47%",
-          "3Y": "+21.51%",
+          "1Y": "+9.57%",
+          "3Y": "+21.96%",
           "Fund Size(Cr)": "6,438.60"
         },
         {
           "": "",
           "Name": "ICICI Prudential Multicap Fund Direct Plan Growth",
-          "1Y": "+8.17%",
-          "3Y": "+20.44%",
+          "1Y": "+8.35%",
+          "3Y": "+20.80%",
           "Fund Size(Cr)": "16,997.42"
         },
         {
           "": "",
           "Name": "Nippon India Multi Cap Fund Direct Growth",
-          "1Y": "+4.52%",
-          "3Y": "+19.57%",
+          "1Y": "+4.44%",
+          "3Y": "+19.89%",
           "Fund Size(Cr)": "52,634.04"
         }
       ],
@@ -4686,7 +4708,7 @@
         }
       ],
       "about_fund": {
-        "description": "Quant Multi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Multi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Quant Multi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Multi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 13 May 2026 is ₹687.95. The Quant Multi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
+        "description": "Quant Multi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Multi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Quant Multi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Multi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 14 May 2026 is ₹696.19. The Quant Multi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
         "investment_objective": "The scheme aims at providing long term capital appreciation and generating income with a diversified portfolio of Large Cap, Mid Cap and Small Cap companies.",
         "benchmark": "Nifty 500 Multicap 50:25:25 Total Return Index"
       },
@@ -4701,8 +4723,8 @@
         "address": "6th Floor, Sea Breeze Building,Appa Saheb Marathe Marg,Prabhadevi, Mumbai 400025"
       },
       "advanced_ratios": {
-        "top_5": "28%",
-        "top_20": "66%",
+        "top_5": "33%",
+        "top_20": "70%",
         "pe_ratio": 24.04,
         "pb_ratio": 2.44,
         "alpha": -3.71,
@@ -4722,15 +4744,15 @@
         },
         {
           "question": "What kind of returns does Quant Multi Cap Fund Direct Growth provide?",
-          "answer": "The Quant Multi Cap Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 4.02% since its inception."
+          "answer": "The Quant Multi Cap Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 4.69% since its inception."
         },
         {
           "question": "How much expense ratio is charged by Quant Multi Cap Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant Multi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Multi Cap Fund Direct Growth is 0.68% as of 14 May 2026..."
+          "answer": "The termExpense Ratioused for Quant Multi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Multi Cap Fund Direct Growth is 0.70% as of 15 May 2026..."
         },
         {
           "question": "What is the AUM of Quant Multi Cap Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant Multi Cap Fund Direct Growth is ₹7,466.00Cr as of 14 May 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant Multi Cap Fund Direct Growth is ₹7,466.00Cr as of 15 May 2026."
         },
         {
           "question": "How to Redeem Quant Multi Cap Fund Direct Growth?",
@@ -4742,23 +4764,23 @@
         },
         {
           "question": "What is the NAV of Quant Multi Cap Fund Direct Growth?",
-          "answer": "The NAV of Quant Multi Cap Fund Direct Growth is ₹687.95 as of 13 May 2026."
+          "answer": "The NAV of Quant Multi Cap Fund Direct Growth is ₹696.19 as of 14 May 2026."
         },
         {
           "question": "What is the PE and PB ratio of Quant Multi Cap Fund Direct Growth?",
           "answer": "ThePE ratioratio of Quant Multi Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-05-14T08:13:39+0000"
+      "scraped_at": "2026-05-15T08:28:25+0000"
     },
     {
       "fund_key": "quant-aggressive-hybrid-fund",
       "fund_name": "Quant Aggressive Hybrid Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/quant-aggressive-hybrid-fund-direct-growth",
       "basic_info": {
-        "nav": "488.74",
-        "nav_date": "13 May '26",
-        "expense_ratio_pct": "0.76",
+        "nav": "496.79",
+        "nav_date": "14 May '26",
+        "expense_ratio_pct": "0.75",
         "min_sip": "1,000"
       },
       "fund_category_and_risk": {
@@ -4767,14 +4789,14 @@
         "risk_level": "Very High Risk"
       },
       "performance_returns": {
-        "1D": "+1.07%",
-        "1M": "+4.61%",
-        "6M": "+2.28%",
-        "1Y": "+10.51%",
-        "3Y": "+15.66%",
-        "5Y": "+14.71%",
-        "10Y": "+16.61%",
-        "All": "+16.51%"
+        "1D": "+1.65%",
+        "1M": "+6.33%",
+        "6M": "+3.69%",
+        "1Y": "+11.92%",
+        "3Y": "+16.27%",
+        "5Y": "+15.35%",
+        "10Y": "+16.79%",
+        "All": "+16.65%"
       },
       "return_calculator": {
         "monthly_investment_used": "1000",
@@ -4782,44 +4804,44 @@
           {
             "Over the past": "1 year",
             "Total investment": "₹12,000",
-            "Would've become": "₹12,607",
-            "Returns": "+5.06%"
+            "Would've become": "₹12,798",
+            "Returns": "+6.65%"
           },
           {
             "Over the past": "3 years",
             "Total investment": "₹36,000",
-            "Would've become": "₹41,635",
-            "Returns": "+15.65%"
+            "Would've become": "₹42,296",
+            "Returns": "+17.49%"
           },
           {
             "Over the past": "5 years",
             "Total investment": "₹60,000",
-            "Would've become": "₹81,629",
-            "Returns": "+36.05%"
+            "Would've become": "₹82,929",
+            "Returns": "+38.21%"
           },
           {
             "Over the past": "10 years",
             "Total investment": "₹1,20,000",
-            "Would've become": "₹2,99,301",
-            "Returns": "+149.42%"
+            "Would've become": "₹3,04,066",
+            "Returns": "+153.39%"
           }
         ],
         "sip_return_rates": [
           {
             "period": "1 year",
-            "return_pct": 5.06
+            "return_pct": 6.65
           },
           {
             "period": "3 years",
-            "return_pct": 15.65
+            "return_pct": 17.49
           },
           {
             "period": "5 years",
-            "return_pct": 36.05
+            "return_pct": 38.21
           },
           {
             "period": "10 years",
-            "return_pct": 149.42
+            "return_pct": 153.39
           }
         ]
       },
@@ -5043,10 +5065,10 @@
         "annualised_returns": [
           {
             "Name": "Fund returns",
-            "3Y": "+15.7%",
-            "5Y": "+14.7%",
-            "10Y": "+16.6%",
-            "All": "+16.5%"
+            "3Y": "+16.3%",
+            "5Y": "+15.3%",
+            "10Y": "+16.8%",
+            "All": "+16.7%"
           },
           {
             "Name": "Category average (Hybrid Aggressive Hybrid)",
@@ -5057,7 +5079,7 @@
           },
           {
             "Name": "Rank (Hybrid Aggressive Hybrid)",
-            "3Y": "8",
+            "3Y": "7",
             "5Y": "8",
             "10Y": "1",
             "All": "--"
@@ -5080,7 +5102,7 @@
           },
           {
             "Name": "Rank (Hybrid Aggressive Hybrid)",
-            "3Y": "8",
+            "3Y": "7",
             "5Y": "8",
             "10Y": "1",
             "All": "--"
@@ -5094,36 +5116,36 @@
         {
           "": "",
           "Name": "JM Aggressive Hybrid Fund Direct Growth",
-          "1Y": "-0.17%",
-          "3Y": "+17.94%",
+          "1Y": "-0.18%",
+          "3Y": "+18.08%",
           "Fund Size(Cr)": "701.44"
         },
         {
           "": "",
           "Name": "ICICI Prudential Equity & Debt Fund Direct Growth",
-          "1Y": "+3.89%",
-          "3Y": "+17.21%",
+          "1Y": "+4.14%",
+          "3Y": "+17.44%",
           "Fund Size(Cr)": "50,367.73"
         },
         {
           "": "",
           "Name": "Edelweiss Aggressive Hybrid Fund Direct Growth",
-          "1Y": "+3.32%",
-          "3Y": "+16.29%",
+          "1Y": "+3.68%",
+          "3Y": "+16.60%",
           "Fund Size(Cr)": "3,627.22"
         },
         {
           "": "",
           "Name": "Nippon India Aggressive Hybrid Fund Direct Growth",
-          "1Y": "+2.27%",
-          "3Y": "+13.49%",
+          "1Y": "+2.42%",
+          "3Y": "+13.70%",
           "Fund Size(Cr)": "3,958.21"
         },
         {
           "": "",
           "Name": "Franklin India Aggressive Hybrid Fund Direct Growth",
-          "1Y": "-1.30%",
-          "3Y": "+13.15%",
+          "1Y": "-0.94%",
+          "3Y": "+13.38%",
           "Fund Size(Cr)": "2,305.63"
         }
       ],
@@ -5178,7 +5200,7 @@
         }
       ],
       "about_fund": {
-        "description": "Quant Aggressive Hybrid Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Aggressive Hybrid Fund Direct Growth fund. The fund currently has an Asset Under Man Quant Aggressive Hybrid Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Aggressive Hybrid Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 13 May 2026 is ₹488.74. The Quant Aggressive Hybrid Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
+        "description": "Quant Aggressive Hybrid Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Aggressive Hybrid Fund Direct Growth fund. The fund currently has an Asset Under Man Quant Aggressive Hybrid Fund Direct Growth is a Hybrid Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Aggressive Hybrid Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 14 May 2026 is ₹496.79. The Quant Aggressive Hybrid Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
         "investment_objective": "The scheme seeks to provide long term capital appreciation and current income with a mix of fixed income securities and equity instruments.",
         "benchmark": "NIFTY 50 Hybrid Composite Debt 65:35 Index"
       },
@@ -5214,15 +5236,15 @@
         },
         {
           "question": "What kind of returns does Quant Aggressive Hybrid Fund Direct Growth provide?",
-          "answer": "The Quant Aggressive Hybrid Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 10.51% since its inception."
+          "answer": "The Quant Aggressive Hybrid Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 11.92% since its inception."
         },
         {
           "question": "How much expense ratio is charged by Quant Aggressive Hybrid Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 0.76% as of 14 May 2026..."
+          "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 0.75% as of 15 May 2026..."
         },
         {
           "question": "What is the AUM of Quant Aggressive Hybrid Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹2,024.48Cr as of 14 May 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹2,024.48Cr as of 15 May 2026."
         },
         {
           "question": "How to Redeem Quant Aggressive Hybrid Fund Direct Growth?",
@@ -5234,23 +5256,23 @@
         },
         {
           "question": "What is the NAV of Quant Aggressive Hybrid Fund Direct Growth?",
-          "answer": "The NAV of Quant Aggressive Hybrid Fund Direct Growth is ₹488.74 as of 13 May 2026."
+          "answer": "The NAV of Quant Aggressive Hybrid Fund Direct Growth is ₹496.79 as of 14 May 2026."
         },
         {
           "question": "What is the PE and PB ratio of Quant Aggressive Hybrid Fund Direct Growth?",
           "answer": "ThePE ratioratio of Quant Aggressive Hybrid Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-05-14T08:13:39+0000"
+      "scraped_at": "2026-05-15T08:28:25+0000"
     },
     {
       "fund_key": "quant-focused-fund",
       "fund_name": "Quant Focused Fund Direct Growth",
       "source_url": "https://groww.in/mutual-funds/quant-focused-fund-direct-growth",
       "basic_info": {
-        "nav": "95.96",
-        "nav_date": "13 May '26",
-        "expense_ratio_pct": "0.87",
+        "nav": "97.89",
+        "nav_date": "14 May '26",
+        "expense_ratio_pct": "0.83",
         "min_sip": "1,000"
       },
       "fund_category_and_risk": {
@@ -5259,14 +5281,14 @@
         "risk_level": "Very High Risk"
       },
       "performance_returns": {
-        "1D": "+1.49%",
-        "1M": "+5.96%",
-        "6M": "-1.15%",
-        "1Y": "+5.00%",
-        "3Y": "+16.49%",
-        "5Y": "+13.35%",
-        "10Y": "+15.06%",
-        "All": "+16.41%"
+        "1D": "+2.01%",
+        "1M": "+8.09%",
+        "6M": "+0.73%",
+        "1Y": "+6.45%",
+        "3Y": "+17.25%",
+        "5Y": "+14.17%",
+        "10Y": "+15.29%",
+        "All": "+16.58%"
       },
       "return_calculator": {
         "monthly_investment_used": "1000",
@@ -5274,44 +5296,44 @@
           {
             "Over the past": "1 year",
             "Total investment": "₹12,000",
-            "Would've become": "₹12,306",
-            "Returns": "+2.55%"
+            "Would've become": "₹12,536",
+            "Returns": "+4.47%"
           },
           {
             "Over the past": "3 years",
             "Total investment": "₹36,000",
-            "Would've become": "₹39,582",
-            "Returns": "+9.95%"
+            "Would've become": "₹40,355",
+            "Returns": "+12.10%"
           },
           {
             "Over the past": "5 years",
             "Total investment": "₹60,000",
-            "Would've become": "₹79,814",
-            "Returns": "+33.02%"
+            "Would've become": "₹81,376",
+            "Returns": "+35.63%"
           },
           {
             "Over the past": "10 years",
             "Total investment": "₹1,20,000",
-            "Would've become": "₹2,68,060",
-            "Returns": "+123.38%"
+            "Would've become": "₹2,73,315",
+            "Returns": "+127.76%"
           }
         ],
         "sip_return_rates": [
           {
             "period": "1 year",
-            "return_pct": 2.55
+            "return_pct": 4.47
           },
           {
             "period": "3 years",
-            "return_pct": 9.95
+            "return_pct": 12.1
           },
           {
             "period": "5 years",
-            "return_pct": 33.02
+            "return_pct": 35.63
           },
           {
             "period": "10 years",
-            "return_pct": 123.38
+            "return_pct": 127.76
           }
         ]
       },
@@ -5497,10 +5519,10 @@
         "annualised_returns": [
           {
             "Name": "Fund returns",
-            "3Y": "+16.5%",
-            "5Y": "+13.3%",
-            "10Y": "+15.1%",
-            "All": "+16.4%"
+            "3Y": "+17.3%",
+            "5Y": "+14.2%",
+            "10Y": "+15.3%",
+            "All": "+16.6%"
           },
           {
             "Name": "Category average (Equity Large Cap)",
@@ -5512,7 +5534,7 @@
           {
             "Name": "Rank (Equity Large Cap)",
             "3Y": "18",
-            "5Y": "20",
+            "5Y": "17",
             "10Y": "--",
             "All": "--"
           }
@@ -5535,7 +5557,7 @@
           {
             "Name": "Rank (Equity Large Cap)",
             "3Y": "18",
-            "5Y": "20",
+            "5Y": "17",
             "10Y": "--",
             "All": "--"
           }
@@ -5548,36 +5570,36 @@
         {
           "": "",
           "Name": "Invesco India Largecap Fund Direct Growth",
-          "1Y": "+1.39%",
-          "3Y": "+15.90%",
+          "1Y": "+1.47%",
+          "3Y": "+16.17%",
           "Fund Size(Cr)": "1,721.89"
         },
         {
           "": "",
           "Name": "WhiteOak Capital Large Cap Fund Direct Growth",
-          "1Y": "+0.37%",
-          "3Y": "+15.36%",
+          "1Y": "+1.06%",
+          "3Y": "+15.80%",
           "Fund Size(Cr)": "1,163.57"
         },
         {
           "": "",
           "Name": "Nippon India Large Cap Fund Direct Growth",
-          "1Y": "+0.12%",
-          "3Y": "+15.34%",
+          "1Y": "+0.42%",
+          "3Y": "+15.67%",
           "Fund Size(Cr)": "51,690.28"
         },
         {
           "": "",
           "Name": "ICICI Prudential Large Cap Fund Direct Growth",
-          "1Y": "-1.89%",
-          "3Y": "+14.72%",
+          "1Y": "-1.25%",
+          "3Y": "+15.10%",
           "Fund Size(Cr)": "75,650.43"
         },
         {
           "": "",
           "Name": "DSP Large Cap Fund Direct Growth",
-          "1Y": "-3.77%",
-          "3Y": "+14.45%",
+          "1Y": "-2.54%",
+          "3Y": "+14.95%",
           "Fund Size(Cr)": "7,192.01"
         }
       ],
@@ -5632,7 +5654,7 @@
         }
       ],
       "about_fund": {
-        "description": "Quant Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94, Quant Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 13 May 2026 is ₹95.96. The Quant Focused Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
+        "description": "Quant Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94, Quant Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 14 May 2026 is ₹97.89. The Quant Focused Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
         "investment_objective": "The scheme seeks to provide capital appreciation by investing in a focused portfolio of Large cap -'bluechip' companies",
         "benchmark": "NIFTY 500 Total Return Index"
       },
@@ -5668,15 +5690,15 @@
         },
         {
           "question": "What kind of returns does Quant Focused Fund Direct Growth provide?",
-          "answer": "The Quant Focused Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 5.00% since its inception."
+          "answer": "The Quant Focused Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 6.45% since its inception."
         },
         {
           "question": "How much expense ratio is charged by Quant Focused Fund Direct Growth?",
-          "answer": "The termExpense Ratioused for Quant Focused Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Focused Fund Direct Growth is 0.87% as of 14 May 2026..."
+          "answer": "The termExpense Ratioused for Quant Focused Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Focused Fund Direct Growth is 0.83% as of 15 May 2026..."
         },
         {
           "question": "What is the AUM of Quant Focused Fund Direct Growth?",
-          "answer": "The AUM, short forAssets Under Managementof Quant Focused Fund Direct Growth is ₹813.02Cr as of 14 May 2026."
+          "answer": "The AUM, short forAssets Under Managementof Quant Focused Fund Direct Growth is ₹813.02Cr as of 15 May 2026."
         },
         {
           "question": "How to Redeem Quant Focused Fund Direct Growth?",
@@ -5688,14 +5710,14 @@
         },
         {
           "question": "What is the NAV of Quant Focused Fund Direct Growth?",
-          "answer": "The NAV of Quant Focused Fund Direct Growth is ₹95.96 as of 13 May 2026."
+          "answer": "The NAV of Quant Focused Fund Direct Growth is ₹97.89 as of 14 May 2026."
         },
         {
           "question": "What is the PE and PB ratio of Quant Focused Fund Direct Growth?",
           "answer": "ThePE ratioratio of Quant Focused Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
         }
       ],
-      "scraped_at": "2026-05-14T08:13:40+0000"
+      "scraped_at": "2026-05-15T08:28:25+0000"
     }
   ]
 }
