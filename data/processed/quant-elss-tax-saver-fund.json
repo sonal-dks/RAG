@@ -319,10 +319,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+69.38%",
-        "5Y": "+130.77%",
-        "10Y": "+586.13%",
-        "All": "+1026.15%"
+        "3Y": "+67.08%",
+        "5Y": "+126.97%",
+        "10Y": "+557.75%",
+        "All": "+1008.93%"
       },
       {
         "Name": "Category average (Equity ELSS)",
@@ -465,11 +465,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant ELSS Tax Saver Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant ELSS Tax Saver Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ELSS Tax Saver Fund Direct Growth is 0.72% as of 17 May 2026..."
+      "answer": "The termExpense Ratioused for Quant ELSS Tax Saver Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ELSS Tax Saver Fund Direct Growth is 0.72% as of 18 May 2026..."
     },
     {
       "question": "What is the AUM of Quant ELSS Tax Saver Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant ELSS Tax Saver Fund Direct Growth is ₹12,505.69Cr as of 17 May 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant ELSS Tax Saver Fund Direct Growth is ₹12,505.69Cr as of 18 May 2026."
     },
     {
       "question": "How to Redeem Quant ELSS Tax Saver Fund Direct Growth?",
@@ -488,5 +488,5 @@
       "answer": "ThePE ratioratio of Quant ELSS Tax Saver Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-05-17T08:00:30+0000"
+  "scraped_at": "2026-05-18T09:00:52+0000"
 }

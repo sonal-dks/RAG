@@ -399,10 +399,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+71.57%",
-        "5Y": "+139.45%",
-        "10Y": "+565.46%",
-        "All": "+882.65%"
+        "3Y": "+69.70%",
+        "5Y": "+133.43%",
+        "10Y": "+538.59%",
+        "All": "+871.55%"
       },
       {
         "Name": "Category average (Equity Flexi Cap)",
@@ -551,11 +551,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Flexi Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Flexi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Flexi Cap Fund Direct Growth is 0.67% as of 17 May 2026..."
+      "answer": "The termExpense Ratioused for Quant Flexi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Flexi Cap Fund Direct Growth is 0.67% as of 18 May 2026..."
     },
     {
       "question": "What is the AUM of Quant Flexi Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Flexi Cap Fund Direct Growth is ₹6,593.52Cr as of 17 May 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Flexi Cap Fund Direct Growth is ₹6,593.52Cr as of 18 May 2026."
     },
     {
       "question": "How to Redeem Quant Flexi Cap Fund Direct Growth?",
@@ -574,5 +574,5 @@
       "answer": "ThePE ratioratio of Quant Flexi Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-05-17T08:00:30+0000"
+  "scraped_at": "2026-05-18T09:00:52+0000"
 }
