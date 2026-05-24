@@ -5,7 +5,7 @@
   "basic_info": {
     "nav": "247.80",
     "nav_date": "22 May '26",
-    "expense_ratio_pct": "3.39",
+    "expense_ratio_pct": "0.74",
     "min_sip": "1,000"
   },
   "fund_category_and_risk": {
@@ -351,7 +351,7 @@
       {
         "Name": "Rank (Equity Mid Cap)",
         "3Y": "35",
-        "5Y": "15",
+        "5Y": "16",
         "10Y": "--",
         "All": "--"
       }
@@ -374,7 +374,7 @@
       {
         "Name": "Rank (Equity Mid Cap)",
         "3Y": "35",
-        "5Y": "15",
+        "5Y": "16",
         "10Y": "--",
         "All": "--"
       }
@@ -505,11 +505,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Mid Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 3.39% as of 23 May 2026..."
+      "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 0.74% as of 24 May 2026..."
     },
     {
       "question": "What is the AUM of Quant Mid Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹7,904.71Cr as of 23 May 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹7,904.71Cr as of 24 May 2026."
     },
     {
       "question": "How to Redeem Quant Mid Cap Fund Direct Growth?",
@@ -528,5 +528,5 @@
       "answer": "ThePE ratioratio of Quant Mid Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-05-23T07:58:59+0000"
+  "scraped_at": "2026-05-24T08:09:29+0000"
 }
