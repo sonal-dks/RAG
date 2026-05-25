@@ -275,10 +275,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+58.92%",
-        "5Y": "+92.66%",
-        "10Y": "+312.40%",
-        "All": "+670.88%"
+        "3Y": "+61.68%",
+        "5Y": "+93.16%",
+        "10Y": "+323.07%",
+        "All": "+680.66%"
       },
       {
         "Name": "Category average (Equity Large Cap)",
@@ -427,11 +427,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Focused Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Focused Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Focused Fund Direct Growth is 0.85% as of 24 May 2026..."
+      "answer": "The termExpense Ratioused for Quant Focused Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Focused Fund Direct Growth is 0.85% as of 25 May 2026..."
     },
     {
       "question": "What is the AUM of Quant Focused Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Focused Fund Direct Growth is ₹813.02Cr as of 24 May 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Focused Fund Direct Growth is ₹813.02Cr as of 25 May 2026."
     },
     {
       "question": "How to Redeem Quant Focused Fund Direct Growth?",
@@ -450,5 +450,5 @@
       "answer": "ThePE ratioratio of Quant Focused Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-05-24T08:09:29+0000"
+  "scraped_at": "2026-05-25T09:16:29+0000"
 }
