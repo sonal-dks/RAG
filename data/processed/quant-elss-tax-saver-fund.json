@@ -3,9 +3,9 @@
   "fund_name": "Quant ELSS Tax Saver Fund Direct Growth",
   "source_url": "https://groww.in/mutual-funds/quant-elss-tax-saver-fund-direct-growth",
   "basic_info": {
-    "nav": "437.31",
-    "nav_date": "22 May '26",
-    "expense_ratio_pct": "0.72",
+    "nav": "444.94",
+    "nav_date": "25 May '26",
+    "expense_ratio_pct": "2.67",
     "min_sip": "500"
   },
   "fund_category_and_risk": {
@@ -14,14 +14,14 @@
     "risk_level": "Very High Risk"
   },
   "performance_returns": {
-    "1D": "-0.03%",
-    "1M": "+1.09%",
-    "6M": "+3.04%",
-    "1Y": "+11.21%",
-    "3Y": "+19.14%",
-    "5Y": "+17.55%",
-    "10Y": "+20.78%",
-    "All": "+19.77%"
+    "1D": "+1.75%",
+    "1M": "+4.24%",
+    "6M": "+5.45%",
+    "1Y": "+12.16%",
+    "3Y": "+19.73%",
+    "5Y": "+17.86%",
+    "10Y": "+20.90%",
+    "All": "+19.91%"
   },
   "return_calculator": {
     "monthly_investment_used": "500",
@@ -29,129 +29,135 @@
       {
         "Over the past": "1 year",
         "Total investment": "₹6,000",
-        "Would've become": "₹6,359",
-        "Returns": "+5.98%"
+        "Would've become": "₹6,452",
+        "Returns": "+7.53%"
       },
       {
         "Over the past": "3 years",
         "Total investment": "₹18,000",
-        "Would've become": "₹20,791",
-        "Returns": "+15.51%"
+        "Would've become": "₹21,124",
+        "Returns": "+17.36%"
       },
       {
         "Over the past": "5 years",
         "Total investment": "₹30,000",
-        "Would've become": "₹42,551",
-        "Returns": "+41.84%"
+        "Would've become": "₹43,230",
+        "Returns": "+44.10%"
       },
       {
         "Over the past": "10 years",
         "Total investment": "₹60,000",
-        "Would've become": "₹1,82,939",
-        "Returns": "+204.90%"
+        "Would've become": "₹1,85,806",
+        "Returns": "+209.68%"
       }
     ],
     "sip_return_rates": [
       {
         "period": "1 year",
-        "return_pct": 5.98
+        "return_pct": 7.53
       },
       {
         "period": "3 years",
-        "return_pct": 15.51
+        "return_pct": 17.36
       },
       {
         "period": "5 years",
-        "return_pct": 41.84
+        "return_pct": 44.1
       },
       {
         "period": "10 years",
-        "return_pct": 204.9
+        "return_pct": 209.68
       }
     ]
   },
   "holdings": [
     {
-      "Name": "Reliance Industries Ltd.",
-      "Sector": "Energy",
+      "Name": "Reliance Industries Ltd",
+      "Sector": "Energy & Utilities",
       "Instruments": "Equity",
       "Assets": "9.96%"
     },
     {
-      "Name": "Adani Power Ltd.",
-      "Sector": "Energy",
+      "Name": "Adani Power Ltd",
+      "Sector": "Energy & Utilities",
       "Instruments": "Equity",
       "Assets": "9.28%"
     },
     {
-      "Name": "ICICI Bank Ltd.",
+      "Name": "ICICI Bank Ltd",
       "Sector": "Financial",
       "Instruments": "Equity",
       "Assets": "8.98%"
     },
     {
-      "Name": "Larsen & Toubro Ltd.",
-      "Sector": "Construction",
+      "Name": "Larsen & Toubro Ltd",
+      "Sector": "Industrials",
       "Instruments": "Equity",
       "Assets": "7.55%"
     },
     {
-      "Name": "Aurobindo Pharma Ltd.",
+      "Name": "Aurobindo Pharma Ltd",
       "Sector": "Healthcare",
       "Instruments": "Equity",
       "Assets": "7.46%"
     },
     {
-      "Name": "Samvardhana Motherson International Ltd.",
-      "Sector": "Automobile",
+      "Name": "Samvardhana Motherson International Ltd",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
       "Assets": "7.29%"
     },
     {
-      "Name": "Tata Power Company Ltd.",
-      "Sector": "Energy",
+      "Name": "Repo",
+      "Sector": "Unspecified",
+      "Instruments": "Repo",
+      "Assets": "6.01%"
+    },
+    {
+      "Name": "Tata Power Company Ltd",
+      "Sector": "Energy & Utilities",
       "Instruments": "Equity",
       "Assets": "5.24%"
     },
     {
-      "Name": "Adani Green Energy Ltd.",
-      "Sector": "Capital Goods",
+      "Name": "Adani Green Energy Ltd",
+      "Sector": "Energy & Utilities",
       "Instruments": "Equity",
       "Assets": "4.53%"
     },
     {
       "Name": "Life Insurance Corporation of India",
-      "Sector": "Insurance",
+      "Sector": "Financial",
       "Instruments": "Equity",
       "Assets": "4.38%"
     },
     {
-      "Name": "HDFC Life Insurance Co Ltd.",
-      "Sector": "Insurance",
+      "Name": "HDFC Life Insurance Co Ltd",
+      "Sector": "Financial",
       "Instruments": "Equity",
       "Assets": "3.79%"
     },
     {
-      "Name": "Grasim Industries Ltd.",
-      "Sector": "Construction",
+      "Name": "Grasim Industries Ltd",
+      "Sector": "Materials",
       "Instruments": "Equity",
       "Assets": "3.35%"
     },
     {
-      "Name": "Kotak Mahindra Bank Ltd.",
+      "Name": "Kotak Mahindra Bank Ltd",
       "Sector": "Financial",
       "Instruments": "Equity",
       "Assets": "2.87%"
     },
     {
-      "Name": "Adani Enterprises Ltd.",
-      "Sector": "Services",
+      "Name": "Adani Enterprises Ltd",
+      "Sector": "Materials",
       "Instruments": "Equity",
       "Assets": "2.48%"
     },
     {
-      "Name": "DLF Ltd.",
-      "Sector": "Construction",
+      "Name": "DLF Ltd",
+      "Sector": "Real Estate",
       "Instruments": "Equity",
       "Assets": "2.21%"
     },
@@ -162,50 +168,50 @@
       "Assets": "2.15%"
     },
     {
-      "Name": "Capri Global Capital Ltd.",
+      "Name": "Capri Global Capital Ltd",
       "Sector": "Financial",
       "Instruments": "Equity",
       "Assets": "1.88%"
     },
     {
-      "Name": "Dixon Technologies (India) Ltd.",
-      "Sector": "Capital Goods",
+      "Name": "Dixon Technologies (India) Ltd",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
       "Assets": "1.88%"
     },
     {
-      "Name": "Bharti Airtel Ltd.",
-      "Sector": "Communication",
+      "Name": "Bharti Airtel Ltd",
+      "Sector": "Technology",
       "Instruments": "Equity",
       "Assets": "1.83%"
     },
     {
-      "Name": "Bharat Heavy Electricals Ltd.",
-      "Sector": "Capital Goods",
+      "Name": "Bharat Heavy Electricals Ltd",
+      "Sector": "Industrials",
       "Instruments": "Equity",
       "Assets": "1.48%"
     },
     {
-      "Name": "Himadri Speciality Chemical Ltd.",
-      "Sector": "Chemicals",
+      "Name": "Himadri Speciality Chemical Ltd",
+      "Sector": "Materials",
       "Instruments": "Equity",
       "Assets": "1.15%"
     },
     {
-      "Name": "Swan Defence and Heavy Industries Ltd.",
-      "Sector": "Capital Goods",
+      "Name": "Reliance Naval and Engineering Ltd",
+      "Sector": "Industrials",
       "Instruments": "Equity",
       "Assets": "0.97%"
     },
     {
-      "Name": "Lloyds Metals & Energy Ltd.",
-      "Sector": "Metals & Mining",
+      "Name": "Lloyds Metals and Energy Ltd",
+      "Sector": "Materials",
       "Instruments": "Equity",
       "Assets": "0.93%"
     },
     {
       "Name": "Ventive Hospitality Ltd.",
-      "Sector": "Services",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
       "Assets": "0.69%"
     },
@@ -216,34 +222,40 @@
       "Assets": "0.67%"
     },
     {
-      "Name": "Afcons Infrastructure Ltd.",
-      "Sector": "Construction",
+      "Name": "AFCONS INFRASTRUCTURE LIMITED EQ",
+      "Sector": "Industrials",
       "Instruments": "Equity",
       "Assets": "0.33%"
     },
     {
       "Name": "Krystal Integrated Services Ltd.",
-      "Sector": "Services",
+      "Sector": "Industrials",
       "Instruments": "Equity",
       "Assets": "0.25%"
     },
     {
       "Name": "Juniper Hotels Ltd.",
-      "Sector": "Services",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
       "Assets": "0.22%"
     },
     {
-      "Name": "Embassy Developments Ltd.",
-      "Sector": "Construction",
+      "Name": "Indiabulls Real Estate Ltd",
+      "Sector": "Real Estate",
       "Instruments": "Equity",
       "Assets": "0.19%"
     },
     {
-      "Name": "Welspun Living Ltd.",
+      "Name": "Welspun India Ltd",
       "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
       "Assets": "0.15%"
+    },
+    {
+      "Name": "Net Payables",
+      "Sector": "Unspecified",
+      "Instruments": "Net Payables",
+      "Assets": "-0.13%"
     }
   ],
   "holding_analysis": {
@@ -296,10 +308,10 @@
     "annualised_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+19.1%",
-        "5Y": "+17.6%",
-        "10Y": "+20.8%",
-        "All": "+19.8%"
+        "3Y": "+19.7%",
+        "5Y": "+17.9%",
+        "10Y": "+20.9%",
+        "All": "+19.9%"
       },
       {
         "Name": "Category average (Equity ELSS)",
@@ -347,36 +359,36 @@
     {
       "": "",
       "Name": "Motilal Oswal ELSS Tax Saver Fund Direct Growth",
-      "1Y": "+5.51%",
-      "3Y": "+24.08%",
+      "1Y": "+6.00%",
+      "3Y": "+24.33%",
       "Fund Size(Cr)": "4,658.52"
     },
     {
       "": "",
       "Name": "SBI ELSS Tax Saver Fund Direct Growth",
-      "1Y": "+0.25%",
-      "3Y": "+20.34%",
+      "1Y": "+0.54%",
+      "3Y": "+20.66%",
       "Fund Size(Cr)": "31,093.90"
     },
     {
       "": "",
       "Name": "WhiteOak Capital ELSS Tax Saver Fund Direct Growth",
-      "1Y": "+1.67%",
-      "3Y": "+19.25%",
+      "1Y": "+1.83%",
+      "3Y": "+19.56%",
       "Fund Size(Cr)": "450.45"
     },
     {
       "": "",
       "Name": "HDFC ELSS Tax Saver Fund Direct Plan Growth",
-      "1Y": "-3.41%",
-      "3Y": "+17.20%",
+      "1Y": "-3.07%",
+      "3Y": "+17.57%",
       "Fund Size(Cr)": "15,559.49"
     },
     {
       "": "",
       "Name": "Parag Parikh ELSS Tax Saver Fund Direct Growth",
-      "1Y": "-5.90%",
-      "3Y": "+13.02%",
+      "1Y": "-5.77%",
+      "3Y": "+13.24%",
       "Fund Size(Cr)": "5,617.03"
     }
   ],
@@ -425,7 +437,7 @@
     }
   ],
   "about_fund": {
-    "description": "Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Managemen Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 22 May 2026 is ₹437.31. The Quant ELSS Tax Saver Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. ...Read more",
+    "description": "Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Managemen Quant ELSS Tax Saver Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant ELSS Tax Saver Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 25 May 2026 is ₹444.94. The Quant ELSS Tax Saver Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹500. Minimum Lumpsum Investment is ₹500. ...Read more",
     "investment_objective": "The scheme aims to generate capital appreciation by investing predominantly in equity shares with growth potential. The secondary objective is to give dividend and other income.",
     "benchmark": "NIFTY 500 Total Return Index"
   },
@@ -441,7 +453,7 @@
   },
   "advanced_ratios": {
     "top_5": "43%",
-    "top_20": "90%",
+    "top_20": "95%",
     "pe_ratio": 27.12,
     "pb_ratio": 3.38,
     "alpha": 2.57,
@@ -461,15 +473,15 @@
     },
     {
       "question": "What kind of returns does Quant ELSS Tax Saver Fund Direct Growth provide?",
-      "answer": "The Quant ELSS Tax Saver Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 19.77% since its inception."
+      "answer": "The Quant ELSS Tax Saver Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 19.91% since its inception."
     },
     {
       "question": "How much expense ratio is charged by Quant ELSS Tax Saver Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant ELSS Tax Saver Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ELSS Tax Saver Fund Direct Growth is 0.72% as of 25 May 2026..."
+      "answer": "The termExpense Ratioused for Quant ELSS Tax Saver Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ELSS Tax Saver Fund Direct Growth is 2.67% as of 26 May 2026..."
     },
     {
       "question": "What is the AUM of Quant ELSS Tax Saver Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant ELSS Tax Saver Fund Direct Growth is ₹12,505.69Cr as of 25 May 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant ELSS Tax Saver Fund Direct Growth is ₹12,505.69Cr as of 26 May 2026."
     },
     {
       "question": "How to Redeem Quant ELSS Tax Saver Fund Direct Growth?",
@@ -481,12 +493,12 @@
     },
     {
       "question": "What is the NAV of Quant ELSS Tax Saver Fund Direct Growth?",
-      "answer": "The NAV of Quant ELSS Tax Saver Fund Direct Growth is ₹437.31 as of 22 May 2026."
+      "answer": "The NAV of Quant ELSS Tax Saver Fund Direct Growth is ₹444.94 as of 25 May 2026."
     },
     {
       "question": "What is the PE and PB ratio of Quant ELSS Tax Saver Fund Direct Growth?",
       "answer": "ThePE ratioratio of Quant ELSS Tax Saver Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-05-25T09:16:28+0000"
+  "scraped_at": "2026-05-26T08:53:29+0000"
 }
