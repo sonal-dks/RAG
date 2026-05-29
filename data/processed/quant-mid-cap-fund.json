@@ -5,7 +5,7 @@
   "basic_info": {
     "nav": "251.23",
     "nav_date": "27 May '26",
-    "expense_ratio_pct": "0.98",
+    "expense_ratio_pct": "0.74",
     "min_sip": "1,000"
   },
   "fund_category_and_risk": {
@@ -350,7 +350,7 @@
       },
       {
         "Name": "Rank (Equity Mid Cap)",
-        "3Y": "34",
+        "3Y": "35",
         "5Y": "15",
         "10Y": "--",
         "All": "--"
@@ -373,7 +373,7 @@
       },
       {
         "Name": "Rank (Equity Mid Cap)",
-        "3Y": "34",
+        "3Y": "35",
         "5Y": "15",
         "10Y": "--",
         "All": "--"
@@ -383,43 +383,7 @@
   "exit_load": "Exit load of 1% if redeemed within 1 year",
   "stamp_duty": "Stamp duty on investment: 0.005%",
   "tax_implication": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
-  "similar_funds": [
-    {
-      "": "",
-      "Name": "WhiteOak Capital Mid Cap Fund Direct Growth",
-      "1Y": "+15.76%",
-      "3Y": "+27.02%",
-      "Fund Size(Cr)": "5,293.04"
-    },
-    {
-      "": "",
-      "Name": "Edelweiss Mid Cap Direct Plan Growth",
-      "1Y": "+10.68%",
-      "3Y": "+26.13%",
-      "Fund Size(Cr)": "15,910.69"
-    },
-    {
-      "": "",
-      "Name": "Nippon India Growth Mid Cap Fund Direct Growth",
-      "1Y": "+11.28%",
-      "3Y": "+25.56%",
-      "Fund Size(Cr)": "45,820.33"
-    },
-    {
-      "": "",
-      "Name": "Sundaram Mid Cap Fund Direct Growth",
-      "1Y": "+9.42%",
-      "3Y": "+24.64%",
-      "Fund Size(Cr)": "13,378.01"
-    },
-    {
-      "": "",
-      "Name": "HDFC Mid Cap Fund Direct Growth",
-      "1Y": "+8.05%",
-      "3Y": "+23.62%",
-      "Fund Size(Cr)": "94,744.72"
-    }
-  ],
+  "similar_funds": [],
   "fund_managers": [
     {
       "name": "Varun Pattani",
@@ -505,11 +469,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Mid Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 0.98% as of 28 May 2026..."
+      "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 0.74% as of 29 May 2026..."
     },
     {
       "question": "What is the AUM of Quant Mid Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹7,904.71Cr as of 28 May 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹7,904.71Cr as of 29 May 2026."
     },
     {
       "question": "How to Redeem Quant Mid Cap Fund Direct Growth?",
@@ -528,5 +492,5 @@
       "answer": "ThePE ratioratio of Quant Mid Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-05-28T09:03:38+0000"
+  "scraped_at": "2026-05-29T09:00:57+0000"
 }
