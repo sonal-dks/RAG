@@ -3,9 +3,9 @@
   "fund_name": "Quant Multi Cap Fund Direct Growth",
   "source_url": "https://groww.in/mutual-funds/quant-multi-cap-fund-direct-growth",
   "basic_info": {
-    "nav": "698.89",
-    "nav_date": "01 Jun '26",
-    "expense_ratio_pct": "0.72",
+    "nav": "700.66",
+    "nav_date": "02 Jun '26",
+    "expense_ratio_pct": "0.68",
     "min_sip": "1,000"
   },
   "fund_category_and_risk": {
@@ -14,14 +14,14 @@
     "risk_level": "Very High Risk"
   },
   "performance_returns": {
-    "1D": "-1.08%",
-    "1M": "+2.92%",
-    "6M": "+3.01%",
-    "1Y": "+2.97%",
-    "3Y": "+13.76%",
+    "1D": "+0.25%",
+    "1M": "+3.18%",
+    "6M": "+3.65%",
+    "1Y": "+3.37%",
+    "3Y": "+13.73%",
     "5Y": "+13.80%",
-    "10Y": "+18.30%",
-    "All": "+18.25%"
+    "10Y": "+18.35%",
+    "All": "+18.27%"
   },
   "return_calculator": {
     "monthly_investment_used": "1000",
@@ -29,399 +29,405 @@
       {
         "Over the past": "1 year",
         "Total investment": "₹12,000",
-        "Would've become": "₹12,649",
-        "Returns": "+5.41%"
+        "Would've become": "₹12,677",
+        "Returns": "+5.64%"
       },
       {
         "Over the past": "3 years",
         "Total investment": "₹36,000",
-        "Would've become": "₹38,744",
-        "Returns": "+7.62%"
+        "Would've become": "₹38,836",
+        "Returns": "+7.88%"
       },
       {
         "Over the past": "5 years",
         "Total investment": "₹60,000",
-        "Would've become": "₹77,118",
-        "Returns": "+28.53%"
+        "Would've become": "₹77,292",
+        "Returns": "+28.82%"
       },
       {
         "Over the past": "10 years",
         "Total investment": "₹1,20,000",
-        "Would've become": "₹3,12,416",
-        "Returns": "+160.35%"
+        "Would've become": "₹3,13,059",
+        "Returns": "+160.88%"
       }
     ],
     "sip_return_rates": [
       {
         "period": "1 year",
-        "return_pct": 5.41
+        "return_pct": 5.64
       },
       {
         "period": "3 years",
-        "return_pct": 7.62
+        "return_pct": 7.88
       },
       {
         "period": "5 years",
-        "return_pct": 28.53
+        "return_pct": 28.82
       },
       {
         "period": "10 years",
-        "return_pct": 160.35
+        "return_pct": 160.88
       }
     ]
   },
   "holdings": [
     {
-      "Name": "Adani Power Ltd.",
-      "Sector": "Energy",
+      "Name": "Repo",
+      "Sector": "Unspecified",
+      "Instruments": "Repo",
+      "Assets": "17.95%"
+    },
+    {
+      "Name": "Adani Power Ltd",
+      "Sector": "Energy & Utilities",
       "Instruments": "Equity",
       "Assets": "8.63%"
     },
     {
-      "Name": "Aurobindo Pharma Ltd.",
+      "Name": "Aurobindo Pharma Ltd",
       "Sector": "Healthcare",
       "Instruments": "Equity",
       "Assets": "7.99%"
     },
     {
-      "Name": "Nifty MidCap Select Index",
+      "Name": "MIDCAPNIFTY 26/05/2026",
       "Sector": "Financial",
-      "Instruments": "ID",
+      "Instruments": "Index Derivatives",
       "Assets": "7.64%"
     },
     {
-      "Name": "ICICI Bank Ltd.",
+      "Name": "ICICI Bank Ltd",
       "Sector": "Financial",
       "Instruments": "Equity",
       "Assets": "4.85%"
     },
     {
-      "Name": "ICICI Bank Ltd.",
+      "Name": "ICICI Bank Ltd. 26-MAY-26",
       "Sector": "Financial",
       "Instruments": "Futures",
       "Assets": "4.03%"
     },
     {
-      "Name": "Adani Enterprises Ltd.",
-      "Sector": "Services",
+      "Name": "Adani Enterprises Ltd",
+      "Sector": "Materials",
       "Instruments": "Equity",
       "Assets": "3.86%"
     },
     {
-      "Name": "Adani Green Energy Ltd.",
-      "Sector": "Capital Goods",
+      "Name": "Adani Green Energy Ltd",
+      "Sector": "Energy & Utilities",
       "Instruments": "Equity",
       "Assets": "3.73%"
     },
     {
-      "Name": "Reliance Industries Ltd.",
-      "Sector": "Energy",
+      "Name": "Reliance Industries Ltd",
+      "Sector": "Energy & Utilities",
       "Instruments": "Equity",
       "Assets": "3.15%"
     },
     {
-      "Name": "Swan Corp Ltd.",
-      "Sector": "Construction",
+      "Name": "Swan Energy Ltd",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
       "Assets": "2.93%"
     },
     {
-      "Name": "Samvardhana Motherson International Ltd.",
-      "Sector": "Automobile",
+      "Name": "Samvardhana Motherson International Ltd",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
       "Assets": "2.84%"
     },
     {
-      "Name": "Sun TV Network Ltd.",
-      "Sector": "Services",
+      "Name": "Sun TV Network Ltd",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
       "Assets": "2.65%"
     },
     {
-      "Name": "IRB Infrastructure Developers Ltd.",
-      "Sector": "Construction",
+      "Name": "IRB Infrastructure Developers Ltd",
+      "Sector": "Industrials",
       "Instruments": "Equity",
       "Assets": "2.60%"
     },
     {
-      "Name": "AWL Agri Business Ltd.",
+      "Name": "Adani Wilmar Ltd",
       "Sector": "Consumer Staples",
       "Instruments": "Equity",
       "Assets": "2.35%"
     },
     {
-      "Name": "LIC Housing Finance Ltd.",
+      "Name": "LIC Housing Finance Ltd",
       "Sector": "Financial",
       "Instruments": "Equity",
       "Assets": "2.07%"
     },
     {
-      "Name": "Kotak Mahindra Bank Ltd.",
+      "Name": "Kotak Mahindra Bank Ltd. 26-MAY-26",
       "Sector": "Financial",
       "Instruments": "Futures",
       "Assets": "2.05%"
     },
     {
-      "Name": "Crisil Ltd.",
-      "Sector": "Services",
+      "Name": "Crisil Ltd",
+      "Sector": "Industrials",
       "Instruments": "Equity",
       "Assets": "2.01%"
     },
     {
-      "Name": "Strides Pharma Science Ltd.",
+      "Name": "Strides Pharma Science Ltd",
       "Sector": "Healthcare",
       "Instruments": "Equity",
       "Assets": "1.97%"
     },
     {
-      "Name": "K.P.R. Mill Ltd.",
-      "Sector": "Textiles",
+      "Name": "KPR Mills Ltd",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
       "Assets": "1.65%"
     },
     {
-      "Name": "Reliance Industries Ltd.",
-      "Sector": "Energy",
+      "Name": "RELIANCE_(26/05/2026)",
+      "Sector": "Energy & Utilities",
       "Instruments": "Futures",
       "Assets": "1.48%"
     },
     {
-      "Name": "PB Fintech Ltd.",
-      "Sector": "Services",
+      "Name": "PB Fintech Ltd",
+      "Sector": "Financial",
       "Instruments": "Equity",
       "Assets": "1.46%"
     },
     {
-      "Name": "Aditya Birla Lifestyle Brands Ltd.",
-      "Sector": "Services",
+      "Name": "Aditya Birla Lifestyle Brands Ltd",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
       "Assets": "1.44%"
     },
     {
-      "Name": "Embassy Developments Ltd.",
-      "Sector": "Construction",
+      "Name": "Indiabulls Real Estate Ltd",
+      "Sector": "Real Estate",
       "Instruments": "Equity",
       "Assets": "1.42%"
     },
     {
-      "Name": "Aurobindo Pharma Ltd.",
+      "Name": "Aurobindo Pharma Ltd. 26-MAY-26",
       "Sector": "Healthcare",
       "Instruments": "Futures",
       "Assets": "1.41%"
     },
     {
-      "Name": "Gujarat State Fertilizers & Chemicals Ltd.",
-      "Sector": "Chemicals",
+      "Name": "Gujarat State Fertilizers & Chemicals Ltd",
+      "Sector": "Materials",
       "Instruments": "Equity",
       "Assets": "1.37%"
     },
     {
-      "Name": "Honda India Power Products Ltd.",
-      "Sector": "Capital Goods",
+      "Name": "Honda India Power Products Ltd",
+      "Sector": "Industrials",
       "Instruments": "Equity",
       "Assets": "1.34%"
     },
     {
       "Name": "Premier Energies Ltd.",
-      "Sector": "Energy",
+      "Sector": "Energy & Utilities",
       "Instruments": "Equity",
       "Assets": "1.30%"
     },
     {
-      "Name": "Lloyds Metals & Energy Ltd.",
-      "Sector": "Metals & Mining",
+      "Name": "Lloyds Metals and Energy Ltd",
+      "Sector": "Materials",
       "Instruments": "Equity",
       "Assets": "1.24%"
     },
     {
-      "Name": "Maharashtra Seamless Ltd.",
-      "Sector": "Metals & Mining",
+      "Name": "Maharashtra Seamless Ltd",
+      "Sector": "Industrials",
       "Instruments": "Equity",
       "Assets": "1.18%"
     },
     {
-      "Name": "Rossell Techsys Ltd.",
-      "Sector": "Capital Goods",
+      "Name": "Rossell Techsys Ltd",
+      "Sector": "Industrials",
       "Instruments": "Equity",
       "Assets": "1.18%"
     },
     {
-      "Name": "Zydus Wellness Ltd.",
+      "Name": "Zydus Wellness Ltd",
       "Sector": "Consumer Staples",
       "Instruments": "Equity",
       "Assets": "1.14%"
     },
     {
-      "Name": "NMDC Ltd.",
-      "Sector": "Metals & Mining",
+      "Name": "NMDC Ltd",
+      "Sector": "Materials",
       "Instruments": "Equity",
       "Assets": "1.10%"
     },
     {
-      "Name": "JSW Infrastructure Ltd.",
-      "Sector": "Services",
+      "Name": "JSW Infrastructure Ltd",
+      "Sector": "Industrials",
       "Instruments": "Equity",
       "Assets": "1.08%"
     },
     {
-      "Name": "Tata Communications Ltd.",
-      "Sector": "Communication",
+      "Name": "Tata Communications Ltd",
+      "Sector": "Technology",
       "Instruments": "Equity",
       "Assets": "1.06%"
     },
     {
-      "Name": "Reserve Bank of India",
+      "Name": "GOVERNMENT OF INDIA 37077 091 DAYS TBILL 14MY26 FV RS 100",
       "Sector": "Financial",
-      "Instruments": "T-Bills",
+      "Instruments": "Treasury Bills",
       "Assets": "1.00%"
     },
     {
-      "Name": "Dixon Technologies (India) Ltd.",
-      "Sector": "Capital Goods",
+      "Name": "Dixon Technologies (India) Ltd. 26-MAY-26",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Futures",
       "Assets": "0.97%"
     },
     {
-      "Name": "Century Enka Ltd.",
-      "Sector": "Textiles",
+      "Name": "Century Enka Ltd",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
       "Assets": "0.97%"
     },
     {
       "Name": "Juniper Hotels Ltd.",
-      "Sector": "Services",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
       "Assets": "0.88%"
     },
     {
-      "Name": "NCC Ltd.",
-      "Sector": "Construction",
+      "Name": "NCC Ltd",
+      "Sector": "Industrials",
       "Instruments": "Equity",
       "Assets": "0.79%"
     },
     {
-      "Name": "Reserve Bank of India",
+      "Name": "GOVERNMENT OF INDIA 37086 091 DAYS TBILL 22MY26 FV RS 100",
       "Sector": "Financial",
-      "Instruments": "T-Bills",
+      "Instruments": "Treasury Bills",
       "Assets": "0.67%"
     },
     {
-      "Name": "Welspun Corp Ltd.",
-      "Sector": "Metals & Mining",
+      "Name": "Welspun Corp Ltd",
+      "Sector": "Materials",
       "Instruments": "Equity",
       "Assets": "0.64%"
     },
     {
-      "Name": "Aditya Birla Fashion and Retail Ltd.",
-      "Sector": "Services",
+      "Name": "Aditya Birla Fashion and Retail Ltd",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
       "Assets": "0.54%"
     },
     {
-      "Name": "HFCL Ltd.",
-      "Sector": "Communication",
+      "Name": "HFCL Ltd",
+      "Sector": "Technology",
       "Instruments": "Equity",
       "Assets": "0.54%"
     },
     {
-      "Name": "Poly Medicure Ltd.",
+      "Name": "Poly Medicure Ltd",
       "Sector": "Healthcare",
       "Instruments": "Equity",
       "Assets": "0.54%"
     },
     {
-      "Name": "Reserve Bank of India",
+      "Name": "GOVERNMENT OF INDIA 37175 091 DAYS TBILL 04JU26 FV RS 100",
       "Sector": "Financial",
-      "Instruments": "T-Bills",
+      "Instruments": "Treasury Bills",
       "Assets": "0.47%"
     },
     {
-      "Name": "Nippon Life India Asset Management Ltd.",
+      "Name": "Nippon Life India Asset Management Ltd",
       "Sector": "Financial",
       "Instruments": "Equity",
       "Assets": "0.44%"
     },
     {
-      "Name": "Tata Chemicals Ltd.",
-      "Sector": "Chemicals",
+      "Name": "Tata Chemicals Ltd",
+      "Sector": "Materials",
       "Instruments": "Equity",
       "Assets": "0.44%"
     },
     {
-      "Name": "Usha Martin Ltd.",
-      "Sector": "Metals & Mining",
+      "Name": "Usha Martin Ltd",
+      "Sector": "Materials",
       "Instruments": "Equity",
       "Assets": "0.42%"
     },
     {
-      "Name": "Reserve Bank of India",
+      "Name": "GOVERNMENT OF INDIA 37391 091 DAYS TBILL 23JL26 FV RS 100",
       "Sector": "Financial",
-      "Instruments": "T-Bills",
+      "Instruments": "Treasury Bills",
       "Assets": "0.40%"
     },
     {
-      "Name": "ICICI Prudential Life Insurance Company Ltd.",
-      "Sector": "Insurance",
+      "Name": "ICICI Prudential Life Insurance Company Ltd",
+      "Sector": "Financial",
       "Instruments": "Equity",
       "Assets": "0.40%"
     },
     {
-      "Name": "Indo Count Industries Ltd.",
-      "Sector": "Textiles",
+      "Name": "Indo Count Industries Ltd",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
       "Assets": "0.34%"
     },
     {
-      "Name": "Pfizer Ltd.",
+      "Name": "Pfizer Ltd",
       "Sector": "Healthcare",
       "Instruments": "Equity",
       "Assets": "0.34%"
     },
     {
-      "Name": "Reserve Bank of India",
+      "Name": "GOVERNMENT OF INDIA 37017 091 DAYS TBILL 07MY26 FV RS 100",
       "Sector": "Financial",
-      "Instruments": "T-Bills",
+      "Instruments": "Treasury Bills",
       "Assets": "0.33%"
     },
     {
-      "Name": "Reserve Bank of India",
+      "Name": "GOVERNMENT OF INDIA 37184 091 DAYS TBILL 11JU26 FV RS 100",
       "Sector": "Financial",
-      "Instruments": "T-Bills",
+      "Instruments": "Treasury Bills",
       "Assets": "0.33%"
     },
     {
-      "Name": "Reserve Bank of India",
+      "Name": "GOVERNMENT OF INDIA 37221 091 DAYS TBILL 19JU26 FV RS 100",
       "Sector": "Financial",
-      "Instruments": "T-Bills",
+      "Instruments": "Treasury Bills",
       "Assets": "0.33%"
     },
     {
-      "Name": "Reserve Bank of India",
+      "Name": "GOVERNMENT OF INDIA 37410 091 DAYS TBILL 30JL26 FV RS 100",
       "Sector": "Financial",
-      "Instruments": "T-Bills",
+      "Instruments": "Treasury Bills",
       "Assets": "0.33%"
     },
     {
-      "Name": "3M India Ltd.",
-      "Sector": "Consumer Staples",
+      "Name": "3M India Ltd",
+      "Sector": "Diversified",
       "Instruments": "Equity",
       "Assets": "0.33%"
     },
     {
       "Name": "Quant Healthcare Fund Direct - Growth",
-      "Sector": "--",
+      "Sector": "Unspecified",
       "Instruments": "Mutual Fund",
       "Assets": "0.31%"
     },
     {
-      "Name": "RBL Bank Ltd.",
+      "Name": "RBL Bank Ltd. 26-MAY-26",
       "Sector": "Financial",
       "Instruments": "Futures",
       "Assets": "0.22%"
     },
     {
-      "Name": "Digitide Solutions Ltd.",
-      "Sector": "Services",
+      "Name": "Digitide Solutions Ltd",
+      "Sector": "Industrials",
       "Instruments": "Equity",
       "Assets": "0.19%"
     },
@@ -432,40 +438,46 @@
       "Assets": "0.09%"
     },
     {
-      "Name": "Lancer Containers Lines Ltd.",
-      "Sector": "Services",
+      "Name": "Lancer Containers Lines Ltd",
+      "Sector": "Industrials",
       "Instruments": "Equity",
       "Assets": "0.08%"
     },
     {
-      "Name": "Larsen & Toubro Ltd.",
-      "Sector": "Construction",
+      "Name": "Larsen & Toubro Ltd",
+      "Sector": "Industrials",
       "Instruments": "Equity",
       "Assets": "0.07%"
     },
     {
-      "Name": "Rossell India Ltd.",
+      "Name": "Rossell India Ltd",
       "Sector": "Consumer Staples",
       "Instruments": "Equity",
       "Assets": "0.07%"
     },
     {
-      "Name": "Mahindra Holidays & Resorts India Ltd.",
-      "Sector": "Services",
+      "Name": "Mahindra Holidays & Resorts India Ltd",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
       "Assets": "0.07%"
     },
     {
       "Name": "Life Insurance Corporation of India",
-      "Sector": "Insurance",
+      "Sector": "Financial",
       "Instruments": "Equity",
       "Assets": "0.06%"
     },
     {
       "Name": "Quant Gilt Fund Direct - Growth",
-      "Sector": "--",
+      "Sector": "Unspecified",
       "Instruments": "Mutual Fund",
       "Assets": "0.01%"
+    },
+    {
+      "Name": "Net Payables",
+      "Sector": "Unspecified",
+      "Instruments": "Net Payables",
+      "Assets": "-17.74%"
     }
   ],
   "holding_analysis": {
@@ -500,6 +512,10 @@
         "percentage": 9.46
       },
       {
+        "sector": "Others",
+        "percentage": 7.96
+      },
+      {
         "sector": "Consumer Staples",
         "percentage": 3.74
       },
@@ -526,10 +542,10 @@
     "annualised_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+13.8%",
+        "3Y": "+13.7%",
         "5Y": "+13.8%",
-        "10Y": "+18.3%",
-        "All": "+18.2%"
+        "10Y": "+18.4%",
+        "All": "+18.3%"
       },
       {
         "Name": "Category average (Equity Multi Cap)",
@@ -577,36 +593,36 @@
     {
       "": "",
       "Name": "Kotak Multicap Fund Direct Growth",
-      "1Y": "+5.47%",
-      "3Y": "+21.71%",
+      "1Y": "+6.08%",
+      "3Y": "+21.64%",
       "Fund Size(Cr)": "25,768.71"
     },
     {
       "": "",
       "Name": "HSBC Multi Cap Fund Direct Growth",
-      "1Y": "+4.64%",
-      "3Y": "+21.43%",
+      "1Y": "+5.19%",
+      "3Y": "+21.40%",
       "Fund Size(Cr)": "5,500.08"
     },
     {
       "": "",
       "Name": "Mahindra Manulife Multi Cap Fund Direct Growth",
-      "1Y": "+7.85%",
-      "3Y": "+20.52%",
+      "1Y": "+8.32%",
+      "3Y": "+20.41%",
       "Fund Size(Cr)": "6,438.60"
     },
     {
       "": "",
       "Name": "ICICI Prudential Multicap Fund Direct Plan Growth",
-      "1Y": "+6.33%",
-      "3Y": "+20.01%",
+      "1Y": "+6.53%",
+      "3Y": "+19.82%",
       "Fund Size(Cr)": "16,997.42"
     },
     {
       "": "",
       "Name": "Nippon India Multi Cap Fund Direct Growth",
-      "1Y": "-0.05%",
-      "3Y": "+18.43%",
+      "1Y": "-0.13%",
+      "3Y": "+18.31%",
       "Fund Size(Cr)": "52,634.04"
     }
   ],
@@ -661,7 +677,7 @@
     }
   ],
   "about_fund": {
-    "description": "Quant Multi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Multi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Quant Multi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Multi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 01 Jun 2026 is ₹698.89. The Quant Multi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
+    "description": "Quant Multi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Multi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Quant Multi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Multi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 02 Jun 2026 is ₹700.66. The Quant Multi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
     "investment_objective": "The scheme aims at providing long term capital appreciation and generating income with a diversified portfolio of Large Cap, Mid Cap and Small Cap companies.",
     "benchmark": "Nifty 500 Multicap 50:25:25 Total Return Index"
   },
@@ -676,14 +692,14 @@
     "address": "6th Floor, Sea Breeze Building,Appa Saheb Marathe Marg,Prabhadevi, Mumbai 400025"
   },
   "advanced_ratios": {
-    "top_5": "33%",
-    "top_20": "70%",
+    "top_5": "47%",
+    "top_20": "86%",
     "pe_ratio": 24.04,
     "pb_ratio": 2.44,
-    "alpha": -3.71,
-    "beta": 1.01,
-    "sharpe": 0.45,
-    "sortino": 0.74
+    "alpha": -1.64,
+    "beta": 1.02,
+    "sharpe": 0.5,
+    "sortino": 0.81
   },
   "other_plans_in_same_fund": [
     {
@@ -697,15 +713,15 @@
     },
     {
       "question": "What kind of returns does Quant Multi Cap Fund Direct Growth provide?",
-      "answer": "The Quant Multi Cap Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 18.25% since its inception."
+      "answer": "The Quant Multi Cap Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 18.27% since its inception."
     },
     {
       "question": "How much expense ratio is charged by Quant Multi Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Multi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Multi Cap Fund Direct Growth is 0.72% as of 02 Jun 2026..."
+      "answer": "The termExpense Ratioused for Quant Multi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Multi Cap Fund Direct Growth is 0.68% as of 03 Jun 2026..."
     },
     {
       "question": "What is the AUM of Quant Multi Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Multi Cap Fund Direct Growth is ₹7,466.00Cr as of 02 Jun 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Multi Cap Fund Direct Growth is ₹7,466.00Cr as of 03 Jun 2026."
     },
     {
       "question": "How to Redeem Quant Multi Cap Fund Direct Growth?",
@@ -717,12 +733,12 @@
     },
     {
       "question": "What is the NAV of Quant Multi Cap Fund Direct Growth?",
-      "answer": "The NAV of Quant Multi Cap Fund Direct Growth is ₹698.89 as of 01 Jun 2026."
+      "answer": "The NAV of Quant Multi Cap Fund Direct Growth is ₹700.66 as of 02 Jun 2026."
     },
     {
       "question": "What is the PE and PB ratio of Quant Multi Cap Fund Direct Growth?",
       "answer": "ThePE ratioratio of Quant Multi Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-06-02T09:53:41+0000"
+  "scraped_at": "2026-06-03T10:25:40+0000"
 }
