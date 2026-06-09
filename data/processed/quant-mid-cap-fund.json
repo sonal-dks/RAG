@@ -3,9 +3,9 @@
   "fund_name": "Quant Mid Cap Fund Direct Growth",
   "source_url": "https://groww.in/mutual-funds/quant-mid-cap-fund-direct-growth",
   "basic_info": {
-    "nav": "246.09",
-    "nav_date": "05 Jun '26",
-    "expense_ratio_pct": "0.74",
+    "nav": "242.16",
+    "nav_date": "08 Jun '26",
+    "expense_ratio_pct": "1.64",
     "min_sip": "1,000"
   },
   "fund_category_and_risk": {
@@ -14,14 +14,14 @@
     "risk_level": "Very High Risk"
   },
   "performance_returns": {
-    "1D": "+0.00%",
-    "1M": "+1.29%",
-    "6M": "+3.39%",
-    "1Y": "-0.11%",
-    "3Y": "+17.96%",
-    "5Y": "+18.18%",
-    "10Y": "+18.23%",
-    "All": "+16.81%"
+    "1D": "-1.60%",
+    "1M": "-1.01%",
+    "6M": "+3.35%",
+    "1Y": "-1.89%",
+    "3Y": "+17.17%",
+    "5Y": "+17.55%",
+    "10Y": "+18.02%",
+    "All": "+16.66%"
   },
   "return_calculator": {
     "monthly_investment_used": "1000",
@@ -29,44 +29,44 @@
       {
         "Over the past": "1 year",
         "Total investment": "₹12,000",
-        "Would've become": "₹12,660",
-        "Returns": "+5.50%"
+        "Would've become": "₹12,453",
+        "Returns": "+3.77%"
       },
       {
         "Over the past": "3 years",
         "Total investment": "₹36,000",
-        "Would've become": "₹39,275",
-        "Returns": "+9.10%"
+        "Would've become": "₹38,636",
+        "Returns": "+7.32%"
       },
       {
         "Over the past": "5 years",
         "Total investment": "₹60,000",
-        "Would've become": "₹84,009",
-        "Returns": "+40.02%"
+        "Would've become": "₹82,590",
+        "Returns": "+37.65%"
       },
       {
         "Over the past": "10 years",
         "Total investment": "₹1,20,000",
-        "Would've become": "₹3,46,621",
-        "Returns": "+188.85%"
+        "Would've become": "₹3,40,587",
+        "Returns": "+183.82%"
       }
     ],
     "sip_return_rates": [
       {
         "period": "1 year",
-        "return_pct": 5.5
+        "return_pct": 3.77
       },
       {
         "period": "3 years",
-        "return_pct": 9.1
+        "return_pct": 7.32
       },
       {
         "period": "5 years",
-        "return_pct": 40.02
+        "return_pct": 37.65
       },
       {
         "period": "10 years",
-        "return_pct": 188.85
+        "return_pct": 183.82
       }
     ]
   },
@@ -336,10 +336,10 @@
     "annualised_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+18.0%",
-        "5Y": "+18.2%",
-        "10Y": "+18.2%",
-        "All": "+16.8%"
+        "3Y": "+17.2%",
+        "5Y": "+17.6%",
+        "10Y": "+18.0%",
+        "All": "+16.7%"
       },
       {
         "Name": "Category average (Equity Mid Cap)",
@@ -387,36 +387,36 @@
     {
       "": "",
       "Name": "WhiteOak Capital Mid Cap Fund Direct Growth",
-      "1Y": "+11.52%",
-      "3Y": "+25.54%",
+      "1Y": "+8.87%",
+      "3Y": "+24.79%",
       "Fund Size(Cr)": "5,293.04"
     },
     {
       "": "",
       "Name": "Edelweiss Mid Cap Direct Plan Growth",
-      "1Y": "+5.84%",
-      "3Y": "+24.37%",
+      "1Y": "+3.47%",
+      "3Y": "+23.64%",
       "Fund Size(Cr)": "15,910.69"
     },
     {
       "": "",
       "Name": "Nippon India Growth Mid Cap Fund Direct Growth",
-      "1Y": "+6.45%",
-      "3Y": "+23.61%",
+      "1Y": "+4.06%",
+      "3Y": "+23.02%",
       "Fund Size(Cr)": "45,820.33"
     },
     {
       "": "",
       "Name": "Sundaram Mid Cap Fund Direct Growth",
-      "1Y": "+5.60%",
-      "3Y": "+23.06%",
+      "1Y": "+3.07%",
+      "3Y": "+22.22%",
       "Fund Size(Cr)": "13,378.01"
     },
     {
       "": "",
       "Name": "HDFC Mid Cap Fund Direct Growth",
-      "1Y": "+5.30%",
-      "3Y": "+22.01%",
+      "1Y": "+3.44%",
+      "3Y": "+21.21%",
       "Fund Size(Cr)": "94,744.72"
     }
   ],
@@ -465,7 +465,7 @@
     }
   ],
   "about_fund": {
-    "description": "Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94, Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 05 Jun 2026 is ₹246.09. The Quant Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 0.50% if redeemed within 3 months. ...Read more",
+    "description": "Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94, Quant Mid Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Mid Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 08 Jun 2026 is ₹242.16. The Quant Mid Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 0.50% if redeemed within 3 months. ...Read more",
     "investment_objective": "The scheme aims at providing long term capital appreciation and generating income with a diversified portfolio of Mid Cap companies.",
     "benchmark": "NIFTY Midcap 150 Total Return Index"
   },
@@ -501,15 +501,15 @@
     },
     {
       "question": "What kind of returns does Quant Mid Cap Fund Direct Growth provide?",
-      "answer": "The Quant Mid Cap Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 16.81% since its inception."
+      "answer": "The Quant Mid Cap Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 16.66% since its inception."
     },
     {
       "question": "How much expense ratio is charged by Quant Mid Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 0.74% as of 08 Jun 2026..."
+      "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 1.64% as of 09 Jun 2026..."
     },
     {
       "question": "What is the AUM of Quant Mid Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹7,904.71Cr as of 08 Jun 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹7,904.71Cr as of 09 Jun 2026."
     },
     {
       "question": "How to Redeem Quant Mid Cap Fund Direct Growth?",
@@ -521,12 +521,12 @@
     },
     {
       "question": "What is the NAV of Quant Mid Cap Fund Direct Growth?",
-      "answer": "The NAV of Quant Mid Cap Fund Direct Growth is ₹246.09 as of 05 Jun 2026."
+      "answer": "The NAV of Quant Mid Cap Fund Direct Growth is ₹242.16 as of 08 Jun 2026."
     },
     {
       "question": "What is the PE and PB ratio of Quant Mid Cap Fund Direct Growth?",
       "answer": "ThePE ratioratio of Quant Mid Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-06-08T10:10:21+0000"
+  "scraped_at": "2026-06-09T08:51:21+0000"
 }
