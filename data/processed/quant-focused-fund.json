@@ -3,9 +3,9 @@
   "fund_name": "Quant Focused Fund Direct Growth",
   "source_url": "https://groww.in/mutual-funds/quant-focused-fund-direct-growth",
   "basic_info": {
-    "nav": "100.96",
-    "nav_date": "09 Jun '26",
-    "expense_ratio_pct": "0.85",
+    "nav": "99.27",
+    "nav_date": "10 Jun '26",
+    "expense_ratio_pct": "0.96",
     "min_sip": "1,000"
   },
   "fund_category_and_risk": {
@@ -14,14 +14,14 @@
     "risk_level": "Very High Risk"
   },
   "performance_returns": {
-    "1D": "+1.38%",
-    "1M": "+2.60%",
-    "6M": "+6.45%",
-    "1Y": "+5.53%",
-    "3Y": "+17.24%",
-    "5Y": "+13.84%",
-    "10Y": "+15.57%",
-    "All": "+16.76%"
+    "1D": "-1.67%",
+    "1M": "+0.89%",
+    "6M": "+5.06%",
+    "1Y": "+3.78%",
+    "3Y": "+16.56%",
+    "5Y": "+13.40%",
+    "10Y": "+15.35%",
+    "All": "+16.61%"
   },
   "return_calculator": {
     "monthly_investment_used": "1000",
@@ -29,44 +29,44 @@
       {
         "Over the past": "1 year",
         "Total investment": "₹12,000",
-        "Would've become": "₹12,856",
-        "Returns": "+7.13%"
+        "Would've become": "₹12,646",
+        "Returns": "+5.38%"
       },
       {
         "Over the past": "3 years",
         "Total investment": "₹36,000",
-        "Would've become": "₹41,012",
-        "Returns": "+13.92%"
+        "Would've become": "₹40,327",
+        "Returns": "+12.02%"
       },
       {
         "Over the past": "5 years",
         "Total investment": "₹60,000",
-        "Would've become": "₹83,108",
-        "Returns": "+38.51%"
+        "Would've become": "₹81,702",
+        "Returns": "+36.17%"
       },
       {
         "Over the past": "10 years",
         "Total investment": "₹1,20,000",
-        "Would've become": "₹2,79,098",
-        "Returns": "+132.58%"
+        "Would've become": "₹2,74,338",
+        "Returns": "+128.61%"
       }
     ],
     "sip_return_rates": [
       {
         "period": "1 year",
-        "return_pct": 7.13
+        "return_pct": 5.38
       },
       {
         "period": "3 years",
-        "return_pct": 13.92
+        "return_pct": 12.02
       },
       {
         "period": "5 years",
-        "return_pct": 38.51
+        "return_pct": 36.17
       },
       {
         "period": "10 years",
-        "return_pct": 132.58
+        "return_pct": 128.61
       }
     ]
   },
@@ -224,34 +224,42 @@
   ],
   "holding_analysis": {
     "equity_debt_cash_split": {
-      "equity_pct": 99.24,
-      "debt_pct": 6.36,
-      "cash_pct": -5.59
+      "equity_pct": 99.48,
+      "debt_pct": 6.61,
+      "cash_pct": -6.09
     },
     "sector_allocation": [
       {
         "sector": "Financial",
-        "percentage": 43.03
+        "percentage": 32.86
       },
       {
         "sector": "Energy & Utilities",
-        "percentage": 19.15
+        "percentage": 23.91
       },
       {
         "sector": "Technology",
-        "percentage": 9.96
+        "percentage": 14.65
       },
       {
         "sector": "Materials",
-        "percentage": 9.95
+        "percentage": 9.65
       },
       {
         "sector": "Industrials",
-        "percentage": 9.15
+        "percentage": 9.36
       },
       {
         "sector": "Consumer Discretionary",
-        "percentage": 8.76
+        "percentage": 7.17
+      },
+      {
+        "sector": "Consumer Staples",
+        "percentage": 1.24
+      },
+      {
+        "sector": "Healthcare",
+        "percentage": 1.16
       }
     ]
   },
@@ -264,10 +272,10 @@
     "annualised_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+17.2%",
-        "5Y": "+13.8%",
-        "10Y": "+15.6%",
-        "All": "+16.8%"
+        "3Y": "+16.6%",
+        "5Y": "+13.4%",
+        "10Y": "+15.3%",
+        "All": "+16.6%"
       },
       {
         "Name": "Category average (Equity Large Cap)",
@@ -315,36 +323,36 @@
     {
       "": "",
       "Name": "Invesco India Largecap Fund Direct Growth",
-      "1Y": "-1.64%",
-      "3Y": "+14.84%",
-      "Fund Size(Cr)": "1,721.89"
+      "1Y": "-2.01%",
+      "3Y": "+14.62%",
+      "Fund Size(Cr)": "1,749.02"
     },
     {
       "": "",
       "Name": "WhiteOak Capital Large Cap Fund Direct Growth",
-      "1Y": "-2.76%",
-      "3Y": "+14.54%",
+      "1Y": "-3.04%",
+      "3Y": "+14.43%",
       "Fund Size(Cr)": "1,163.57"
     },
     {
       "": "",
       "Name": "Nippon India Large Cap Fund Direct Growth",
-      "1Y": "-4.60%",
-      "3Y": "+13.93%",
-      "Fund Size(Cr)": "51,690.28"
+      "1Y": "-4.58%",
+      "3Y": "+13.88%",
+      "Fund Size(Cr)": "51,660.30"
     },
     {
       "": "",
       "Name": "ICICI Prudential Large Cap Fund Direct Growth",
-      "1Y": "-5.02%",
-      "3Y": "+13.49%",
+      "1Y": "-5.05%",
+      "3Y": "+13.43%",
       "Fund Size(Cr)": "76,296.98"
     },
     {
       "": "",
       "Name": "DSP Large Cap Fund Direct Growth",
-      "1Y": "-6.97%",
-      "3Y": "+13.22%",
+      "1Y": "-7.00%",
+      "3Y": "+13.18%",
       "Fund Size(Cr)": "7,192.01"
     }
   ],
@@ -399,7 +407,7 @@
     }
   ],
   "about_fund": {
-    "description": "Quant Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94, Quant Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 09 Jun 2026 is ₹100.96. The Quant Focused Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
+    "description": "Quant Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94, Quant Focused Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Focused Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 10 Jun 2026 is ₹99.27. The Quant Focused Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹1,000. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
     "investment_objective": "The scheme seeks to provide capital appreciation by investing in a focused portfolio of Large cap -'bluechip' companies",
     "benchmark": "NIFTY 500 Total Return Index"
   },
@@ -416,8 +424,8 @@
   "advanced_ratios": {
     "top_5": "59%",
     "top_20": "123%",
-    "pe_ratio": 27.3,
-    "pb_ratio": 3.18,
+    "pe_ratio": 33.62,
+    "pb_ratio": 3.8,
     "alpha": 6.1,
     "beta": 1.22,
     "sharpe": 0.66,
@@ -435,15 +443,15 @@
     },
     {
       "question": "What kind of returns does Quant Focused Fund Direct Growth provide?",
-      "answer": "The Quant Focused Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 16.76% since its inception."
+      "answer": "The Quant Focused Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 16.61% since its inception."
     },
     {
       "question": "How much expense ratio is charged by Quant Focused Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Focused Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Focused Fund Direct Growth is 0.85% as of 10 Jun 2026..."
+      "answer": "The termExpense Ratioused for Quant Focused Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Focused Fund Direct Growth is 0.96% as of 11 Jun 2026..."
     },
     {
       "question": "What is the AUM of Quant Focused Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Focused Fund Direct Growth is ₹813.02Cr as of 10 Jun 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Focused Fund Direct Growth is ₹840.38Cr as of 11 Jun 2026."
     },
     {
       "question": "How to Redeem Quant Focused Fund Direct Growth?",
@@ -455,12 +463,12 @@
     },
     {
       "question": "What is the NAV of Quant Focused Fund Direct Growth?",
-      "answer": "The NAV of Quant Focused Fund Direct Growth is ₹100.96 as of 09 Jun 2026."
+      "answer": "The NAV of Quant Focused Fund Direct Growth is ₹99.27 as of 10 Jun 2026."
     },
     {
       "question": "What is the PE and PB ratio of Quant Focused Fund Direct Growth?",
       "answer": "ThePE ratioratio of Quant Focused Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-06-10T09:08:40+0000"
+  "scraped_at": "2026-06-11T09:54:32+0000"
 }

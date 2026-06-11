@@ -3,9 +3,9 @@
   "fund_name": "Quant Flexi Cap Fund Direct Growth",
   "source_url": "https://groww.in/mutual-funds/quant-flexi-cap-fund-direct-growth",
   "basic_info": {
-    "nav": "119.04",
-    "nav_date": "09 Jun '26",
-    "expense_ratio_pct": "1.05",
+    "nav": "117.88",
+    "nav_date": "10 Jun '26",
+    "expense_ratio_pct": "2.12",
     "min_sip": "250"
   },
   "fund_category_and_risk": {
@@ -14,14 +14,14 @@
     "risk_level": "Very High Risk"
   },
   "performance_returns": {
-    "1D": "+0.91%",
-    "1M": "+1.66%",
-    "6M": "+9.07%",
-    "1Y": "+8.60%",
-    "3Y": "+19.62%",
-    "5Y": "+17.79%",
-    "10Y": "+20.41%",
-    "All": "+18.70%"
+    "1D": "-0.98%",
+    "1M": "+0.66%",
+    "6M": "+8.20%",
+    "1Y": "+7.31%",
+    "3Y": "+19.21%",
+    "5Y": "+17.38%",
+    "10Y": "+20.31%",
+    "All": "+18.61%"
   },
   "return_calculator": {
     "monthly_investment_used": "250",
@@ -29,44 +29,44 @@
       {
         "Over the past": "1 year",
         "Total investment": "₹3,000",
-        "Would've become": "₹3,276",
-        "Returns": "+9.20%"
+        "Would've become": "₹3,244",
+        "Returns": "+8.13%"
       },
       {
         "Over the past": "3 years",
         "Total investment": "₹9,000",
-        "Would've become": "₹10,608",
-        "Returns": "+17.87%"
+        "Would've become": "₹10,503",
+        "Returns": "+16.70%"
       },
       {
         "Over the past": "5 years",
         "Total investment": "₹15,000",
-        "Would've become": "₹22,009",
-        "Returns": "+46.73%"
+        "Would've become": "₹21,787",
+        "Returns": "+45.25%"
       },
       {
         "Over the past": "10 years",
         "Total investment": "₹30,000",
-        "Would've become": "₹89,115",
-        "Returns": "+197.05%"
+        "Would've become": "₹88,201",
+        "Returns": "+194.00%"
       }
     ],
     "sip_return_rates": [
       {
         "period": "1 year",
-        "return_pct": 9.2
+        "return_pct": 8.13
       },
       {
         "period": "3 years",
-        "return_pct": 17.87
+        "return_pct": 16.7
       },
       {
         "period": "5 years",
-        "return_pct": 46.73
+        "return_pct": 45.25
       },
       {
         "period": "10 years",
-        "return_pct": 197.05
+        "return_pct": 194.0
       }
     ]
   },
@@ -344,38 +344,38 @@
   ],
   "holding_analysis": {
     "equity_debt_cash_split": {
-      "equity_pct": 96.27,
+      "equity_pct": 97.58,
       "debt_pct": 3.55,
-      "cash_pct": -2.0
+      "cash_pct": -2.69
     },
     "sector_allocation": [
       {
-        "sector": "Financial",
-        "percentage": 28.22
+        "sector": "Energy & Utilities",
+        "percentage": 25.53
       },
       {
-        "sector": "Energy & Utilities",
-        "percentage": 25.32
+        "sector": "Financial",
+        "percentage": 22.2
       },
       {
         "sector": "Consumer Discretionary",
-        "percentage": 16.68
-      },
-      {
-        "sector": "Healthcare",
-        "percentage": 11.64
-      },
-      {
-        "sector": "Industrials",
-        "percentage": 9.16
+        "percentage": 17.07
       },
       {
         "sector": "Materials",
-        "percentage": 8.48
+        "percentage": 9.74
+      },
+      {
+        "sector": "Healthcare",
+        "percentage": 9.13
+      },
+      {
+        "sector": "Industrials",
+        "percentage": 8.55
       },
       {
         "sector": "Technology",
-        "percentage": 0.5
+        "percentage": 7.79
       }
     ]
   },
@@ -388,10 +388,10 @@
     "annualised_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+19.6%",
-        "5Y": "+17.8%",
-        "10Y": "+20.4%",
-        "All": "+18.7%"
+        "3Y": "+19.2%",
+        "5Y": "+17.4%",
+        "10Y": "+20.3%",
+        "All": "+18.6%"
       },
       {
         "Name": "Category average (Equity Flexi Cap)",
@@ -402,7 +402,7 @@
       },
       {
         "Name": "Rank (Equity Flexi Cap)",
-        "3Y": "4",
+        "3Y": "5",
         "5Y": "--",
         "10Y": "--",
         "All": "--"
@@ -425,7 +425,7 @@
       },
       {
         "Name": "Rank (Equity Flexi Cap)",
-        "3Y": "4",
+        "3Y": "5",
         "5Y": "--",
         "10Y": "--",
         "All": "--"
@@ -439,36 +439,36 @@
     {
       "": "",
       "Name": "ITI Flexi Cap Fund Direct Growth",
-      "1Y": "+3.81%",
-      "3Y": "+19.71%",
+      "1Y": "+2.88%",
+      "3Y": "+19.45%",
       "Fund Size(Cr)": "1,290.33"
     },
     {
       "": "",
-      "Name": "HSBC Flexi Cap Fund Direct Growth",
-      "1Y": "+0.42%",
-      "3Y": "+17.71%",
-      "Fund Size(Cr)": "5,405.12"
-    },
-    {
-      "": "",
       "Name": "HDFC Flexi Cap Direct Plan Growth",
-      "1Y": "-1.64%",
-      "3Y": "+17.35%",
+      "1Y": "-1.65%",
+      "3Y": "+17.28%",
       "Fund Size(Cr)": "1,01,821.82"
     },
     {
       "": "",
+      "Name": "HSBC Flexi Cap Fund Direct Growth",
+      "1Y": "-0.91%",
+      "3Y": "+17.20%",
+      "Fund Size(Cr)": "5,538.48"
+    },
+    {
+      "": "",
       "Name": "Parag Parikh Flexi Cap Fund Direct Growth",
-      "1Y": "-3.25%",
-      "3Y": "+15.30%",
+      "1Y": "-3.75%",
+      "3Y": "+15.15%",
       "Fund Size(Cr)": "1,40,949.13"
     },
     {
       "": "",
       "Name": "Franklin India Flexi Cap Fund Direct Growth",
-      "1Y": "-6.63%",
-      "3Y": "+14.40%",
+      "1Y": "-7.08%",
+      "3Y": "+14.24%",
       "Fund Size(Cr)": "19,049.25"
     }
   ],
@@ -523,7 +523,7 @@
     }
   ],
   "about_fund": {
-    "description": "Quant Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Quant Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 09 Jun 2026 is ₹119.04. The Quant Flexi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹250. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
+    "description": "Quant Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of Quant Flexi Cap Fund Direct Growth is a Equity Mutual Fund Scheme launched by Quant Mutual Fund. This scheme was made available to investors on 14 Apr 1996. Varun Pattani is the Current Fund Manager of Quant Flexi Cap Fund Direct Growth fund. The fund currently has an Asset Under Management(AUM) of ₹94,000 Cr and the Latest NAV as of 10 Jun 2026 is ₹117.88. The Quant Flexi Cap Fund Direct Growth is rated Very High risk. Minimum SIP Investment is set to ₹250. Minimum Lumpsum Investment is ₹5,000. Exit load of 1%, if redeemed within 15 days. ...Read more",
     "investment_objective": "The scheme seeks to provide long-term capital gains by investing predominantly in equity and equity-related instruments of the companies which are consumption driven.",
     "benchmark": "NIFTY 500 Total Return Index"
   },
@@ -540,8 +540,8 @@
   "advanced_ratios": {
     "top_5": "44%",
     "top_20": "98%",
-    "pe_ratio": 29.23,
-    "pb_ratio": 3.6,
+    "pe_ratio": 33.88,
+    "pb_ratio": 3.77,
     "alpha": 5.74,
     "beta": 1.16,
     "sharpe": 0.77,
@@ -559,15 +559,15 @@
     },
     {
       "question": "What kind of returns does Quant Flexi Cap Fund Direct Growth provide?",
-      "answer": "The Quant Flexi Cap Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 18.70% since its inception."
+      "answer": "The Quant Flexi Cap Fund Direct Growth has been there from 07 Jan 2013 and the average annual returns provided by this fund is 18.61% since its inception."
     },
     {
       "question": "How much expense ratio is charged by Quant Flexi Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Flexi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Flexi Cap Fund Direct Growth is 1.05% as of 10 Jun 2026..."
+      "answer": "The termExpense Ratioused for Quant Flexi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Flexi Cap Fund Direct Growth is 2.12% as of 11 Jun 2026..."
     },
     {
       "question": "What is the AUM of Quant Flexi Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Flexi Cap Fund Direct Growth is ₹6,593.52Cr as of 10 Jun 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Flexi Cap Fund Direct Growth is ₹6,993.58Cr as of 11 Jun 2026."
     },
     {
       "question": "How to Redeem Quant Flexi Cap Fund Direct Growth?",
@@ -579,12 +579,12 @@
     },
     {
       "question": "What is the NAV of Quant Flexi Cap Fund Direct Growth?",
-      "answer": "The NAV of Quant Flexi Cap Fund Direct Growth is ₹119.04 as of 09 Jun 2026."
+      "answer": "The NAV of Quant Flexi Cap Fund Direct Growth is ₹117.88 as of 10 Jun 2026."
     },
     {
       "question": "What is the PE and PB ratio of Quant Flexi Cap Fund Direct Growth?",
       "answer": "ThePE ratioratio of Quant Flexi Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-06-10T09:08:39+0000"
+  "scraped_at": "2026-06-11T09:54:31+0000"
 }
