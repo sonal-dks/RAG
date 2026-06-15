@@ -72,190 +72,190 @@
   },
   "holdings": [
     {
-      "Name": "Reliance Industries Ltd",
-      "Sector": "Energy & Utilities",
-      "Instruments": "Equity",
-      "Assets": "9.96%"
-    },
-    {
       "Name": "Adani Power Ltd",
       "Sector": "Energy & Utilities",
       "Instruments": "Equity",
-      "Assets": "9.28%"
+      "Assets": "9.74%"
     },
     {
       "Name": "ICICI Bank Ltd",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "8.98%"
+      "Assets": "9.13%"
     },
     {
-      "Name": "Larsen & Toubro Ltd",
-      "Sector": "Industrials",
+      "Name": "Reliance Industries Ltd",
+      "Sector": "Energy & Utilities",
       "Instruments": "Equity",
-      "Assets": "7.55%"
-    },
-    {
-      "Name": "Aurobindo Pharma Ltd",
-      "Sector": "Healthcare",
-      "Instruments": "Equity",
-      "Assets": "7.46%"
+      "Assets": "8.80%"
     },
     {
       "Name": "Samvardhana Motherson International Ltd",
       "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
-      "Assets": "7.29%"
+      "Assets": "8.38%"
     },
     {
-      "Name": "Repo",
-      "Sector": "Unspecified",
-      "Instruments": "Repo",
-      "Assets": "6.01%"
-    },
-    {
-      "Name": "Tata Power Company Ltd",
-      "Sector": "Energy & Utilities",
+      "Name": "Larsen & Toubro Ltd",
+      "Sector": "Industrials",
       "Instruments": "Equity",
-      "Assets": "5.24%"
+      "Assets": "7.34%"
+    },
+    {
+      "Name": "Aurobindo Pharma Ltd",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "7.26%"
     },
     {
       "Name": "Adani Green Energy Ltd",
       "Sector": "Energy & Utilities",
       "Instruments": "Equity",
-      "Assets": "4.53%"
+      "Assets": "5.21%"
     },
     {
-      "Name": "Life Insurance Corporation of India",
-      "Sector": "Financial",
+      "Name": "Tata Power Company Ltd",
+      "Sector": "Energy & Utilities",
       "Instruments": "Equity",
-      "Assets": "4.38%"
+      "Assets": "4.74%"
     },
     {
-      "Name": "HDFC Life Insurance Co Ltd",
-      "Sector": "Financial",
+      "Name": "Tech Mahindra Ltd",
+      "Sector": "Technology",
       "Instruments": "Equity",
-      "Assets": "3.79%"
-    },
-    {
-      "Name": "Grasim Industries Ltd",
-      "Sector": "Materials",
-      "Instruments": "Equity",
-      "Assets": "3.35%"
-    },
-    {
-      "Name": "Kotak Mahindra Bank Ltd",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "2.87%"
-    },
-    {
-      "Name": "Adani Enterprises Ltd",
-      "Sector": "Materials",
-      "Instruments": "Equity",
-      "Assets": "2.48%"
-    },
-    {
-      "Name": "DLF Ltd",
-      "Sector": "Real Estate",
-      "Instruments": "Equity",
-      "Assets": "2.21%"
-    },
-    {
-      "Name": "ICICI Prudential Asset Management Company Ltd.",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "2.15%"
-    },
-    {
-      "Name": "Capri Global Capital Ltd",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "1.88%"
-    },
-    {
-      "Name": "Dixon Technologies (India) Ltd",
-      "Sector": "Consumer Discretionary",
-      "Instruments": "Equity",
-      "Assets": "1.88%"
+      "Assets": "4.66%"
     },
     {
       "Name": "Bharti Airtel Ltd",
       "Sector": "Technology",
       "Instruments": "Equity",
-      "Assets": "1.83%"
+      "Assets": "3.86%"
+    },
+    {
+      "Name": "HDFC Life Insurance Co Ltd",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "3.67%"
+    },
+    {
+      "Name": "Premier Energies Ltd.",
+      "Sector": "Energy & Utilities",
+      "Instruments": "Equity",
+      "Assets": "3.32%"
+    },
+    {
+      "Name": "Repo",
+      "Sector": "Unspecified",
+      "Instruments": "Repo",
+      "Assets": "3.02%"
+    },
+    {
+      "Name": "Adani Enterprises Ltd",
+      "Sector": "Materials",
+      "Instruments": "Equity",
+      "Assets": "2.89%"
     },
     {
       "Name": "Bharat Heavy Electricals Ltd",
       "Sector": "Industrials",
       "Instruments": "Equity",
-      "Assets": "1.48%"
+      "Assets": "2.44%"
+    },
+    {
+      "Name": "ICICI Prudential Asset Management Company Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "2.21%"
+    },
+    {
+      "Name": "DLF Ltd",
+      "Sector": "Real Estate",
+      "Instruments": "Equity",
+      "Assets": "2.13%"
+    },
+    {
+      "Name": "Adani Transmission Ltd",
+      "Sector": "Energy & Utilities",
+      "Instruments": "Equity",
+      "Assets": "1.98%"
+    },
+    {
+      "Name": "Capri Global Capital Ltd",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "1.92%"
+    },
+    {
+      "Name": "Dixon Technologies (India) Ltd",
+      "Sector": "Consumer Discretionary",
+      "Instruments": "Equity",
+      "Assets": "1.85%"
     },
     {
       "Name": "Himadri Speciality Chemical Ltd",
       "Sector": "Materials",
       "Instruments": "Equity",
-      "Assets": "1.15%"
+      "Assets": "1.10%"
     },
     {
       "Name": "Reliance Naval and Engineering Ltd",
       "Sector": "Industrials",
       "Instruments": "Equity",
-      "Assets": "0.97%"
+      "Assets": "1.04%"
     },
     {
       "Name": "Lloyds Metals and Energy Ltd",
       "Sector": "Materials",
       "Instruments": "Equity",
-      "Assets": "0.93%"
+      "Assets": "0.90%"
     },
     {
       "Name": "Ventive Hospitality Ltd.",
       "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
-      "Assets": "0.69%"
+      "Assets": "0.66%"
     },
     {
       "Name": "LG Electronics India Ltd.",
       "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
-      "Assets": "0.67%"
+      "Assets": "0.62%"
     },
     {
       "Name": "AFCONS INFRASTRUCTURE LIMITED EQ",
       "Sector": "Industrials",
       "Instruments": "Equity",
-      "Assets": "0.33%"
-    },
-    {
-      "Name": "Krystal Integrated Services Ltd.",
-      "Sector": "Industrials",
-      "Instruments": "Equity",
-      "Assets": "0.25%"
-    },
-    {
-      "Name": "Juniper Hotels Ltd.",
-      "Sector": "Consumer Discretionary",
-      "Instruments": "Equity",
-      "Assets": "0.22%"
+      "Assets": "0.32%"
     },
     {
       "Name": "Indiabulls Real Estate Ltd",
       "Sector": "Real Estate",
       "Instruments": "Equity",
-      "Assets": "0.19%"
+      "Assets": "0.24%"
+    },
+    {
+      "Name": "Krystal Integrated Services Ltd.",
+      "Sector": "Industrials",
+      "Instruments": "Equity",
+      "Assets": "0.23%"
     },
     {
       "Name": "Welspun India Ltd",
       "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
-      "Assets": "0.15%"
+      "Assets": "0.20%"
+    },
+    {
+      "Name": "Juniper Hotels Ltd.",
+      "Sector": "Consumer Discretionary",
+      "Instruments": "Equity",
+      "Assets": "0.20%"
     },
     {
       "Name": "Net Payables",
       "Sector": "Unspecified",
       "Instruments": "Net Payables",
-      "Assets": "-0.13%"
+      "Assets": "-0.07%"
     }
   ],
   "holding_analysis": {
@@ -331,10 +331,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+68.44%",
-        "5Y": "+121.15%",
-        "10Y": "+551.97%",
-        "All": "+1038.22%"
+        "3Y": "+64.82%",
+        "5Y": "+115.58%",
+        "10Y": "+552.30%",
+        "All": "+1030.67%"
       },
       {
         "Name": "Category average (Equity ELSS)",
@@ -454,8 +454,8 @@
   "advanced_ratios": {
     "top_5": "43%",
     "top_20": "95%",
-    "pe_ratio": 31.38,
-    "pb_ratio": 3.81,
+    "pe_ratio": 30.59,
+    "pb_ratio": 3.84,
     "alpha": 4.88,
     "beta": 1.12,
     "sharpe": 0.74,
@@ -477,11 +477,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant ELSS Tax Saver Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant ELSS Tax Saver Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ELSS Tax Saver Fund Direct Growth is 0.72% as of 14 Jun 2026..."
+      "answer": "The termExpense Ratioused for Quant ELSS Tax Saver Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ELSS Tax Saver Fund Direct Growth is 0.72% as of 15 Jun 2026..."
     },
     {
       "question": "What is the AUM of Quant ELSS Tax Saver Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant ELSS Tax Saver Fund Direct Growth is ₹13,070.35Cr as of 14 Jun 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant ELSS Tax Saver Fund Direct Growth is ₹13,070.35Cr as of 15 Jun 2026."
     },
     {
       "question": "How to Redeem Quant ELSS Tax Saver Fund Direct Growth?",
@@ -500,5 +500,5 @@
       "answer": "ThePE ratioratio of Quant ELSS Tax Saver Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-06-14T08:58:29+0000"
+  "scraped_at": "2026-06-15T11:37:36+0000"
 }

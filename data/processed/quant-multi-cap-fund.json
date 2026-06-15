@@ -75,163 +75,169 @@
       "Name": "Repo",
       "Sector": "Unspecified",
       "Instruments": "Repo",
-      "Assets": "17.95%"
-    },
-    {
-      "Name": "Adani Power Ltd",
-      "Sector": "Energy & Utilities",
-      "Instruments": "Equity",
-      "Assets": "8.63%"
+      "Assets": "16.67%"
     },
     {
       "Name": "Aurobindo Pharma Ltd",
       "Sector": "Healthcare",
       "Instruments": "Equity",
-      "Assets": "7.99%"
+      "Assets": "7.92%"
     },
     {
-      "Name": "MIDCAPNIFTY 26/05/2026",
+      "Name": "MIDCAPNIFTY 30/06/2026",
       "Sector": "Financial",
       "Instruments": "Index Derivatives",
-      "Assets": "7.64%"
+      "Assets": "7.83%"
+    },
+    {
+      "Name": "Adani Power Ltd",
+      "Sector": "Energy & Utilities",
+      "Instruments": "Equity",
+      "Assets": "5.98%"
+    },
+    {
+      "Name": "ICICI Bank Ltd. 30-JUN-26",
+      "Sector": "Financial",
+      "Instruments": "Futures",
+      "Assets": "4.80%"
     },
     {
       "Name": "ICICI Bank Ltd",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "4.85%"
-    },
-    {
-      "Name": "ICICI Bank Ltd. 26-MAY-26",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "4.03%"
+      "Assets": "4.70%"
     },
     {
       "Name": "Adani Enterprises Ltd",
       "Sector": "Materials",
       "Instruments": "Equity",
-      "Assets": "3.86%"
+      "Assets": "4.59%"
     },
     {
       "Name": "Adani Green Energy Ltd",
       "Sector": "Energy & Utilities",
       "Instruments": "Equity",
-      "Assets": "3.73%"
-    },
-    {
-      "Name": "Reliance Industries Ltd",
-      "Sector": "Energy & Utilities",
-      "Instruments": "Equity",
-      "Assets": "3.15%"
-    },
-    {
-      "Name": "Swan Energy Ltd",
-      "Sector": "Consumer Discretionary",
-      "Instruments": "Equity",
-      "Assets": "2.93%"
+      "Assets": "4.37%"
     },
     {
       "Name": "Samvardhana Motherson International Ltd",
       "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
-      "Assets": "2.84%"
+      "Assets": "3.32%"
     },
     {
-      "Name": "Sun TV Network Ltd",
+      "Name": "Reliance Industries Ltd",
+      "Sector": "Energy & Utilities",
+      "Instruments": "Equity",
+      "Assets": "2.83%"
+    },
+    {
+      "Name": "Swan Energy Ltd",
       "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
-      "Assets": "2.65%"
+      "Assets": "2.81%"
     },
     {
       "Name": "IRB Infrastructure Developers Ltd",
       "Sector": "Industrials",
       "Instruments": "Equity",
-      "Assets": "2.60%"
+      "Assets": "2.49%"
     },
     {
       "Name": "Adani Wilmar Ltd",
       "Sector": "Consumer Staples",
       "Instruments": "Equity",
-      "Assets": "2.35%"
+      "Assets": "2.24%"
     },
     {
-      "Name": "LIC Housing Finance Ltd",
-      "Sector": "Financial",
+      "Name": "Sun TV Network Ltd",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
-      "Assets": "2.07%"
-    },
-    {
-      "Name": "Kotak Mahindra Bank Ltd. 26-MAY-26",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "2.05%"
-    },
-    {
-      "Name": "Crisil Ltd",
-      "Sector": "Industrials",
-      "Instruments": "Equity",
-      "Assets": "2.01%"
+      "Assets": "2.14%"
     },
     {
       "Name": "Strides Pharma Science Ltd",
       "Sector": "Healthcare",
       "Instruments": "Equity",
+      "Assets": "2.06%"
+    },
+    {
+      "Name": "Adani Transmission Ltd",
+      "Sector": "Energy & Utilities",
+      "Instruments": "Equity",
       "Assets": "1.97%"
     },
     {
-      "Name": "KPR Mills Ltd",
-      "Sector": "Consumer Discretionary",
-      "Instruments": "Equity",
-      "Assets": "1.65%"
-    },
-    {
-      "Name": "RELIANCE_(26/05/2026)",
-      "Sector": "Energy & Utilities",
-      "Instruments": "Futures",
-      "Assets": "1.48%"
-    },
-    {
-      "Name": "PB Fintech Ltd",
+      "Name": "LIC Housing Finance Ltd",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "1.46%"
+      "Assets": "1.93%"
     },
     {
-      "Name": "Aditya Birla Lifestyle Brands Ltd",
-      "Sector": "Consumer Discretionary",
+      "Name": "Crisil Ltd",
+      "Sector": "Industrials",
       "Instruments": "Equity",
-      "Assets": "1.44%"
+      "Assets": "1.80%"
     },
     {
       "Name": "Indiabulls Real Estate Ltd",
       "Sector": "Real Estate",
       "Instruments": "Equity",
-      "Assets": "1.42%"
+      "Assets": "1.80%"
     },
     {
-      "Name": "Aurobindo Pharma Ltd. 26-MAY-26",
-      "Sector": "Healthcare",
-      "Instruments": "Futures",
-      "Assets": "1.41%"
+      "Name": "KPR Mills Ltd",
+      "Sector": "Consumer Discretionary",
+      "Instruments": "Equity",
+      "Assets": "1.66%"
     },
     {
-      "Name": "Gujarat State Fertilizers & Chemicals Ltd",
-      "Sector": "Materials",
+      "Name": "Bharti Airtel Ltd",
+      "Sector": "Technology",
+      "Instruments": "Equity",
+      "Assets": "1.51%"
+    },
+    {
+      "Name": "PB Fintech Ltd",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "1.45%"
+    },
+    {
+      "Name": "Aditya Birla Lifestyle Brands Ltd",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
       "Assets": "1.37%"
+    },
+    {
+      "Name": "Reliance Industries Ltd. 30-JUN-26",
+      "Sector": "Energy & Utilities",
+      "Instruments": "Futures",
+      "Assets": "1.34%"
     },
     {
       "Name": "Honda India Power Products Ltd",
       "Sector": "Industrials",
       "Instruments": "Equity",
-      "Assets": "1.34%"
+      "Assets": "1.33%"
     },
     {
       "Name": "Premier Energies Ltd.",
       "Sector": "Energy & Utilities",
       "Instruments": "Equity",
-      "Assets": "1.30%"
+      "Assets": "1.32%"
+    },
+    {
+      "Name": "Gujarat State Fertilizers & Chemicals Ltd",
+      "Sector": "Materials",
+      "Instruments": "Equity",
+      "Assets": "1.28%"
+    },
+    {
+      "Name": "Tata Communications Ltd",
+      "Sector": "Technology",
+      "Instruments": "Equity",
+      "Assets": "1.28%"
     },
     {
       "Name": "Lloyds Metals and Energy Ltd",
@@ -240,154 +246,136 @@
       "Assets": "1.24%"
     },
     {
-      "Name": "Maharashtra Seamless Ltd",
-      "Sector": "Industrials",
-      "Instruments": "Equity",
-      "Assets": "1.18%"
-    },
-    {
       "Name": "Rossell Techsys Ltd",
       "Sector": "Industrials",
       "Instruments": "Equity",
-      "Assets": "1.18%"
+      "Assets": "1.23%"
+    },
+    {
+      "Name": "Maharashtra Seamless Ltd",
+      "Sector": "Industrials",
+      "Instruments": "Equity",
+      "Assets": "1.12%"
     },
     {
       "Name": "Zydus Wellness Ltd",
       "Sector": "Consumer Staples",
       "Instruments": "Equity",
-      "Assets": "1.14%"
-    },
-    {
-      "Name": "NMDC Ltd",
-      "Sector": "Materials",
-      "Instruments": "Equity",
-      "Assets": "1.10%"
-    },
-    {
-      "Name": "JSW Infrastructure Ltd",
-      "Sector": "Industrials",
-      "Instruments": "Equity",
-      "Assets": "1.08%"
-    },
-    {
-      "Name": "Tata Communications Ltd",
-      "Sector": "Technology",
-      "Instruments": "Equity",
-      "Assets": "1.06%"
-    },
-    {
-      "Name": "GOVERNMENT OF INDIA 37077 091 DAYS TBILL 14MY26 FV RS 100",
-      "Sector": "Financial",
-      "Instruments": "Treasury Bills",
-      "Assets": "1.00%"
-    },
-    {
-      "Name": "Dixon Technologies (India) Ltd. 26-MAY-26",
-      "Sector": "Consumer Discretionary",
-      "Instruments": "Futures",
-      "Assets": "0.97%"
+      "Assets": "1.11%"
     },
     {
       "Name": "Century Enka Ltd",
       "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
-      "Assets": "0.97%"
+      "Assets": "1.09%"
+    },
+    {
+      "Name": "JSW Infrastructure Ltd",
+      "Sector": "Industrials",
+      "Instruments": "Equity",
+      "Assets": "1.07%"
+    },
+    {
+      "Name": "Bharat Heavy Electricals Limited_30/06/2026",
+      "Sector": "Industrials",
+      "Instruments": "Futures",
+      "Assets": "1.05%"
+    },
+    {
+      "Name": "DIXON TECHNOLOGIES (INDIA) LTD-30-Jun-2026",
+      "Sector": "Consumer Discretionary",
+      "Instruments": "Futures",
+      "Assets": "0.98%"
     },
     {
       "Name": "Juniper Hotels Ltd.",
       "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
-      "Assets": "0.88%"
+      "Assets": "0.83%"
+    },
+    {
+      "Name": "HFCL Ltd",
+      "Sector": "Technology",
+      "Instruments": "Equity",
+      "Assets": "0.81%"
     },
     {
       "Name": "NCC Ltd",
       "Sector": "Industrials",
       "Instruments": "Equity",
-      "Assets": "0.79%"
+      "Assets": "0.72%"
     },
     {
-      "Name": "GOVERNMENT OF INDIA 37086 091 DAYS TBILL 22MY26 FV RS 100",
-      "Sector": "Financial",
-      "Instruments": "Treasury Bills",
-      "Assets": "0.67%"
+      "Name": "AUROBINDO PHARMA LTD.-30-Jun-2026",
+      "Sector": "Healthcare",
+      "Instruments": "Futures",
+      "Assets": "0.71%"
+    },
+    {
+      "Name": "Adani Enterprises Ltd. 30-JUN-26",
+      "Sector": "Materials",
+      "Instruments": "Futures",
+      "Assets": "0.70%"
     },
     {
       "Name": "Welspun Corp Ltd",
       "Sector": "Materials",
       "Instruments": "Equity",
+      "Assets": "0.67%"
+    },
+    {
+      "Name": "GOVERNMENT OF INDIA 37435 091 DAYS TBILL 13AG26 FV RS 100",
+      "Sector": "Financial",
+      "Instruments": "Treasury Bills",
+      "Assets": "0.65%"
+    },
+    {
+      "Name": "GOVERNMENT OF INDIA 37448 091 DAYS TBILL 20AG26 FV RS 100",
+      "Sector": "Financial",
+      "Instruments": "Treasury Bills",
       "Assets": "0.64%"
     },
     {
       "Name": "Aditya Birla Fashion and Retail Ltd",
       "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
-      "Assets": "0.54%"
-    },
-    {
-      "Name": "HFCL Ltd",
-      "Sector": "Technology",
-      "Instruments": "Equity",
-      "Assets": "0.54%"
+      "Assets": "0.53%"
     },
     {
       "Name": "Poly Medicure Ltd",
       "Sector": "Healthcare",
       "Instruments": "Equity",
-      "Assets": "0.54%"
-    },
-    {
-      "Name": "GOVERNMENT OF INDIA 37175 091 DAYS TBILL 04JU26 FV RS 100",
-      "Sector": "Financial",
-      "Instruments": "Treasury Bills",
       "Assets": "0.47%"
-    },
-    {
-      "Name": "Nippon Life India Asset Management Ltd",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "0.44%"
-    },
-    {
-      "Name": "Tata Chemicals Ltd",
-      "Sector": "Materials",
-      "Instruments": "Equity",
-      "Assets": "0.44%"
     },
     {
       "Name": "Usha Martin Ltd",
       "Sector": "Materials",
       "Instruments": "Equity",
-      "Assets": "0.42%"
+      "Assets": "0.46%"
+    },
+    {
+      "Name": "GOVERNMENT OF INDIA 37175 091 DAYS TBILL 04JU26 FV RS 100",
+      "Sector": "Financial",
+      "Instruments": "Treasury Bills",
+      "Assets": "0.46%"
+    },
+    {
+      "Name": "Tata Chemicals Ltd",
+      "Sector": "Materials",
+      "Instruments": "Equity",
+      "Assets": "0.40%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 37391 091 DAYS TBILL 23JL26 FV RS 100",
       "Sector": "Financial",
       "Instruments": "Treasury Bills",
-      "Assets": "0.40%"
-    },
-    {
-      "Name": "ICICI Prudential Life Insurance Company Ltd",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "0.40%"
+      "Assets": "0.39%"
     },
     {
       "Name": "Indo Count Industries Ltd",
       "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
-      "Assets": "0.34%"
-    },
-    {
-      "Name": "Pfizer Ltd",
-      "Sector": "Healthcare",
-      "Instruments": "Equity",
-      "Assets": "0.34%"
-    },
-    {
-      "Name": "GOVERNMENT OF INDIA 37017 091 DAYS TBILL 07MY26 FV RS 100",
-      "Sector": "Financial",
-      "Instruments": "Treasury Bills",
-      "Assets": "0.33%"
+      "Assets": "0.38%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 37184 091 DAYS TBILL 11JU26 FV RS 100",
@@ -405,22 +393,46 @@
       "Name": "GOVERNMENT OF INDIA 37410 091 DAYS TBILL 30JL26 FV RS 100",
       "Sector": "Financial",
       "Instruments": "Treasury Bills",
-      "Assets": "0.33%"
+      "Assets": "0.32%"
     },
     {
-      "Name": "3M India Ltd",
-      "Sector": "Diversified",
+      "Name": "Pfizer Ltd",
+      "Sector": "Healthcare",
       "Instruments": "Equity",
-      "Assets": "0.33%"
+      "Assets": "0.32%"
+    },
+    {
+      "Name": "GOVERNMENT OF INDIA 37423 091 DAYS TBILL 06AG26 FV RS 100",
+      "Sector": "Financial",
+      "Instruments": "Treasury Bills",
+      "Assets": "0.32%"
     },
     {
       "Name": "Quant Healthcare Fund Direct - Growth",
       "Sector": "Unspecified",
       "Instruments": "Mutual Fund",
+      "Assets": "0.32%"
+    },
+    {
+      "Name": "GOVERNMENT OF INDIA 37456 091 DAYS TBILL 28AG26 FV RS 100",
+      "Sector": "Financial",
+      "Instruments": "Treasury Bills",
+      "Assets": "0.32%"
+    },
+    {
+      "Name": "3M India Ltd",
+      "Sector": "Diversified",
+      "Instruments": "Equity",
       "Assets": "0.31%"
     },
     {
-      "Name": "RBL Bank Ltd. 26-MAY-26",
+      "Name": "Nippon Life India Asset Management Ltd",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "0.26%"
+    },
+    {
+      "Name": "RBL Bank Ltd. 30-JUN-26",
       "Sector": "Financial",
       "Instruments": "Futures",
       "Assets": "0.22%"
@@ -429,7 +441,7 @@
       "Name": "Digitide Solutions Ltd",
       "Sector": "Industrials",
       "Instruments": "Equity",
-      "Assets": "0.19%"
+      "Assets": "0.16%"
     },
     {
       "Name": "ICICI Prudential Asset Management Company Ltd.",
@@ -459,13 +471,13 @@
       "Name": "Mahindra Holidays & Resorts India Ltd",
       "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
-      "Assets": "0.07%"
+      "Assets": "0.06%"
     },
     {
-      "Name": "Life Insurance Corporation of India",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "0.06%"
+      "Name": "Tech Mahindra Limited 30/06/2026",
+      "Sector": "Technology",
+      "Instruments": "Futures",
+      "Assets": "0.04%"
     },
     {
       "Name": "Quant Gilt Fund Direct - Growth",
@@ -477,7 +489,7 @@
       "Name": "Net Payables",
       "Sector": "Unspecified",
       "Instruments": "Net Payables",
-      "Assets": "-17.74%"
+      "Assets": "-16.14%"
     }
   ],
   "holding_analysis": {
@@ -561,10 +573,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+48.16%",
-        "5Y": "+91.04%",
-        "10Y": "+441.08%",
-        "All": "+854.60%"
+        "3Y": "+45.61%",
+        "5Y": "+87.76%",
+        "10Y": "+438.28%",
+        "All": "+851.61%"
       },
       {
         "Name": "Category average (Equity Multi Cap)",
@@ -688,8 +700,8 @@
     "address": "6th Floor, Sea Breeze Building,Appa Saheb Marathe Marg,Prabhadevi, Mumbai 400025"
   },
   "advanced_ratios": {
-    "top_5": "47%",
-    "top_20": "86%",
+    "top_5": "43%",
+    "top_20": "84%",
     "pe_ratio": 25.54,
     "pb_ratio": 2.37,
     "alpha": -1.38,
@@ -713,11 +725,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Multi Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Multi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Multi Cap Fund Direct Growth is 0.68% as of 14 Jun 2026..."
+      "answer": "The termExpense Ratioused for Quant Multi Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Multi Cap Fund Direct Growth is 0.68% as of 15 Jun 2026..."
     },
     {
       "question": "What is the AUM of Quant Multi Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Multi Cap Fund Direct Growth is ₹7,663.81Cr as of 14 Jun 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Multi Cap Fund Direct Growth is ₹7,663.81Cr as of 15 Jun 2026."
     },
     {
       "question": "How to Redeem Quant Multi Cap Fund Direct Growth?",
@@ -736,5 +748,5 @@
       "answer": "ThePE ratioratio of Quant Multi Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-06-14T08:58:29+0000"
+  "scraped_at": "2026-06-15T11:37:36+0000"
 }

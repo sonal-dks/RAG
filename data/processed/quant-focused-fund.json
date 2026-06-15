@@ -75,151 +75,169 @@
       "Name": "Repo",
       "Sector": "Unspecified",
       "Instruments": "Repo",
-      "Assets": "20.53%"
-    },
-    {
-      "Name": "Adani Enterprises Ltd",
-      "Sector": "Materials",
-      "Instruments": "Equity",
-      "Assets": "9.88%"
-    },
-    {
-      "Name": "Capri Global Capital Ltd",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "9.68%"
+      "Assets": "20.15%"
     },
     {
       "Name": "Adani Green Energy Ltd",
       "Sector": "Energy & Utilities",
       "Instruments": "Equity",
-      "Assets": "9.45%"
+      "Assets": "10.99%"
     },
     {
-      "Name": "Bharat Heavy Electricals Ltd. 26-MAY-26",
+      "Name": "Capri Global Capital Ltd",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "9.98%"
+    },
+    {
+      "Name": "Adani Enterprises Ltd",
+      "Sector": "Materials",
+      "Instruments": "Equity",
+      "Assets": "9.60%"
+    },
+    {
+      "Name": "Bharat Heavy Electricals Limited_30/06/2026",
       "Sector": "Industrials",
       "Instruments": "Futures",
-      "Assets": "9.08%"
+      "Assets": "9.31%"
     },
     {
-      "Name": "Samvardhana Motherson International Ltd",
-      "Sector": "Consumer Discretionary",
-      "Instruments": "Equity",
-      "Assets": "8.69%"
+      "Name": "Bharti Airtel Ltd. 30-JUN-26",
+      "Sector": "Technology",
+      "Instruments": "Futures",
+      "Assets": "8.61%"
     },
     {
       "Name": "HDFC Life Insurance Co Ltd",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "7.65%"
+      "Assets": "7.50%"
     },
     {
       "Name": "ICICI Prudential Asset Management Company Ltd.",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "7.12%"
+      "Assets": "7.41%"
     },
     {
-      "Name": "Reliance Industries Ltd",
-      "Sector": "Energy & Utilities",
+      "Name": "Samvardhana Motherson International Ltd",
+      "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
-      "Assets": "6.99%"
-    },
-    {
-      "Name": "Kotak Mahindra Bank Ltd",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "5.81%"
-    },
-    {
-      "Name": "PB Fintech Ltd. 26-MAY-26",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "5.67%"
+      "Assets": "7.13%"
     },
     {
       "Name": "ICICI Bank Ltd",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "5.38%"
+      "Assets": "6.96%"
     },
     {
-      "Name": "Tech Mahindra Ltd. 26-MAY-26",
+      "Name": "Reliance Industries Ltd",
+      "Sector": "Energy & Utilities",
+      "Instruments": "Equity",
+      "Assets": "6.24%"
+    },
+    {
+      "Name": "Tech Mahindra Limited 30/06/2026",
       "Sector": "Technology",
       "Instruments": "Futures",
-      "Assets": "4.98%"
+      "Assets": "4.85%"
     },
     {
-      "Name": "Bharti Airtel Ltd. 26-MAY-26",
-      "Sector": "Technology",
-      "Instruments": "Futures",
-      "Assets": "4.90%"
+      "Name": "Adani Transmission Ltd",
+      "Sector": "Energy & Utilities",
+      "Instruments": "Equity",
+      "Assets": "4.25%"
     },
     {
-      "Name": "RELIANCE_(26/05/2026)",
+      "Name": "Reliance Industries Ltd. 30-JUN-26",
       "Sector": "Energy & Utilities",
       "Instruments": "Futures",
-      "Assets": "2.57%"
+      "Assets": "2.30%"
     },
     {
-      "Name": "Power Finance Corporation Ltd",
+      "Name": "Varun Beverages Ltd. 30-JUN-26",
+      "Sector": "Consumer Staples",
+      "Instruments": "Futures",
+      "Assets": "1.24%"
+    },
+    {
+      "Name": "Divi's Laboratories Ltd. 30-JUN-26",
+      "Sector": "Healthcare",
+      "Instruments": "Futures",
+      "Assets": "1.16%"
+    },
+    {
+      "Name": "Fractal Analytics Ltd.",
+      "Sector": "Technology",
+      "Instruments": "Equity",
+      "Assets": "1.11%"
+    },
+    {
+      "Name": "Yes Bank Ltd",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "1.40%"
-    },
-    {
-      "Name": "GOVERNMENT OF INDIA 37017 091 DAYS TBILL 07MY26 FV RS 100",
-      "Sector": "Financial",
-      "Instruments": "Treasury Bills",
-      "Assets": "0.86%"
-    },
-    {
-      "Name": "GOVERNMENT OF INDIA 37077 091 DAYS TBILL 14MY26 FV RS 100",
-      "Sector": "Financial",
-      "Instruments": "Treasury Bills",
-      "Assets": "0.86%"
-    },
-    {
-      "Name": "GOVERNMENT OF INDIA 37086 091 DAYS TBILL 22MY26 FV RS 100",
-      "Sector": "Financial",
-      "Instruments": "Treasury Bills",
-      "Assets": "0.86%"
+      "Assets": "0.85%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 37410 091 DAYS TBILL 30JL26 FV RS 100",
       "Sector": "Financial",
       "Instruments": "Treasury Bills",
-      "Assets": "0.85%"
+      "Assets": "0.83%"
+    },
+    {
+      "Name": "GOVERNMENT OF INDIA 37423 091 DAYS TBILL 06AG26 FV RS 100",
+      "Sector": "Financial",
+      "Instruments": "Treasury Bills",
+      "Assets": "0.82%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 37175 091 DAYS TBILL 04JU26 FV RS 100",
       "Sector": "Financial",
       "Instruments": "Treasury Bills",
-      "Assets": "0.73%"
+      "Assets": "0.71%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 37184 091 DAYS TBILL 11JU26 FV RS 100",
       "Sector": "Financial",
       "Instruments": "Treasury Bills",
-      "Assets": "0.73%"
+      "Assets": "0.71%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 37370 091 DAYS TBILL 16JL26 FV RS 100",
       "Sector": "Financial",
       "Instruments": "Treasury Bills",
-      "Assets": "0.73%"
+      "Assets": "0.71%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 37391 091 DAYS TBILL 23JL26 FV RS 100",
       "Sector": "Financial",
       "Instruments": "Treasury Bills",
-      "Assets": "0.73%"
+      "Assets": "0.71%"
+    },
+    {
+      "Name": "GOVERNMENT OF INDIA 37435 091 DAYS TBILL 13AG26 FV RS 100",
+      "Sector": "Financial",
+      "Instruments": "Treasury Bills",
+      "Assets": "0.71%"
+    },
+    {
+      "Name": "GOVERNMENT OF INDIA 37448 091 DAYS TBILL 20AG26 FV RS 100",
+      "Sector": "Financial",
+      "Instruments": "Treasury Bills",
+      "Assets": "0.71%"
+    },
+    {
+      "Name": "GOVERNMENT OF INDIA 37456 091 DAYS TBILL 28AG26 FV RS 100",
+      "Sector": "Financial",
+      "Instruments": "Treasury Bills",
+      "Assets": "0.70%"
     },
     {
       "Name": "Net Payables",
       "Sector": "Unspecified",
       "Instruments": "Net Payables",
-      "Assets": "-26.13%"
+      "Assets": "-26.25%"
     }
   ],
   "holding_analysis": {
@@ -295,10 +313,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+63.72%",
-        "5Y": "+91.31%",
-        "10Y": "+327.59%",
-        "All": "+699.76%"
+        "3Y": "+58.78%",
+        "5Y": "+88.75%",
+        "10Y": "+320.77%",
+        "All": "+693.99%"
       },
       {
         "Name": "Category average (Equity Large Cap)",
@@ -422,8 +440,8 @@
     "address": "6th Floor, Sea Breeze Building,Appa Saheb Marathe Marg,Prabhadevi, Mumbai 400025"
   },
   "advanced_ratios": {
-    "top_5": "59%",
-    "top_20": "123%",
+    "top_5": "60%",
+    "top_20": "121%",
     "pe_ratio": 33.62,
     "pb_ratio": 3.8,
     "alpha": 6.1,
@@ -447,11 +465,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Focused Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Focused Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Focused Fund Direct Growth is 0.85% as of 14 Jun 2026..."
+      "answer": "The termExpense Ratioused for Quant Focused Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Focused Fund Direct Growth is 0.85% as of 15 Jun 2026..."
     },
     {
       "question": "What is the AUM of Quant Focused Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Focused Fund Direct Growth is ₹840.38Cr as of 14 Jun 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Focused Fund Direct Growth is ₹840.38Cr as of 15 Jun 2026."
     },
     {
       "question": "How to Redeem Quant Focused Fund Direct Growth?",
@@ -470,5 +488,5 @@
       "answer": "ThePE ratioratio of Quant Focused Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-06-14T08:58:29+0000"
+  "scraped_at": "2026-06-15T11:37:37+0000"
 }

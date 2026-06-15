@@ -72,184 +72,190 @@
   },
   "holdings": [
     {
-      "Name": "ICICI Bank Ltd",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "8.91%"
-    },
-    {
       "Name": "Adani Green Energy Ltd",
       "Sector": "Energy & Utilities",
       "Instruments": "Equity",
-      "Assets": "8.80%"
-    },
-    {
-      "Name": "Reliance Industries Ltd",
-      "Sector": "Energy & Utilities",
-      "Instruments": "Equity",
-      "Assets": "7.72%"
-    },
-    {
-      "Name": "Adani Power Ltd",
-      "Sector": "Energy & Utilities",
-      "Instruments": "Equity",
-      "Assets": "7.56%"
-    },
-    {
-      "Name": "Aurobindo Pharma Ltd",
-      "Sector": "Healthcare",
-      "Instruments": "Equity",
-      "Assets": "7.01%"
-    },
-    {
-      "Name": "Tech Mahindra Ltd",
-      "Sector": "Technology",
-      "Instruments": "Equity",
-      "Assets": "6.10%"
+      "Assets": "10.06%"
     },
     {
       "Name": "Adani Enterprises Ltd",
       "Sector": "Materials",
       "Instruments": "Equity",
-      "Assets": "5.66%"
+      "Assets": "9.80%"
     },
     {
-      "Name": "ICICI Prudential Asset Management Company Ltd.",
+      "Name": "ICICI Bank Ltd",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "4.77%"
+      "Assets": "8.43%"
     },
     {
-      "Name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 10NOV26",
-      "Sector": "Financial",
-      "Instruments": "Certificate of Deposit",
-      "Assets": "4.76%"
-    },
-    {
-      "Name": "GOVERNMENT OF INDIA 37088 364 DAYS TBILL 19FB27 FV RS 100",
-      "Sector": "Financial",
-      "Instruments": "Treasury Bills",
-      "Assets": "4.73%"
-    },
-    {
-      "Name": "HDFC Life Insurance Co Ltd",
-      "Sector": "Financial",
+      "Name": "Adani Power Ltd",
+      "Sector": "Energy & Utilities",
       "Instruments": "Equity",
-      "Assets": "4.48%"
+      "Assets": "7.90%"
     },
     {
-      "Name": "Samvardhana Motherson International Ltd",
-      "Sector": "Consumer Discretionary",
+      "Name": "Aurobindo Pharma Ltd",
+      "Sector": "Healthcare",
       "Instruments": "Equity",
-      "Assets": "4.15%"
+      "Assets": "6.79%"
+    },
+    {
+      "Name": "Reliance Industries Ltd",
+      "Sector": "Energy & Utilities",
+      "Instruments": "Equity",
+      "Assets": "6.78%"
     },
     {
       "Name": "Repo",
       "Sector": "Unspecified",
       "Instruments": "Repo",
-      "Assets": "3.66%"
+      "Assets": "6.56%"
+    },
+    {
+      "Name": "Tech Mahindra Ltd",
+      "Sector": "Technology",
+      "Instruments": "Equity",
+      "Assets": "5.85%"
+    },
+    {
+      "Name": "ICICI Prudential Asset Management Company Ltd.",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "4.88%"
+    },
+    {
+      "Name": "Samvardhana Motherson International Ltd",
+      "Sector": "Consumer Discretionary",
+      "Instruments": "Equity",
+      "Assets": "4.75%"
+    },
+    {
+      "Name": "SMALL INDUSTRIES DEVELOPMENT BANK OF INDIA CD 10NOV26",
+      "Sector": "Financial",
+      "Instruments": "Certificate of Deposit",
+      "Assets": "4.54%"
+    },
+    {
+      "Name": "GOVERNMENT OF INDIA 37088 364 DAYS TBILL 19FB27 FV RS 100",
+      "Sector": "Financial",
+      "Instruments": "Treasury Bills",
+      "Assets": "4.51%"
+    },
+    {
+      "Name": "HDFC Life Insurance Co Ltd",
+      "Sector": "Financial",
+      "Instruments": "Equity",
+      "Assets": "4.32%"
+    },
+    {
+      "Name": "Bharti Airtel Ltd. 30-JUN-26",
+      "Sector": "Technology",
+      "Instruments": "Futures",
+      "Assets": "2.94%"
     },
     {
       "Name": "CAPRI GLOBAL CAPITAL LIMITED 129D CP 31JUL26",
       "Sector": "Financial",
       "Instruments": "Commercial Paper",
-      "Assets": "2.42%"
+      "Assets": "2.31%"
+    },
+    {
+      "Name": "GOVERNMENT OF INDIA 37449 182 DAYS TBILL 19NV26 FV RS 100",
+      "Sector": "Financial",
+      "Instruments": "Treasury Bills",
+      "Assets": "2.29%"
     },
     {
       "Name": "STATE DEVELOPMENT LOAN 34879 MH 04SP35 7.23 FV RS 100",
       "Sector": "Unspecified",
       "Instruments": "State Development Loan",
-      "Assets": "2.40%"
-    },
-    {
-      "Name": "GOVERNMENT OF INDIA 36006 364 DAYS TBILL 21MY26 FV RS 100",
-      "Sector": "Financial",
-      "Instruments": "Treasury Bills",
-      "Assets": "2.32%"
-    },
-    {
-      "Name": "Varun Beverages Ltd",
-      "Sector": "Consumer Staples",
-      "Instruments": "Equity",
-      "Assets": "2.16%"
-    },
-    {
-      "Name": "Steel Authority Of India Ltd",
-      "Sector": "Materials",
-      "Instruments": "Equity",
-      "Assets": "2.07%"
-    },
-    {
-      "Name": "Bharat Electronics Ltd",
-      "Sector": "Industrials",
-      "Instruments": "Equity",
-      "Assets": "2.01%"
+      "Assets": "2.27%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 35031 GOI 07OT34 6.79 FV RS 100",
       "Sector": "Entities",
       "Instruments": "GOI Securities",
-      "Assets": "1.70%"
+      "Assets": "1.62%"
+    },
+    {
+      "Name": "Reliance Industries Ltd. 30-JUN-26",
+      "Sector": "Energy & Utilities",
+      "Instruments": "Futures",
+      "Assets": "1.46%"
+    },
+    {
+      "Name": "CAPRI GLOBAL CAPITAL LIMITED SR 1 TR I 9 NCD 30AP28 FVRS1000",
+      "Sector": "Financial",
+      "Instruments": "Debenture",
+      "Assets": "1.17%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 35840 GOI 15AP65 6.9 FV RS 100",
       "Sector": "Entities",
       "Instruments": "GOI Securities",
-      "Assets": "1.12%"
+      "Assets": "1.06%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 32584 GOI 06FB33 7.26 FV RS 100",
       "Sector": "Entities",
       "Instruments": "GOI Securities",
-      "Assets": "1.00%"
+      "Assets": "0.95%"
     },
     {
-      "Name": "Tech Mahindra Ltd. 26-MAY-26",
+      "Name": "Tech Mahindra Limited 30/06/2026",
       "Sector": "Technology",
       "Instruments": "Futures",
-      "Assets": "0.93%"
+      "Assets": "0.89%"
     },
     {
       "Name": "6.64% Government of India 16-Jun-2035",
       "Sector": "Entities",
       "Instruments": "GOI Securities",
-      "Assets": "0.88%"
+      "Assets": "0.84%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 32130 GS 12MAR2028 C STRIPS FV RS 100",
       "Sector": "Entities",
       "Instruments": "GOI Securities",
-      "Assets": "0.82%"
+      "Assets": "0.78%"
+    },
+    {
+      "Name": "HDFC Life Insurance Company Ltd. 30-JUN-26",
+      "Sector": "Financial",
+      "Instruments": "Futures",
+      "Assets": "0.76%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 32532 GOI SGRB 27JN33 7.29 FV RS 100",
       "Sector": "Entities",
       "Instruments": "GOI Securities",
-      "Assets": "0.50%"
+      "Assets": "0.48%"
     },
     {
       "Name": "Raajmarg Infra Investment Trust",
       "Sector": "Industrials",
       "Instruments": "Infrastructure Investment Trust",
-      "Assets": "0.49%"
-    },
-    {
-      "Name": "Net Current Assets",
-      "Sector": "Unspecified",
-      "Instruments": "Net Current Assets",
-      "Assets": "0.36%"
+      "Assets": "0.47%"
     },
     {
       "Name": "Quant Gilt Fund Direct - Growth",
       "Sector": "Unspecified",
       "Instruments": "Mutual Fund",
-      "Assets": "0.30%"
+      "Assets": "0.29%"
     },
     {
       "Name": "CENTRAL GOVERNMENT LOAN 30950 GOI 15NV26 5.74 FV RS 100",
       "Sector": "Entities",
       "Instruments": "GOI Securities",
-      "Assets": "0.20%"
+      "Assets": "0.19%"
+    },
+    {
+      "Name": "Net Payables",
+      "Sector": "Unspecified",
+      "Instruments": "Net Payables",
+      "Assets": "-5.93%"
     }
   ],
   "holding_analysis": {
@@ -308,8 +314,8 @@
       },
       {
         "Name": "Rank (Hybrid Aggressive Hybrid)",
-        "3Y": "4",
-        "5Y": "5",
+        "3Y": "5",
+        "5Y": "6",
         "10Y": "1",
         "All": "--"
       }
@@ -317,10 +323,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+59.29%",
-        "5Y": "+103.49%",
-        "10Y": "+370.14%",
-        "All": "+701.65%"
+        "3Y": "+56.17%",
+        "5Y": "+99.61%",
+        "10Y": "+364.36%",
+        "All": "+695.48%"
       },
       {
         "Name": "Category average (Hybrid Aggressive Hybrid)",
@@ -331,8 +337,8 @@
       },
       {
         "Name": "Rank (Hybrid Aggressive Hybrid)",
-        "3Y": "4",
-        "5Y": "5",
+        "3Y": "5",
+        "5Y": "6",
         "10Y": "1",
         "All": "--"
       }
@@ -444,8 +450,8 @@
     "address": "6th Floor, Sea Breeze Building,Appa Saheb Marathe Marg,Prabhadevi, Mumbai 400025"
   },
   "advanced_ratios": {
-    "top_5": "40%",
-    "top_20": "93%",
+    "top_5": "43%",
+    "top_20": "99%",
     "pe_ratio": 32.11,
     "pb_ratio": 3.81,
     "alpha": 0.0,
@@ -469,11 +475,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Aggressive Hybrid Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 0.75% as of 14 Jun 2026..."
+      "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 0.75% as of 15 Jun 2026..."
     },
     {
       "question": "What is the AUM of Quant Aggressive Hybrid Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹2,127.82Cr as of 14 Jun 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹2,127.82Cr as of 15 Jun 2026."
     },
     {
       "question": "How to Redeem Quant Aggressive Hybrid Fund Direct Growth?",
@@ -492,5 +498,5 @@
       "answer": "ThePE ratioratio of Quant Aggressive Hybrid Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-06-14T08:58:29+0000"
+  "scraped_at": "2026-06-15T11:37:36+0000"
 }

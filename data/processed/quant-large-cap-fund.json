@@ -73,13 +73,19 @@
       "Name": "Repo",
       "Sector": "Unspecified",
       "Instruments": "Repo",
-      "Assets": "20.92%"
+      "Assets": "20.21%"
     },
     {
-      "Name": "ICICI Bank Ltd",
-      "Sector": "Financial",
+      "Name": "Adani Green Energy Ltd",
+      "Sector": "Energy & Utilities",
       "Instruments": "Equity",
-      "Assets": "8.83%"
+      "Assets": "9.82%"
+    },
+    {
+      "Name": "Adani Enterprises Ltd",
+      "Sector": "Materials",
+      "Instruments": "Equity",
+      "Assets": "9.24%"
     },
     {
       "Name": "Samvardhana Motherson International Ltd",
@@ -88,166 +94,178 @@
       "Assets": "8.73%"
     },
     {
-      "Name": "Adani Green Energy Ltd",
-      "Sector": "Energy & Utilities",
+      "Name": "ICICI Bank Ltd",
+      "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "8.61%"
-    },
-    {
-      "Name": "Adani Enterprises Ltd",
-      "Sector": "Materials",
-      "Instruments": "Equity",
-      "Assets": "8.33%"
-    },
-    {
-      "Name": "Reliance Industries Ltd",
-      "Sector": "Energy & Utilities",
-      "Instruments": "Equity",
-      "Assets": "7.62%"
+      "Assets": "8.53%"
     },
     {
       "Name": "ICICI Prudential Asset Management Company Ltd.",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "7.20%"
+      "Assets": "7.35%"
+    },
+    {
+      "Name": "Reliance Industries Ltd",
+      "Sector": "Energy & Utilities",
+      "Instruments": "Equity",
+      "Assets": "6.67%"
+    },
+    {
+      "Name": "HDFC Life Insurance Company Ltd. 30-JUN-26",
+      "Sector": "Financial",
+      "Instruments": "Futures",
+      "Assets": "6.40%"
     },
     {
       "Name": "Capri Global Capital Ltd",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "6.21%"
-    },
-    {
-      "Name": "HDFC Life Insurance Company Ltd. 26-MAY-26",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "5.73%"
+      "Assets": "6.27%"
     },
     {
       "Name": "LG Electronics India Ltd.",
       "Sector": "Consumer Discretionary",
       "Instruments": "Equity",
-      "Assets": "4.61%"
+      "Assets": "5.77%"
+    },
+    {
+      "Name": "Tech Mahindra Limited 30/06/2026",
+      "Sector": "Technology",
+      "Instruments": "Futures",
+      "Assets": "4.87%"
     },
     {
       "Name": "Adani Transmission Ltd",
       "Sector": "Energy & Utilities",
       "Instruments": "Equity",
-      "Assets": "4.37%"
+      "Assets": "4.68%"
     },
     {
-      "Name": "State Bank of India 26/05/2026",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "3.76%"
-    },
-    {
-      "Name": "Kotak Mahindra Bank Ltd",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "3.08%"
-    },
-    {
-      "Name": "Tech Mahindra Ltd. 26-MAY-26",
+      "Name": "Bharti Airtel Ltd. 30-JUN-26",
       "Sector": "Technology",
       "Instruments": "Futures",
-      "Assets": "3.03%"
+      "Assets": "4.66%"
+    },
+    {
+      "Name": "Divi's Laboratories Ltd. 30-JUN-26",
+      "Sector": "Healthcare",
+      "Instruments": "Futures",
+      "Assets": "3.27%"
     },
     {
       "Name": "Bharti Airtel Ltd",
       "Sector": "Technology",
       "Instruments": "Equity",
-      "Assets": "2.99%"
+      "Assets": "2.75%"
     },
     {
-      "Name": "Bharti Airtel Ltd. 26-MAY-26",
+      "Name": "Varun Beverages Ltd. 30-JUN-26",
+      "Sector": "Consumer Staples",
+      "Instruments": "Futures",
+      "Assets": "2.58%"
+    },
+    {
+      "Name": "Tech Mahindra Ltd",
       "Sector": "Technology",
-      "Instruments": "Futures",
-      "Assets": "2.96%"
+      "Instruments": "Equity",
+      "Assets": "1.96%"
     },
     {
-      "Name": "Kotak Mahindra Bank Ltd. 26-MAY-26",
-      "Sector": "Financial",
-      "Instruments": "Futures",
-      "Assets": "2.36%"
-    },
-    {
-      "Name": "RELIANCE_(26/05/2026)",
+      "Name": "Reliance Industries Ltd. 30-JUN-26",
       "Sector": "Energy & Utilities",
       "Instruments": "Futures",
-      "Assets": "1.90%"
-    },
-    {
-      "Name": "State Bank of India",
-      "Sector": "Financial",
-      "Instruments": "Equity",
-      "Assets": "1.38%"
+      "Assets": "1.67%"
     },
     {
       "Name": "HDFC Life Insurance Co Ltd",
       "Sector": "Financial",
       "Instruments": "Equity",
-      "Assets": "1.19%"
+      "Assets": "1.14%"
     },
     {
-      "Name": "GOVERNMENT OF INDIA 37086 091 DAYS TBILL 22MY26 FV RS 100",
-      "Sector": "Financial",
-      "Instruments": "Treasury Bills",
-      "Assets": "1.06%"
+      "Name": "Divi's Laboratories Ltd",
+      "Sector": "Healthcare",
+      "Instruments": "Equity",
+      "Assets": "1.02%"
     },
     {
-      "Name": "GOVERNMENT OF INDIA 37077 091 DAYS TBILL 14MY26 FV RS 100",
+      "Name": "GOVERNMENT OF INDIA 37448 091 DAYS TBILL 20AG26 FV RS 100",
       "Sector": "Financial",
       "Instruments": "Treasury Bills",
-      "Assets": "0.80%"
+      "Assets": "0.90%"
+    },
+    {
+      "Name": "ICICI Bank Ltd. 30-JUN-26",
+      "Sector": "Financial",
+      "Instruments": "Futures",
+      "Assets": "0.86%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 37175 091 DAYS TBILL 04JU26 FV RS 100",
       "Sector": "Financial",
       "Instruments": "Treasury Bills",
-      "Assets": "0.80%"
+      "Assets": "0.76%"
     },
     {
-      "Name": "GOVERNMENT OF INDIA 37017 091 DAYS TBILL 07MY26 FV RS 100",
+      "Name": "GOVERNMENT OF INDIA 37435 091 DAYS TBILL 13AG26 FV RS 100",
       "Sector": "Financial",
       "Instruments": "Treasury Bills",
-      "Assets": "0.64%"
+      "Assets": "0.69%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 37391 091 DAYS TBILL 23JL26 FV RS 100",
       "Sector": "Financial",
       "Instruments": "Treasury Bills",
-      "Assets": "0.64%"
+      "Assets": "0.60%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 37410 091 DAYS TBILL 30JL26 FV RS 100",
       "Sector": "Financial",
       "Instruments": "Treasury Bills",
-      "Assets": "0.63%"
+      "Assets": "0.60%"
+    },
+    {
+      "Name": "GOVERNMENT OF INDIA 37423 091 DAYS TBILL 06AG26 FV RS 100",
+      "Sector": "Financial",
+      "Instruments": "Treasury Bills",
+      "Assets": "0.60%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 37184 091 DAYS TBILL 11JU26 FV RS 100",
       "Sector": "Financial",
       "Instruments": "Treasury Bills",
-      "Assets": "0.48%"
+      "Assets": "0.46%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 37221 091 DAYS TBILL 19JU26 FV RS 100",
       "Sector": "Financial",
       "Instruments": "Treasury Bills",
-      "Assets": "0.48%"
+      "Assets": "0.46%"
+    },
+    {
+      "Name": "GOVERNMENT OF INDIA 37456 091 DAYS TBILL 28AG26 FV RS 100",
+      "Sector": "Financial",
+      "Instruments": "Treasury Bills",
+      "Assets": "0.45%"
     },
     {
       "Name": "GOVERNMENT OF INDIA 37370 091 DAYS TBILL 16JL26 FV RS 100",
       "Sector": "Financial",
       "Instruments": "Treasury Bills",
-      "Assets": "0.32%"
+      "Assets": "0.30%"
+    },
+    {
+      "Name": "Samvardhana Motherson International Ltd. 30-JUN-26",
+      "Sector": "Consumer Discretionary",
+      "Instruments": "Futures",
+      "Assets": "0.21%"
     },
     {
       "Name": "Net Payables",
       "Sector": "Unspecified",
       "Instruments": "Net Payables",
-      "Assets": "-19.66%"
+      "Assets": "-24.50%"
     }
   ],
   "holding_analysis": {
@@ -319,10 +337,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "6M": "+1.48%",
-        "1Y": "+6.95%",
-        "3Y": "+63.18%",
-        "All": "+63.76%"
+        "6M": "+0.97%",
+        "1Y": "+4.74%",
+        "3Y": "+59.36%",
+        "All": "+62.85%"
       },
       {
         "Name": "Category average (Equity Large Cap)",
@@ -446,8 +464,8 @@
     "address": "6th Floor, Sea Breeze Building,Appa Saheb Marathe Marg,Prabhadevi, Mumbai 400025"
   },
   "advanced_ratios": {
-    "top_5": "55%",
-    "top_20": "114%",
+    "top_5": "57%",
+    "top_20": "118%",
     "pe_ratio": 33.94,
     "pb_ratio": 4.07,
     "alpha": 1.11,
@@ -471,11 +489,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Large Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Large Cap Fund Direct Growth is 0.49% as of 14 Jun 2026..."
+      "answer": "The termExpense Ratioused for Quant Large Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Large Cap Fund Direct Growth is 0.49% as of 15 Jun 2026..."
     },
     {
       "question": "What is the AUM of Quant Large Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Large Cap Fund Direct Growth is ₹3,281.16Cr as of 14 Jun 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Large Cap Fund Direct Growth is ₹3,281.16Cr as of 15 Jun 2026."
     },
     {
       "question": "How to Redeem Quant Large Cap Fund Direct Growth?",
@@ -494,5 +512,5 @@
       "answer": "ThePE ratioratio of Quant Large Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-06-14T08:58:29+0000"
+  "scraped_at": "2026-06-15T11:37:36+0000"
 }
