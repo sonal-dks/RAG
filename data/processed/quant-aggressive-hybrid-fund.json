@@ -5,7 +5,7 @@
   "basic_info": {
     "nav": "514.22",
     "nav_date": "19 Jun '26",
-    "expense_ratio_pct": "3.21",
+    "expense_ratio_pct": "0.74",
     "min_sip": "1,000"
   },
   "fund_category_and_risk": {
@@ -315,7 +315,7 @@
       {
         "Name": "Rank (Hybrid Aggressive Hybrid)",
         "3Y": "5",
-        "5Y": "5",
+        "5Y": "6",
         "10Y": "1",
         "All": "--"
       }
@@ -338,7 +338,7 @@
       {
         "Name": "Rank (Hybrid Aggressive Hybrid)",
         "3Y": "5",
-        "5Y": "5",
+        "5Y": "6",
         "10Y": "1",
         "All": "--"
       }
@@ -347,7 +347,43 @@
   "exit_load": "Exit load of 1% if redeemed within 1 year",
   "stamp_duty": "Stamp duty on investment: 0.005%",
   "tax_implication": "If you redeem within one year, returns are taxed at 20%. If you redeem after one year, returns exceeding Rs 1.25 lakh in a financial year are taxed at 12.5%.",
-  "similar_funds": [],
+  "similar_funds": [
+    {
+      "": "",
+      "Name": "ICICI Prudential Equity & Debt Fund Direct Growth",
+      "1Y": "+4.73%",
+      "3Y": "+16.96%",
+      "Fund Size(Cr)": "50,032.71"
+    },
+    {
+      "": "",
+      "Name": "Edelweiss Aggressive Hybrid Fund Direct Growth",
+      "1Y": "+4.28%",
+      "3Y": "+15.71%",
+      "Fund Size(Cr)": "3,667.10"
+    },
+    {
+      "": "",
+      "Name": "SBI Equity Hybrid Fund Direct Plan Growth",
+      "1Y": "+5.48%",
+      "3Y": "+14.07%",
+      "Fund Size(Cr)": "84,010.97"
+    },
+    {
+      "": "",
+      "Name": "Nippon India Aggressive Hybrid Fund Direct Growth",
+      "1Y": "+3.94%",
+      "3Y": "+13.23%",
+      "Fund Size(Cr)": "3,937.15"
+    },
+    {
+      "": "",
+      "Name": "Franklin India Aggressive Hybrid Fund Direct Growth",
+      "1Y": "-0.20%",
+      "3Y": "+12.67%",
+      "Fund Size(Cr)": "2,289.68"
+    }
+  ],
   "fund_managers": [
     {
       "name": "Varun Pattani",
@@ -439,11 +475,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Aggressive Hybrid Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 3.21% as of 20 Jun 2026..."
+      "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 0.74% as of 21 Jun 2026..."
     },
     {
       "question": "What is the AUM of Quant Aggressive Hybrid Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹2,127.82Cr as of 20 Jun 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹2,127.82Cr as of 21 Jun 2026."
     },
     {
       "question": "How to Redeem Quant Aggressive Hybrid Fund Direct Growth?",
@@ -462,5 +498,5 @@
       "answer": "ThePE ratioratio of Quant Aggressive Hybrid Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-06-20T08:37:13+0000"
+  "scraped_at": "2026-06-21T09:13:43+0000"
 }

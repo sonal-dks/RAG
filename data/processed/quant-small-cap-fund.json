@@ -5,7 +5,7 @@
   "basic_info": {
     "nav": "305.71",
     "nav_date": "19 Jun '26",
-    "expense_ratio_pct": "0.78",
+    "expense_ratio_pct": "0.68",
     "min_sip": "1,000"
   },
   "fund_category_and_risk": {
@@ -855,7 +855,7 @@
       {
         "Name": "Rank (Equity Small Cap)",
         "3Y": "9",
-        "5Y": "4",
+        "5Y": "3",
         "10Y": "--",
         "All": "--"
       }
@@ -878,7 +878,7 @@
       {
         "Name": "Rank (Equity Small Cap)",
         "3Y": "9",
-        "5Y": "4",
+        "5Y": "3",
         "10Y": "--",
         "All": "--"
       }
@@ -1009,11 +1009,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Small Cap Fund Direct Plan Growth?",
-      "answer": "The termExpense Ratioused for Quant Small Cap Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Small Cap Fund Direct Plan Growth is 0.78% as of 20 Jun 2026..."
+      "answer": "The termExpense Ratioused for Quant Small Cap Fund Direct Plan Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Small Cap Fund Direct Plan Growth is 0.68% as of 21 Jun 2026..."
     },
     {
       "question": "What is the AUM of Quant Small Cap Fund Direct Plan Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Small Cap Fund Direct Plan Growth is ₹31,773.74Cr as of 20 Jun 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Small Cap Fund Direct Plan Growth is ₹31,773.74Cr as of 21 Jun 2026."
     },
     {
       "question": "How to Redeem Quant Small Cap Fund Direct Plan Growth?",
@@ -1032,5 +1032,5 @@
       "answer": "ThePE ratioratio of Quant Small Cap Fund Direct Plan Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-06-20T08:37:12+0000"
+  "scraped_at": "2026-06-21T09:13:42+0000"
 }
