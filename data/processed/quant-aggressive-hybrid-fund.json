@@ -323,10 +323,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+56.17%",
-        "5Y": "+99.61%",
-        "10Y": "+364.36%",
-        "All": "+695.48%"
+        "3Y": "+57.46%",
+        "5Y": "+104.54%",
+        "10Y": "+375.57%",
+        "All": "+709.79%"
       },
       {
         "Name": "Category average (Hybrid Aggressive Hybrid)",
@@ -475,11 +475,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Aggressive Hybrid Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 0.74% as of 21 Jun 2026..."
+      "answer": "The termExpense Ratioused for Quant Aggressive Hybrid Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Aggressive Hybrid Fund Direct Growth is 0.74% as of 22 Jun 2026..."
     },
     {
       "question": "What is the AUM of Quant Aggressive Hybrid Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹2,127.82Cr as of 21 Jun 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Aggressive Hybrid Fund Direct Growth is ₹2,127.82Cr as of 22 Jun 2026."
     },
     {
       "question": "How to Redeem Quant Aggressive Hybrid Fund Direct Growth?",
@@ -498,5 +498,5 @@
       "answer": "ThePE ratioratio of Quant Aggressive Hybrid Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-06-21T09:13:43+0000"
+  "scraped_at": "2026-06-22T11:19:48+0000"
 }

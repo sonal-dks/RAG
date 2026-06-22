@@ -383,10 +383,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+61.72%",
-        "5Y": "+126.00%",
-        "10Y": "+431.02%",
-        "All": "+699.54%"
+        "3Y": "+62.75%",
+        "5Y": "+133.38%",
+        "10Y": "+445.87%",
+        "All": "+721.92%"
       },
       {
         "Name": "Category average (Equity Mid Cap)",
@@ -529,11 +529,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Mid Cap Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 0.74% as of 21 Jun 2026..."
+      "answer": "The termExpense Ratioused for Quant Mid Cap Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Mid Cap Fund Direct Growth is 0.74% as of 22 Jun 2026..."
     },
     {
       "question": "What is the AUM of Quant Mid Cap Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹8,109.12Cr as of 21 Jun 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Mid Cap Fund Direct Growth is ₹8,109.12Cr as of 22 Jun 2026."
     },
     {
       "question": "How to Redeem Quant Mid Cap Fund Direct Growth?",
@@ -552,5 +552,5 @@
       "answer": "ThePE ratioratio of Quant Mid Cap Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-06-21T09:13:42+0000"
+  "scraped_at": "2026-06-22T11:19:47+0000"
 }

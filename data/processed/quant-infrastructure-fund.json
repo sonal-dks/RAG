@@ -5,7 +5,7 @@
   "basic_info": {
     "nav": "46.41",
     "nav_date": "19 Jun '26",
-    "expense_ratio_pct": "0.79",
+    "expense_ratio_pct": "0.76",
     "min_sip": "1,000"
   },
   "fund_category_and_risk": {
@@ -377,10 +377,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "3Y": "+80.34%",
-        "5Y": "+156.50%",
-        "10Y": "+587.48%",
-        "All": "+756.86%"
+        "3Y": "+83.77%",
+        "5Y": "+168.22%",
+        "10Y": "+605.67%",
+        "All": "+780.06%"
       },
       {
         "Name": "Category average (Equity Sectoral)",
@@ -493,11 +493,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant Infrastructure Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant Infrastructure Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Infrastructure Fund Direct Growth is 0.79% as of 20 Jun 2026..."
+      "answer": "The termExpense Ratioused for Quant Infrastructure Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant Infrastructure Fund Direct Growth is 0.76% as of 22 Jun 2026..."
     },
     {
       "question": "What is the AUM of Quant Infrastructure Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant Infrastructure Fund Direct Growth is ₹3,193.89Cr as of 20 Jun 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant Infrastructure Fund Direct Growth is ₹3,193.89Cr as of 22 Jun 2026."
     },
     {
       "question": "How to Redeem Quant Infrastructure Fund Direct Growth?",
@@ -516,5 +516,5 @@
       "answer": "ThePE ratioratio of Quant Infrastructure Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-06-20T08:37:12+0000"
+  "scraped_at": "2026-06-22T11:19:47+0000"
 }

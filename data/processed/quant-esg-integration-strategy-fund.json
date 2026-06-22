@@ -314,10 +314,10 @@
     "absolute_returns": [
       {
         "Name": "Fund returns",
-        "1Y": "+13.34%",
-        "3Y": "+78.37%",
-        "5Y": "+161.28%",
-        "All": "+307.26%"
+        "1Y": "+20.17%",
+        "3Y": "+81.61%",
+        "5Y": "+170.25%",
+        "All": "+322.99%"
       },
       {
         "Name": "Category average (Equity Thematic)",
@@ -424,11 +424,11 @@
     },
     {
       "question": "How much expense ratio is charged by Quant ESG Integration Strategy Fund Direct Growth?",
-      "answer": "The termExpense Ratioused for Quant ESG Integration Strategy Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ESG Integration Strategy Fund Direct Growth is 0.93% as of 21 Jun 2026..."
+      "answer": "The termExpense Ratioused for Quant ESG Integration Strategy Fund Direct Growth or any other mutual fund is the annual charges one needs to pay to the Mutual Fund company for managing your investments in that fund.The Expense Ratio of Quant ESG Integration Strategy Fund Direct Growth is 0.93% as of 22 Jun 2026..."
     },
     {
       "question": "What is the AUM of Quant ESG Integration Strategy Fund Direct Growth?",
-      "answer": "The AUM, short forAssets Under Managementof Quant ESG Integration Strategy Fund Direct Growth is ₹294.07Cr as of 21 Jun 2026."
+      "answer": "The AUM, short forAssets Under Managementof Quant ESG Integration Strategy Fund Direct Growth is ₹294.07Cr as of 22 Jun 2026."
     },
     {
       "question": "How to Redeem Quant ESG Integration Strategy Fund Direct Growth?",
@@ -447,5 +447,5 @@
       "answer": "ThePE ratioratio of Quant ESG Integration Strategy Fund Direct Growth is determined by dividing the market price by its earnings per share and thePB ratioof the same is evaluated by dividing the stock price per share by its book value per share (BVPS)."
     }
   ],
-  "scraped_at": "2026-06-21T09:13:42+0000"
+  "scraped_at": "2026-06-22T11:19:47+0000"
 }
